@@ -2,7 +2,7 @@
 title: About
 
 ---
-# nListed
+# Listed
 
 Listed is a minimalistic Hugo blogging theme.
 
