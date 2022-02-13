@@ -2,7 +2,7 @@
 title: About
 
 ---
-# Listed
+# poiListed
 
 Listed is a minimalistic Hugo blogging theme.
 
