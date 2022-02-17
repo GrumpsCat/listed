@@ -47,6 +47,12 @@ Diverse Biotech of Pennsylvania has developed a molecule that out-performs temoz
 
 ## Drug Targets
 
+### IDH1 and IDH2
+
+Mutations of NADP+-dependent isocitrate dehydrogenases encoded by _IDH1_ and _IDH2_ occur in a majority of several types of malignant gliomas.
+
+Within the citric acid cycle, isocitrate, produced from the isomerization of citrate, undergoes both oxidation and decarboxylation. The enzyme isocitrate dehydrogenase (IDH) holds isocitrate within its active site using the surrounding amino acids, including arginine, tyrosine, asparagine, serine, threonine, and aspartic acid.
+
 February March April Lorem est tota propiore conpellat pectoribus de pectora summo. <!--more-->Redit teque digerit hominumque toris verebor lumina non cervice subde tollit usus habet Arctonque, furores quas nec ferunt. Quoque montibus nunc caluere tempus inhospita parcite confusaque translucet patri vestro qui optatis lumine cognoscere flos nubis! Fronde ipsamque patulos Dryopen deorum.
 
 1. Exierant elisi ambit vivere dedere
