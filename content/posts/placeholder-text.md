@@ -39,6 +39,14 @@ In the peripheral nervous system, glial cells include:
 
 Glial cells are like the connective tissue of the brain. Inflammation of glial cells is related to neurodegenerative diseases. 
 
+The glioblastoma market could be a $1.4 billion market by 2025. 
+
+Examples of drugs include **Pritumumab**, a mo noclonal antibody developed by Nascent Biotech, Inc. of Florida, that targets the ecto-domain vimentin, a filament protein that is expressed in mesenchymal cells, that is expressed on the cell surface of a variety of adenocarcinomas, including brain cancers and melanoma, but not expressed by normal tissues and cells.
+
+Diverse Biotech of Pennsylvania has developed a molecule that out-performs temozolomide (Temodar®) for glioblastoma, which acts as an allylating agent. 
+
+## Drug Targets
+
 February March April Lorem est tota propiore conpellat pectoribus de pectora summo. <!--more-->Redit teque digerit hominumque toris verebor lumina non cervice subde tollit usus habet Arctonque, furores quas nec ferunt. Quoque montibus nunc caluere tempus inhospita parcite confusaque translucet patri vestro qui optatis lumine cognoscere flos nubis! Fronde ipsamque patulos Dryopen deorum.
 
 1. Exierant elisi ambit vivere dedere
