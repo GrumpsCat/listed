@@ -55,6 +55,10 @@ Yan, Hai, et al. "IDH1 and IDH2 mutations in gliomas." _New England journal of m
 
 Within the citric acid cycle, isocitrate, produced from the isomerization of citrate, undergoes both oxidation and decarboxylation. The enzyme isocitrate dehydrogenase (IDH) holds isocitrate within its active site using the surrounding amino acids, including arginine, tyrosine, asparagine, serine, threonine, and aspartic acid.
 
+Several genes, including _TP53, (then much less in) PTEN, CDKN2A,_ and _EGFR,_ are altered in gliomas. 
+
+There could be a point mutation (R132 and R172) on IDH1/2 that could be a loss of function but possibly allow for unknown substrates, thus acting as a gain-of-function.
+
 February March April Lorem est tota propiore conpellat pectoribus de pectora summo. <!--more-->Redit teque digerit hominumque toris verebor lumina non cervice subde tollit usus habet Arctonque, furores quas nec ferunt. Quoque montibus nunc caluere tempus inhospita parcite confusaque translucet patri vestro qui optatis lumine cognoscere flos nubis! Fronde ipsamque patulos Dryopen deorum.
 
 1. Exierant elisi ambit vivere dedere
