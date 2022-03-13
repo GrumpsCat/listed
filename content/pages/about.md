@@ -4,16 +4,10 @@ title: About
 ---
 # Hi, it's Greg.
 
-* I write about topic I'm interested in 
-* I update most post continuously. 
+* I write about various topics I want to explore more.
+* I update most post continuously.
 * Inline CSS
 * Anchor headings
 * Tags
 * 404 page
 * Compressed CSS and HTML
-* 100/100 score on Lighthouse, Page Speed Insights & Webpagetest
-* Robots.txt
-* Atom & Json feeds
-* Sass
-* Seo optimized (Twitter cards, Facebook Open Graph, Schema.org)
-* Ultra fast
