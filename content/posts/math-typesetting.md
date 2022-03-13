@@ -8,6 +8,12 @@ math: true
 ---
 ## What is sleep?
 
+Sleep is "a reversible behavioral state of perceptual disengagement from and unresponsiveness to the environment." (Carskadon 2005). 
+
+Physiologically,  sleep can be broken down into two states, rapid eye movement (REM) and non-REM (NREM) states. 
+
+NREM can be thought of as having an inactive brain in a moveable body. NREM has four stages (1, 2, 3 and 4) where arousal is lowest in 1 and highest in 4. 
+
 [Carskadon, Mary A., and William C. Dement. "Normal human sleep: an overview." _Principles and practice of sleep medicine_4.1 (2005): 13-23.](https://git.auror.ar/maltalef/tesina-2021/raw/commit/f2792d0b3f0a85574de5d24a8521bccc2c44b168/material-de-lectura/carskadon2011.pdf)
 
 ## What is the physiology of sleep?
