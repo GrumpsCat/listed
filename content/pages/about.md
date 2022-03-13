@@ -2,13 +2,9 @@
 title: About
 
 ---
-# poiListed
+# Hi, it's Greg.
 
-Listed is a minimalistic Hugo blogging theme.
-
-### Features
-
-* Minimalistic, clean and simple design
+* I write about topic I'm interested in 
 * Responsive design
 * Inline CSS
 * Anchor headings
