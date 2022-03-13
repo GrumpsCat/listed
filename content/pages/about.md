@@ -4,10 +4,9 @@ title: About
 ---
 # Hi, it's Greg.
 
-* I write about various topics I want to explore more.
-* I update most post continuously.
-* Inline CSS
-* Anchor headings
+* I write about various topics
+* I update most post continuously and irregularly.
+* All information should have citations. 
 * Tags
 * 404 page
 * Compressed CSS and HTML
