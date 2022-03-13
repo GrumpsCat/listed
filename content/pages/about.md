@@ -5,7 +5,7 @@ title: About
 # Hi, it's Greg.
 
 * I write about topic I'm interested in 
-* Responsive design
+* I update most post continuously. 
 * Inline CSS
 * Anchor headings
 * Tags
