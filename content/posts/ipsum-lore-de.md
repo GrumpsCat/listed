@@ -1,6 +1,6 @@
 ---
-title: Loremratione voluptatem
-description: Sed ut perspiciatis unde omnis iste natus error sit voluptatem
+title: Can you take a pill to change your personality?
+description: Genes, Drugs and Personality
 date: 2014-09-08
 tags:
 - Genes
