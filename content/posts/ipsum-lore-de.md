@@ -24,6 +24,8 @@ Ayahuasca stimulate neurotrophic (peptides or small proteins that support neuron
 
 Riba (2015) examined brain structure differences and personality changes in  22 Ayahuasca consumers versus 22 control members. They found ayahuasca users had thinning in the posterior cingulate cortex (PCC) versus non-users. They found that cortical thickness was inversely correlated with ayahuasca use.
 
+![](/uploads/medial_surface_of_cerebral_cortex_-_gyri.png)[Cerebral Cortex - Wikimedia Commons](https://www.google.com/imgres?imgurl=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fe%2Fe4%2FMedial_surface_of_cerebral_cortex_-_gyri.png&imgrefurl=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3AMedial_surface_of_cerebral_cortex_-_gyri.png&tbnid=8FggyF-yKAOmIM&vet=12ahUKEwiMnfae89j2AhXzBDQIHaLWBdIQMygBegQIARBh..i&docid=5aTNIHLjVl0NOM&w=1179&h=747&q=posterior%20cingulate%20cortex&hl=en&client=safari&ved=2ahUKEwiMnfae89j2AhXzBDQIHaLWBdIQMygBegQIARBh)
+
 The PCC is implicated in autobiographical memory retrieval ([Maddock 2001](https://www.sciencedirect.com/science/article/pii/S0306452201001087)), scene construction ([Irish 2015](https://www.sciencedirect.com/science/article/abs/pii/S0010945215002920)), strategy ([Wan 2015](https://www.nature.com/articles/nn.3999)) and mediation ([Brewer 2013](https://nyaspubs.onlinelibrary.wiley.com/doi/abs/10.1111/nyas.12246)) to name a few functions.
 
 The study measured four primary dimensions of temperament:
