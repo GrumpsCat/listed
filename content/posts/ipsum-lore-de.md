@@ -21,3 +21,9 @@ tags:
 The active ingredient that causes the psychedelic experience is N,N-Dimethyltryptamine (DMT). It is a structural analog of tryptamine, which activates 5-HT4 receptors. Also, DMT has to be consumed with a monoamine oxidase inhibitor (MAOI) to prevent the metabolism of DMT. 
 
 Ayahuasca stimulate neurotrophic (peptides or small proteins that support neurons) and transcription factors associated with synaptic plasticity (the strengthening or weakening of synapses).
+
+Riba (2015) examined brain structure differences and personality changes in  22 Ayahuasca consumers versus 22 control members. They found ayahuasca users had thinning in the posterior cingulate cortex (PCC)
+
+The PCC is implicated in autobiographical memory retrieval ([Maddock 2001](https://www.sciencedirect.com/science/article/pii/S0306452201001087)), scene construction ([Irish 2015](https://www.sciencedirect.com/science/article/abs/pii/S0010945215002920)), strategy ([Wan 2015](https://www.nature.com/articles/nn.3999)) and mediation ([Brewer 2013](https://nyaspubs.onlinelibrary.wiley.com/doi/abs/10.1111/nyas.12246)) to name a few functions.
+
+[Long-term use of psychedelic drugs is associated with differences in brain structure and personality in humans](https://www.sciencedirect.com/science/article/abs/pii/S0924977X15000097)
