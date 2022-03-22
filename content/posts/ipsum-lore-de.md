@@ -16,4 +16,4 @@ tags:
 
 # Psychedelics like ayahuasca change the brain
 
-**Ayahuasca** is a brew or tea of the vine _Banisteriopsis caapi_, the _Psychotria viridis_ shrub. A shrub is a shorter tree whereas a vine has a stem that requires support. 
+**Ayahuasca** is a brew or tea consumed in South America of the vine _Banisteriopsis caapi_ and the shrub _Psychotria viridis_. A shrub is a short tree whereas a vine has a stem that requires support. The active ingredient is N,N-Dimethyltryptamine (DMT) to cause a a psychedelic experience. It is a structural analog of tryptamine, which activates 5-HT4 receptors. Also, DMT has to be consumed with a monoamine oxidase inhibitor (MAOI) to prevent the metabolism of DMT
