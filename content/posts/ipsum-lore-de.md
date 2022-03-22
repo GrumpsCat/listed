@@ -8,3 +8,7 @@ tags:
 
 ---
 # Can you take a pill to change your personality?
+
+## How can we measure personality?
+
+Are genes associated with personality traits?
