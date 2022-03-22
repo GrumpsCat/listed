@@ -16,9 +16,9 @@ tags:
 
 # Psychedelics like ayahuasca change the brain
 
-**Ayahuasca** is a brew or tea consumed in South America consisting of the vine _Banisteriopsis caapi_ and the shrub _Psychotria viridis_ that causes hallucinations. 
+**Ayahuasca** is a brew or tea consumed in South America consisting of the vine _Banisteriopsis caapi_ and the shrub _Psychotria viridis_ that causes hallucinations.
 
-The active ingredient that causes the psychedelic experience is N,N-Dimethyltryptamine (DMT). It is a structural analog of tryptamine, which activates 5-HT4 receptors. Also, DMT has to be consumed with a monoamine oxidase inhibitor (MAOI) to prevent the metabolism of DMT. 
+The active ingredient that causes the psychedelic experience is N,N-Dimethyltryptamine (DMT). It is a structural analog of tryptamine, which activates 5-HT4 receptors. Also, DMT has to be consumed with a monoamine oxidase inhibitor (MAOI) to prevent the metabolism of DMT.
 
 Ayahuasca stimulate neurotrophic (peptides or small proteins that support neurons) and transcription factors associated with synaptic plasticity (the strengthening or weakening of synapses).
 
@@ -33,7 +33,7 @@ The study measured four primary dimensions of temperament:
 1. harm avoidance
 2. novelty seeking
 3. reward dependence
-4. persistence. 
+4. persistence.
 
 And also measured three primary dimensions of character:
 
@@ -43,7 +43,7 @@ And also measured three primary dimensions of character:
 
 In the study, ayahuasca users scored higher on self-transcendence, or religiousness and spirituality. This is consistent with a previous study and associated with a thinning of the PCC.
 
-Thus, character does have a neural basis and is related to, changed or adapted from drug use. 
+Thus, character does have a neural basis and is related to, changed or adapted from drug use.
 
 They further note that single dose of psilocybin can lead to increases in the trait of openness, an aspect of personality that is closely related to self-transcendence.
 
