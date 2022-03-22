@@ -22,8 +22,21 @@ The active ingredient that causes the psychedelic experience is N,N-Dimethyltryp
 
 Ayahuasca stimulate neurotrophic (peptides or small proteins that support neurons) and transcription factors associated with synaptic plasticity (the strengthening or weakening of synapses).
 
-Riba (2015) examined brain structure differences and personality changes in  22 Ayahuasca consumers versus 22 control members. They found ayahuasca users had thinning in the posterior cingulate cortex (PCC)
+Riba (2015) examined brain structure differences and personality changes in  22 Ayahuasca consumers versus 22 control members. They found ayahuasca users had thinning in the posterior cingulate cortex (PCC) versus non-users. They found that cortical thickness was inversely correlated with ayahuasca use.
 
 The PCC is implicated in autobiographical memory retrieval ([Maddock 2001](https://www.sciencedirect.com/science/article/pii/S0306452201001087)), scene construction ([Irish 2015](https://www.sciencedirect.com/science/article/abs/pii/S0010945215002920)), strategy ([Wan 2015](https://www.nature.com/articles/nn.3999)) and mediation ([Brewer 2013](https://nyaspubs.onlinelibrary.wiley.com/doi/abs/10.1111/nyas.12246)) to name a few functions.
+
+The study measured four primary dimensions of temperament:
+
+1. harm avoidance
+2. novelty seeking
+3. reward dependence
+4. persistence. 
+
+And also measured three primary dimensions of character:
+
+1. self-directedness
+2. cooperativeness
+3. self-transcendence (ST)
 
 [Long-term use of psychedelic drugs is associated with differences in brain structure and personality in humans](https://www.sciencedirect.com/science/article/abs/pii/S0924977X15000097)
