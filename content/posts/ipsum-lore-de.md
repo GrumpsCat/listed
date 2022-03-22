@@ -8,8 +8,6 @@ tags:
 - Drugs
 
 ---
-# Can you take a pill to change your personality?
+# First, is there a biological basis for personality?
 
-## How can we measure personality?
-
-## Are genes associated with personality traits?
+# Are specific genes associated with personality traits?
