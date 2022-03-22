@@ -37,6 +37,12 @@ And also measured three primary dimensions of character:
 
 1. self-directedness
 2. cooperativeness
-3. self-transcendence (ST)
+3. self-transcendence
+
+In the study, ayahuasca users scored higher on self-transcendence, or religiousness and spirituality. This is consistent with a previous study and associated with a thinning of the PCC.
+
+Thus, character does have a neural basis and is related to, changed or adapted from drug use. 
+
+They further note that single dose of psilocybin can lead to increases in the trait of openness, an aspect of personality that is closely related to self-transcendence.
 
 [Long-term use of psychedelic drugs is associated with differences in brain structure and personality in humans](https://www.sciencedirect.com/science/article/abs/pii/S0924977X15000097)
