@@ -6,6 +6,7 @@ tags:
 - Genes
 - Personality
 - Drugs
+draft: true
 
 ---
 # First, how do we define a personality?
