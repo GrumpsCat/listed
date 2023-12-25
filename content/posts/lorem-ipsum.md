@@ -1,9 +1,8 @@
 +++
 date = 2017-03-11T00:00:00Z
 description = "Custom description (max 160 characters)"
-draft = FALSE
 tags = ["markdown", "css", "html", "themes"]
-title = "Lorem ipsum dolores eos qui ratione voluptatem m"
+title = "New Post"
 
 +++
 
