@@ -1,7 +1,7 @@
 +++
 author = "Hugo Authors"
 date = 2021-12-07T08:00:00Z
-description = "Lorem Ipsum Dolor Si Amet"
+description = "Tumors"
 tags = ["markdown", "text"]
 title = "Tumors"
 
