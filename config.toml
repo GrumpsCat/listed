@@ -1,6 +1,6 @@
 baseURL = ""
 languageCode = "en-us"
-title = "Liste"
+title = "Listedd"
 disableKinds = ["section", "categories", "tags"]
 disqusShortname = ""
 pygmentsCodeFences = false
@@ -29,7 +29,7 @@ disableHugoGeneratorInject = true
     disable = true
 
 [Author]
-  name = "Liste"
+  name = "Listedd"
 
 [params]
   description = "Minimalistic Hugo blogging theme"
@@ -43,8 +43,8 @@ disableHugoGeneratorInject = true
   github = ""
   facebook = ""
   og_image = ""
-  sitename = "Liste"
-  twitter = ""
+  sitename = "Listedd"
+  twitter = "@ListedXX"
 
 [permalinks]
   posts = "/:year/:month/:day/:filename"
