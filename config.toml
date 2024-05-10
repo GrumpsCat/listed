@@ -22,7 +22,7 @@ disableHugoGeneratorInject = true
   [privacy.instagram]
     disable = true
   [privacy.twitter]
-    disable = FALSE
+    disable = true
   [privacy.vimeo]
     disable = true
   [privacy.youtube]
@@ -43,8 +43,8 @@ disableHugoGeneratorInject = true
   github = ""
   facebook = ""
   og_image = ""
-  sitename = "Listedd"
-  twitter = "@ListedXX"
+  sitename = "Listedddd"
+  twitter = ""
 
 [permalinks]
   posts = "/:year/:month/:day/:filename"
