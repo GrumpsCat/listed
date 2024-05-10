@@ -32,7 +32,7 @@ disableHugoGeneratorInject = true
   name = "Listedd"
 
 [params]
-  description = "Minimalistic Hugo blogging theme"
+  description = "Greg"
   author = ""
   copyright = ""
   logo = ""
