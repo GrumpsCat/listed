@@ -22,7 +22,7 @@ disableHugoGeneratorInject = true
   [privacy.instagram]
     disable = true
   [privacy.twitter]
-    disable = true
+    disable = FALSE
   [privacy.vimeo]
     disable = true
   [privacy.youtube]
