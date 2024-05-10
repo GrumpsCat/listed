@@ -1,6 +1,6 @@
 baseURL = ""
 languageCode = "en-us"
-title = "Listedd"
+title = "Listed Site"
 disableKinds = ["section", "categories", "tags"]
 disqusShortname = ""
 pygmentsCodeFences = false
