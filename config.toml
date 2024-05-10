@@ -32,7 +32,7 @@ disableHugoGeneratorInject = true
   name = "Listedd"
 
 [params]
-  description = "Greg"
+  description = "Minimalist Blogging Site"
   author = ""
   copyright = ""
   logo = ""
