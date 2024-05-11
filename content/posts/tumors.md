@@ -4,6 +4,7 @@ date = 2021-12-07T08:00:00Z
 description = "Tumors"
 tags = ["markdown", "text"]
 title = "Tumors"
+draft = TRUE
 
 +++
 There are 5 major types of tumors:
