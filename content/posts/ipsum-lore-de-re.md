@@ -16,4 +16,5 @@ Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium dolor
 
 # References
 
-[1]: <Boge, F.J. The Positive Argument Against Scientific Realism. J Gen Philos Sci 54, 535–566 (2023). https://doi.org/10.1007/s10838-022-09636-z> (https://doi.org/10.1007/s10838-022-09636-z)
+[1]: <Boge, F.J. The Positive Argument Against Scientific Realism. J Gen Philos Sci 54, 535–566 (2023). https://doi.org/10.1007/s10838-022-09636-z> (https://link.springer.com/article/10.1007/s10838-022-09636-z#citeas)
+
