@@ -1,5 +1,5 @@
 ---
-title: Realism_vs_Anti-Realism_A_Review
+title: Realism vs Anti Realism: A Review
 description: Sed ut perspiciatis unde omnis iste natus error sit voluptatem
 date: 2014-05-08
 tags:
