@@ -11,7 +11,7 @@ draft: false
 
 # The Positive Argument Against Scientific Realism
 
-## Summary
+Boge, F.J. The Positive Argument Against Scientific Realism. J Gen Philos Sci 54, 535–566 (2023). https://doi.org/10.1007/s10838-022-09636-z
 
 The passage discusses significant philosophical arguments concerning scientific realism and anti-realism, particularly focusing on quantum physics. Here are the key points and arguments:
 
