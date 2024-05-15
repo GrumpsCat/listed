@@ -11,16 +11,28 @@ draft: false
 
 # The Positive Argument Against Scientific Realism
 
-* **Positive Argument for Realism**: Hilary Putnam coined the "no miracles argument," which suggests that the success of science is best explained by the truth (or approximate truth) of its theories. This is a positive argument supporting scientific realism.
-* **Positive Argument for Realism**: Conversely, Putnam also presented a negative argument suggesting that because many successful scientific theories of the past have been proven false, current successful theories are likely to be false as well. This is known as the pessimistic meta-induction.
+## Summary
 
-| Positive Argument for Realism | Positive Argument for Realism |
-|----------|----------|
-|   Hilary Putnam coined the "no miracles argument," which suggests that the success of science is best explained by the truth (or approximate truth) of its theories. This is a positive argument supporting scientific realism.   |   Conversely, Putnam also presented a negative argument suggesting that because many successful scientific theories of the past have been proven false, current successful theories are likely to be false as well. This is known as the pessimistic meta-induction.   |
+The passage discusses significant philosophical arguments concerning scientific realism and anti-realism, particularly focusing on quantum physics. Here are the key points and arguments:
 
+1. **Putnam's No Miracles Argument (1975)**:
+   - **Positive Argument for Realism**: Hilary Putnam coined the "no miracles argument," which suggests that the success of science is best explained by the truth (or approximate truth) of its theories. This is a positive argument supporting scientific realism.
+   - **Pessimistic Meta-Induction (1978)**: Conversely, Putnam also presented a negative argument suggesting that because many successful scientific theories of the past have been proven false, current successful theories are likely to be false as well. This is known as the pessimistic meta-induction.
 
+2. **Constructive Empiricism (van Fraassen, 1980)**:
+   - **Observable vs. Unobservable Distinction**: Bas van Fraassen's constructive empiricism posits that science aims not at true theories but at theories that are empirically adequate. A key element of this view is the distinction between observables (which can be directly observed) and unobservables (which cannot).
+   - **Vagueness of Observability**: Critics, like Maxwell (1962), argue that the line between observation and theory is arbitrary and lacks clear criteria, challenging the foundational basis of van Fraassen's distinction.
 
-Sedvvv ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?
+3. **Quantum Physics and Anti-Realism**:
+   - **Quantum Physics as a Challenge to Realism**: The success of quantum physics (QP) might suggest that scientific realism is not an appropriate philosophical stance. This idea stems from the fact that quantum mechanics does not rely on classical realistic presuppositions and has led to reconsiderations of the nature of scientific explanation and observation.
+   - **Van Fraassen’s Influence**: Van Fraassen has been influenced by quantum theory in shaping his anti-realist stance, arguing that QP challenges the idea that physics must explain how appearances are produced in reality.
+
+4. **Argument from Quantum Physics Against Realism**:
+   - The passage suggests that there is an implicit argument against scientific realism based on the success of quantum physics, though it has not been explicitly stated or defended in the philosophical literature. This argument could show that because quantum mechanics does not adhere to realistic presuppositions yet remains highly successful, the case for realism is weakened.
+   - **Wallace's Distinction (2020)**: It is important to distinguish between "quantum theory" as a formal framework and "quantum physics" as its concrete applications. The argument against realism is more nuanced than simply denying the existence of atoms; it concerns the deeper implications of how our most predictive theories work without relying on realism.
+
+The text outlines the background and context for an argument that uses the success of quantum physics to challenge scientific realism. It highlights the nuanced debate between realism and anti-realism, particularly how quantum mechanics complicates traditional realist interpretations of scientific theories.
+
 [Boge][1]
 
 
