@@ -11,8 +11,6 @@ draft: false
 
 # The Positive Argument Against Scientific Realism
 
-Boge, F.J. The Positive Argument Against Scientific Realism. J Gen Philos Sci 54, 535–566 (2023). https://doi.org/10.1007/s10838-022-09636-z
-
 The passage discusses significant philosophical arguments concerning scientific realism and anti-realism, particularly focusing on quantum physics. Here are the key points and arguments:
 
 1. **Putnam's No Miracles Argument (1975)**:
@@ -20,7 +18,7 @@ The passage discusses significant philosophical arguments concerning scientific 
    - **Pessimistic Meta-Induction (1978)**: Conversely, Putnam also presented a negative argument suggesting that because many successful scientific theories of the past have been proven false, current successful theories are likely to be false as well. This is known as the pessimistic meta-induction.
 
 
->*Hilary Whitehall Putnam  (July 31, 1926 – March 13, 2016) was an American philosopher, mathematician, computer scientist, and figure in analytic philosophy in the second half of the 20th century. He contributed to the studies of philosophy of mind, philosophy of language, philosophy of mathematics, and philosophy of science.[5] Outside philosophy, Putnam contributed to mathematics and computer science. Together with Martin Davis he developed the Davis–Putnam algorithm for the Boolean satisfiability problem[6] and he helped demonstrate the unsolvability of Hilbert's tenth problem.(Wikipedia)*
+>*Hilary Whitehall Putnam  (July 31, 1926 – March 13, 2016) was an American philosopher, mathematician, computer scientist, and figure in analytic philosophy in the second half of the 20th century. He contributed to the studies of philosophy of mind, philosophy of language, philosophy of mathematics, and philosophy of science. Outside philosophy, Putnam contributed to mathematics and computer science. Together with Martin Davis he developed the Davis–Putnam algorithm for the Boolean satisfiability problem[6] and he helped demonstrate the unsolvability of Hilbert's tenth problem.(Wikipedia)*
 
 
 2. **Constructive Empiricism (van Fraassen, 1980)**:
@@ -43,7 +41,7 @@ The passage discusses significant philosophical arguments concerning scientific 
 
 The text outlines the background and context for an argument that uses the success of quantum physics to challenge scientific realism. It highlights the nuanced debate between realism and anti-realism, particularly how quantum mechanics complicates traditional realist interpretations of scientific theories.
 
-[Boge][1]
+[Boge, F.J. The Positive Argument Against Scientific Realism. J Gen Philos Sci 54, 535–566 (2023). https://doi.org/10.1007/s10838-022-09636-z][1]
 
 
 
