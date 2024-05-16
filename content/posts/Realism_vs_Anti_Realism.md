@@ -54,8 +54,11 @@ The text outlines the background and context for an argument that uses the succe
 
 1. **Metaethics and Reductionism:**
    - **Reductionism vs. Non-Reductionism:** Reductionism posits that moral facts and properties can be reduced to non-moral, often naturalistic, facts and properties. Non-reductionists argue that moral properties are irreducible and unique.
+      >One example of moral facts and properties that can be reduced to non-moral, often naturalistic, facts and properties is the concept of altruism. Altruism is often understood as the selfless concern for the well-being of others. From a reductionist perspective, altruistic behavior can be explained in terms of evolutionary biology and psychology.
    - **Analytic Reductionism:** Focuses on the linguistic and conceptual aspects, asserting that moral properties can be analytically reduced to non-moral terms.
    - **The Open Question Argument:** Challenges analytic reductionism by highlighting that reducing moral properties to natural properties doesn't capture the full meaning of moral terms. The argument suggests that asking whether a natural property implies a moral property always remains an open question, indicating a gap in reductionist theories.
+        >For example, if someone claims that goodness is identical to a particular natural property, such as pleasure or happiness, it is still possible to intelligibly ask whether something that possesses that natural property is truly good.
+
 
 2. **The Epistemic Open Question Argument:**
    - **Analogous Argument:** Like in metaethics, there's a debate about whether epistemic properties (e.g., reasons, justification) can be reduced to non-normative terms.
