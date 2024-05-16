@@ -46,8 +46,38 @@ The text outlines the background and context for an argument that uses the succe
 [Boge, F.J. The Positive Argument Against Scientific Realism. J Gen Philos Sci 54, 535–566 (2023). https://doi.org/10.1007/s10838-022-09636-z][1]
 
 
+---
+
+# Epistemic Reductionism and the Moral- Epistemic Disparity
+## Section 4: What If the Proposed Analysis of Epistemic Reasonability Is Not Extensionally Adequate?
+### Chris Heathwood
+
+1. **Metaethics and Reductionism:**
+   - **Reductionism vs. Non-Reductionism:** Reductionism posits that moral facts and properties can be reduced to non-moral, often naturalistic, facts and properties. Non-reductionists argue that moral properties are irreducible and unique.
+   - **Analytic Reductionism:** Focuses on the linguistic and conceptual aspects, asserting that moral properties can be analytically reduced to non-moral terms.
+   - **The Open Question Argument:** Challenges analytic reductionism by highlighting that reducing moral properties to natural properties doesn't capture the full meaning of moral terms. The argument suggests that asking whether a natural property implies a moral property always remains an open question, indicating a gap in reductionist theories.
+
+2. **The Epistemic Open Question Argument:**
+   - **Analogous Argument:** Like in metaethics, there's a debate about whether epistemic properties (e.g., reasons, justification) can be reduced to non-normative terms.
+   - **Sample Analysis:** Examines a potential reduction of epistemic properties to non-normative terms. For instance, defining reasonableness as the likelihood of a claim being true given evidence.
+   - **Challenging the Argument:** Contrary to the moral OQA, the epistemic OQA isn't as compelling. The text presents a scenario where someone denies a claim's reasonableness despite acknowledging its likelihood of truth, suggesting conceptual confusion.
+   - **Interpretive Challenge:** Some attempts to make the denial coherent involve redefining "reasonable" in non-epistemic terms, akin to prudential reasoning.
+
+3. **Conclusion:**
+   - The epistemic OQA fails to strongly challenge analytic reductionism in epistemology, unlike its moral counterpart.
+   - This opens the door to accepting analytic reductionism in epistemology, even though it may disappoint those who sought moral-epistemic parity to support robust moral realism.
+
+[Heathwood, Chris. "Epistemic reductionism and the moral-epistemic disparity." Metaepistemology: Realism and Anti-Realism (2018): 45-70.][2]
+
+
+
+
+
+
+
 
 # References
 
 [1]: https://link.springer.com/article/10.1007/s10838-022-09636-z#citeas
 
+[2]: https://spot.colorado.edu/~heathwoo/ERMED.pdf
