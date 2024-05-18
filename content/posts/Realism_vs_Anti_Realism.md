@@ -198,17 +198,53 @@ By understanding these distinctions and theories, you can better appreciate the 
 [Heathwood, Chris. "Epistemic reductionism and the moral-epistemic disparity." Metaepistemology: Realism and Anti-Realism (2018): 45-70.][2]
 
 
+# Realism and Anti-Realism in Pyrrhonism
 
+<<<<<<< HEAD
+**Author:** Otávio Bueno
+=======
 # Between Realism and Anti-Realism
+>>>>>>> 0abf6c19f88527c21e6fae6bd5383bd1f73dbd1b
 
+<<<<<<< HEAD
+**Abstract:** Bueno examines whether Pyrrhonists can adopt realist or anti-realist positions in science, arguing that understanding these as philosophical stances reconciles Pyrrhonism with them. He discusses voluntarism in Pyrrhonism and its implications.
+=======
 The paper "Between Realism and Anti-Realism" by Marion Vorms, found in *Philosophical Transactions of the Royal Society B: Biological Sciences*, explores various aspects of the debate between realism and anti-realism in the context of scientific theories and models. Here are some examples used in the paper:
+>>>>>>> 0abf6c19f88527c21e6fae6bd5383bd1f73dbd1b
 
+<<<<<<< HEAD
+**Introduction:** Pyrrhonism is presented as a method of investigation, involving suspending judgment rather than asserting truth or impossibility of knowledge.
+=======
 - **Theories and Models:** Vorms discusses how different scientific theories and models can be interpreted through the lenses of realism and anti-realism. Realists argue that theories and models describe real entities and phenomena, while anti-realists view them as useful tools for predicting observations without necessarily describing reality.
+>>>>>>> 0abf6c19f88527c21e6fae6bd5383bd1f73dbd1b
 
+<<<<<<< HEAD
+**Voluntarism in Pyrrhonism:** The ability to control theoretical beliefs while perceptual beliefs remain involuntary.
+=======
 - **The Case of Neptune:** An example often discussed in the context of scientific realism is the prediction and subsequent discovery of Neptune. Scientists predicted the existence of Neptune based on irregularities in Uranus's orbit, and its discovery supported the realist claim that scientific theories can describe unobserved entities.
+>>>>>>> 0abf6c19f88527c21e6fae6bd5383bd1f73dbd1b
 
+<<<<<<< HEAD
+**Conclusion:** Bueno suggests Pyrrhonism can accommodate both realist and anti-realist views within its framework, emphasizing the importance of philosophical stances.
+=======
 - **Theoretical Entities:** Vorms examines how theoretical entities like electrons or quarks are treated within realism and anti-realism. Realists claim these entities exist independently of our observations, whereas anti-realists might argue they are merely useful constructs for explaining and predicting phenomena.
+>>>>>>> 0abf6c19f88527c21e6fae6bd5383bd1f73dbd1b
 
+<<<<<<< HEAD
+Bueno discusses Gödel's ideas challenging voluntarism and Pyrrhonists' approach to suspending judgment as a form of voluntary agnosticism. Pyrrhonists suspend judgment on philosophical and scientific views, seeking truth through an investigative stance.
+
+Pyrrhonists neither commit to nor reject scientific realism, structural realism, or semirealism, but seek truth beyond appearances, aligning with realism as an investigative stance. The concept of stance is discussed, highlighting mode of engagement, style of reasoning, and propositional attitudes.
+
+Pyrrhonists can engage with anti-realist views dialectically, questioning commitments while exploring alternatives, maintaining coherence by treating stances as modes of engagement. Understanding scientific practice dynamically allows them to navigate between realist and anti-realist perspectives without wholesale acceptance.
+
+
+
+
+
+
+
+
+=======
 - **The Success of Science:** The "No-miracles" argument is presented, which posits that the success of scientific theories in making accurate predictions would be miraculous if these theories did not accurately describe some aspect of reality. This argument supports scientific realism.
 
 - **Dark Matter:** The discussion includes the example of dark matter, which has not been directly observed but is posited to exist based on gravitational effects that cannot be explained by known matter. This case highlights the debate about whether theoretical entities proposed by scientific theories should be considered real.
@@ -219,9 +255,6 @@ For a more detailed exploration, you can refer to the full paper on the [Philoso
 
 
 Bell, Jeffrey. "Between realism and Anti-Realism: Deleuze and the Spinozist tradition in philosophy." *Deleuze Studies* 5.1 (2011): 1-17.
-
-
-
 
 
 
