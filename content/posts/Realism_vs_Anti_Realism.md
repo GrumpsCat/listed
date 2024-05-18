@@ -49,6 +49,130 @@ The text outlines the background and context for an argument that uses the succe
 ---
 
 # Epistemic Reductionism and the Moral- Epistemic Disparity
+
+
+### 1. Ethical Confidence and Moral Properties
+
+- **Ethical Claims**: The author expresses confidence in certain ethical claims. These include judgments that some actions are not acceptable (morally wrong) and that some situations are good in themselves (intrinsically good).
+- **Moral Properties**: The author believes in the existence of properties like being morally wrong or being intrinsically good.
+
+### 2. Reductionism in Metaethics
+
+- **Reductionism**: This is the view that moral facts and properties are identical to facts and properties from another domain, and can be described using non-moral language.
+- **Natural Facts**: Most reductionist theories in ethics reduce moral facts to natural (empirical) facts, often psychological ones. For example, Hume suggested that calling something vicious means feeling blame towards it due to our nature.
+- **Examples**: The theory that being intrinsically good is just being a state of pleasure is a form of reductive naturalism.
+
+### 3. Non-Naturalism in Ethics
+
+- **Non-Naturalists**: They argue that moral properties are unique and cannot be reduced to natural or descriptive properties. Each moral property is distinct and not another type of property.
+- **Necessary Connections**: Non-naturalists acknowledge necessary connections between moral and non-moral facts but see them as two distinct phenomena.
+- **Example**: Some non-naturalists are hedonists who believe that something is intrinsically good because it is a state of pleasure, but they see this as two separate phenomena rather than a single one with two descriptions.
+
+### 4. Moral Realism vs. Anti-Realism
+
+- **Moral Realism**: This is the belief that there are moral facts and that some moral properties are stance-independent (they do not depend on people's attitudes or practices).
+- **Stance-Independent**: A property is stance-independent if it doesn't rely on observers' attitudes or practices.
+- **Examples**: The Humean view (stance-dependent) contrasts with hedonism (stance-independent). Hedonism is a form of moral realism because it posits that some states of pleasure are intrinsically good, regardless of observers’ attitudes.
+- **Robust Moral Realism**: This refers to non-naturalist moral realism, which is a form of moral realism that does not reduce moral properties to natural properties.
+
+### 5. Analogous Categories in Metaepistemology
+
+- **Epistemic Properties**: Just as there are moral properties (e.g., morally wrong), there are epistemic properties (e.g., having a reason to believe something, a belief being justified or reasonable).
+- **Reduction and Independence**: The same questions about reduction and stance-independence apply to epistemic properties as to moral properties.
+- **Moral Scepticism vs. Epistemic Scepticism**: People might doubt the existence of moral facts more often than epistemic facts (like the reasonableness of beliefs). The clear existence of epistemic facts can help argue for the existence of moral facts.
+
+### Summary
+
+The text explores the nature of moral properties and their potential reduction to natural properties, comparing reductionist and non-reductionist views. It discusses moral realism, where moral facts exist independently of human attitudes, and draws parallels with similar debates in metaepistemology about the nature of epistemic properties.
+
+By understanding these distinctions and theories, you can better appreciate the debates in metaethics about the nature of moral properties and their relationship to natural facts.
+
+
+# The Moral Open Question Argument
+
+## Introduction
+- Moral properties and facts resist analysis in terms of natural or non-moral facts and properties.
+- The belief in this resistance is based on open-question-type considerations.
+- The Open Question Argument (OQA) has been widely discussed and critiqued over time.
+
+## Reductive Naturalism
+- **Reductive naturalism**: Identifies normative/evaluative properties with natural properties.
+- Two forms of reductive naturalism:
+  - **Analytic reductionism**: Identity claim is analytic.
+  - **Synthetic reductionism**: Identity claim is synthetic.
+- The OQA challenges analytic reductionism.
+
+## Analytic Reductionism and Open Questions
+- In analytic reductionism, a natural property is identified with an ethical property.
+- It will always be an “open question” whether things with the natural property also have the evaluative property.
+- Example: Hedonism posits that all states of pleasure are intrinsically good.
+  - A philosopher might argue that malicious pleasures have no intrinsic value.
+  - This disagreement does not indicate a conceptual confusion but a difference in beliefs about intrinsic value.
+  
+## Metaethical Implications
+- If intrinsic goodness and being a state of pleasure are necessarily coextensive, it does not resolve the open question.
+- Therefore, intrinsic goodness cannot be analytically reduced to being a state of pleasure.
+
+## Broader Implications
+- The same reasoning applies to other natural or non-evaluative concepts and intrinsic goodness.
+- Conflicting evaluative judgments do not indicate conceptual confusion or different topics but different beliefs.
+
+## Objections to the Argument
+- Some argue that the OQA can refute reductive analyses of any concept.
+- Obvious reductions (e.g., unclehood):
+  - To be an uncle: a male with a sibling who has an offspring.
+  - Disagreement (offspring must be male) indicates conceptual confusion, not an open question.
+- Non-obvious reductions (e.g., bachelorhood):
+  - Simple view: all unmarried men are bachelors.
+  - Disagreement (pope as bachelor) also indicates conceptual confusion.
+
+## Comparing Disagreements
+- Disagreements about intrinsic value (hedonism) are normal and do not indicate conceptual confusion.
+- Disagreements about bachelorhood indicate different concepts and meanings.
+- The OQA effectively challenges analytic reductionism in ethics but not in cases like bachelorhood or unclehood.
+
+## Conclusion
+- Committed reductionists might argue that their opponents misunderstand the concept.
+- The plausibility of this stance depends on evaluation.
+- The OQA casts doubt on analytic reductionism in ethics but not in other cases like unclehood or bachelorhood.
+
+
+
+# The Epistemic Open Question Argument
+
+## Introduction
+- In epistemology, unlike ethics, the Open Question Argument (OQA) against analytic reductionism is not compelling.
+- The failure of the OQA in epistemology suggests we should accept analytic epistemic reductionism, even without a definitive reductive analysis of epistemic notions.
+
+## Sample Analysis of Epistemic Reasons
+- Consider a sample analysis: a claim is reasonable to believe if it is likely to be true, given the subject’s evidence.
+- Example: Sally sees wet streets and believes it likely rained. Intuitively, this belief is reasonable based on her evidence.
+
+## Testing the Analysis
+- Suppose the analysis is extensionally adequate (no counterexamples).
+- The metaepistemological question remains: are being reasonable to believe and being probable relative to evidence the same condition under different labels?
+- Use the OQA to test this: does conflicting belief indicate conceptual confusion or merely different beliefs?
+
+## Application of Open Question Reasoning
+- Suppose Sally agrees her evidence makes it likely it rained but denies it’s reasonable to believe so.
+- This claim sounds incoherent, like she doesn't understand what she is saying.
+- Unlike Moore-paradoxical claims ("that claim is true, but I don’t believe it"), Sally’s claim lacks coherence.
+
+## Prudential vs. Epistemic Reasonability
+- Pascal’s wager: “given all our evidence, theism is unlikely to be true, but it is reasonable to believe it is true.”
+- Pascalian claims are coherent when "reasonable" is interpreted prudentially.
+- Defenders of the epistemic OQA need claims like "given all our evidence, theism is unlikely, but it is epistemically reasonable to believe it" to be coherent, which they are not.
+
+## Conclusion
+- The epistemic OQA is not convincing, unlike the moral OQA.
+- Therefore, analytic reductionism in epistemology is plausible and offers theoretical advantages.
+- This poses a challenge for those using moral-epistemic parity to support robust moral realism, as epistemic normativity is not irreducible like moral normativity.
+
+
+
+
+
+
 ## Section 4: What If the Proposed Analysis of Epistemic Reasonability Is Not Extensionally Adequate?
 ### Chris Heathwood
 
@@ -73,6 +197,28 @@ The text outlines the background and context for an argument that uses the succe
 
 [Heathwood, Chris. "Epistemic reductionism and the moral-epistemic disparity." Metaepistemology: Realism and Anti-Realism (2018): 45-70.][2]
 
+
+
+# Between Realism and Anti-Realism
+
+The paper "Between Realism and Anti-Realism" by Marion Vorms, found in *Philosophical Transactions of the Royal Society B: Biological Sciences*, explores various aspects of the debate between realism and anti-realism in the context of scientific theories and models. Here are some examples used in the paper:
+
+- **Theories and Models:** Vorms discusses how different scientific theories and models can be interpreted through the lenses of realism and anti-realism. Realists argue that theories and models describe real entities and phenomena, while anti-realists view them as useful tools for predicting observations without necessarily describing reality.
+
+- **The Case of Neptune:** An example often discussed in the context of scientific realism is the prediction and subsequent discovery of Neptune. Scientists predicted the existence of Neptune based on irregularities in Uranus's orbit, and its discovery supported the realist claim that scientific theories can describe unobserved entities.
+
+- **Theoretical Entities:** Vorms examines how theoretical entities like electrons or quarks are treated within realism and anti-realism. Realists claim these entities exist independently of our observations, whereas anti-realists might argue they are merely useful constructs for explaining and predicting phenomena.
+
+- **The Success of Science:** The "No-miracles" argument is presented, which posits that the success of scientific theories in making accurate predictions would be miraculous if these theories did not accurately describe some aspect of reality. This argument supports scientific realism.
+
+- **Dark Matter:** The discussion includes the example of dark matter, which has not been directly observed but is posited to exist based on gravitational effects that cannot be explained by known matter. This case highlights the debate about whether theoretical entities proposed by scientific theories should be considered real.
+
+These examples illustrate the practical implications of the realism vs. anti-realism debate, particularly how it affects our interpretation of scientific theories and their components.
+
+For a more detailed exploration, you can refer to the full paper on the [Philosophical Transactions of the Royal Society B: Biological Sciences website](https://royalsocietypublishing.org/journal/rspb) or other academic sources discussing this topic ([Oxford Academic](https://academic.oup.com/), [Pressbooks CCC Online](https://pressbooks.ccconline.org/)).
+
+
+Bell, Jeffrey. "Between realism and Anti-Realism: Deleuze and the Spinozist tradition in philosophy." *Deleuze Studies* 5.1 (2011): 1-17.
 
 
 
