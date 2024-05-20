@@ -9,7 +9,7 @@ draft: false
 
 ---
 
-## Brumel - 1460 to 1512/13
+## Antoine Brumel - 1460 to 1512/13
 [![Earthquake Mass Antoine Brumel](https://img.youtube.com/vi/AF7pK4TXtv4/0.jpg)](https://www.youtube.com/watch?v=AF7pK4TXtv4)
 
 [Antoine Brumel - Missa Et ecce terræ motus](https://www.youtube.com/watch?v=AF7pK4TXtv4)
