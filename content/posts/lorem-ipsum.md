@@ -2,7 +2,7 @@
 date = 2017-03-11T00:00:00Z
 description = "Custom description (max 160 characters)"
 tags = ["markdown", "css", "html", "themes"]
-title = "New Post"
+title = "Arthur Danto's Questions in the Philosophy of Art"
 
 +++
 
