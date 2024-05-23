@@ -18,7 +18,7 @@ Antoine Brumel's "Missa Et ecce terræ motus," commonly known as the "Earthquake
 
 ## Missa Papae Marcelli (1520 to 1530)
 
-[Missa Papae Marcelli by Giovanni Pierluigi da Palestrina (Kammerchor Dresden)](https://www.youtube.com/watch?v=8VfN8TL0Gjw)
+[Missa Papae Marcelli by Giovanni Pierluigi da Palestrina (Kammerchor Dresden)](https://www.youtube.com/watch?v=KSmT4VIjEtI)
 
 
 The **"Missa Papae Marcelli" (Pope Marcellus Mass)** by Giovanni Pierluigi da Palestrina is one of the most renowned and significant works of Renaissance choral music. Composed in 1562 in honor of Pope Marcellus II, it is often associated with the ideals of the Counter-Reformation and the Council of Trent. The mass is closely linked to the Counter-Reformation, the Catholic Church's response to the Protestant Reformation. The Council of Trent (1545-1563) sought to address various issues within the Church, including the use of music in liturgical settings. There was concern that complex polyphony in church music was obscuring the sacred texts, making them unintelligible to the congregation. The "Missa Papae Marcelli" was reputedly composed to demonstrate that polyphonic music could be both beautiful and clear in its delivery of the liturgical text. Although this story is partly myth, the mass indeed exemplifies how polyphony can be structured to enhance textual clarity. The mass set a standard for the composition of sacred music in the late Renaissance. Its balance of complexity and clarity became a model for future generations of composers.
