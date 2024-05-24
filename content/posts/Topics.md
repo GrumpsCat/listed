@@ -36,3 +36,5 @@ FaaS are great for simple, parallel tasks with long latency times. This limits t
 Cloud services offer unlimited data storage and unlimited distributed computing power. 
 Where:
 Function limited lifetimes, bandwidth limitations, slow communications and no specalized hardware. 
+
+---
