@@ -12,13 +12,13 @@ draft: false
 
 ### Serverless Computing
 
-Jonas, E., Schleier-Smith, J., Sreekanti, V., Tsai, C. C., Yadwadkar, N., Gonzalez, J. E., Popa, R. A., Stoica, I., & Patterson, D. A. (2019). Serverless computing: One step forward, two steps back. Proceedings of the 10th ACM Symposium on Cloud Computing, 1-13. https://doi.org/10.1145/3357223.3362700
+`Jonas, E., Schleier-Smith, J., Sreekanti, V., Tsai, C. C., Yadwadkar, N., Gonzalez, J. E., Popa, R. A., Stoica, I., & Patterson, D. A. (2019). Serverless computing: One step forward, two steps back. Proceedings of the 10th ACM Symposium on Cloud Computing, 1-13. https://doi.org/10.1145/3357223.3362700`
 
-`Cloud services are multitenant and easier-to-manage versions of enterprise data storage ie object storage, databases, queueing systems, and web/app servers. But this only scratches the surface of its potential, with millions of cores and exabytes of data.`
+Cloud services are multitenant and easier-to-manage versions of enterprise data storage ie object storage, databases, queueing systems, and web/app servers. But this only scratches the surface of its potential, with millions of cores and exabytes of data.
 
 Serverless computing allows developers to upload their code and only pay when it is run. 
 
-**1.1 “Serverless” goes FaaS**
+**1 INTRODUCTION**
 “Serverless” goes FaaS
 Functions-as-a-Service (FaaS) is a core part of serverless offerings including AWS Lambda, Azure and Google Cloud Platform. 
 
