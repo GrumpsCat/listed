@@ -28,5 +28,10 @@ FaaS are not efficient for data processing tasks because of the cold start laten
 Faas are not well suited for distributed systems. 
 Faas functions are stateless, whereas distributed systems require statefull processing. Also they are complex and communicate frequently. 
 
+**2 SERVERLESS IS MORE? THE EASY CASES**
+FaaS are great for simple, parallel tasks with long latency times. This limits the attractiveness of FaaS. 
 
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?
+**3 WHY SERVERLESS TODAY IS TOO LESS**
+Cloud services offer unlimited data storage and unlimited distributed computing power. 
+Where:
+Function limited lifetimes, bandwidth limitations, slow communications and no specalized hardware. 
