@@ -250,6 +250,189 @@ Bell, Jeffrey. "Between realism and Anti-Realism: Deleuze and the Spinozist trad
 
 
 
+## Scientific Realism, Metaphysical Antirealism and the No Miracle Arguments
+
+Alai, M. Scientific Realism, Metaphysical Antirealism and the No Miracle Arguments. Found Sci 28, 377–400 (2023). https://doi.org/10.1007/s10699-020-09691-z
+
+### Scientific Realism (SR) and Metaphysical Realism (MR)
+
+**Scientific Realism (SR)** and **Metaphysical Realism (MR)** are two philosophical positions that often intersect but can also be distinguished. Understanding their relationship involves exploring whether one implies the other and whether they can exist independently.
+
+#### Definitions
+
+1. **Scientific Realism (SR):**
+   - **SR** posits that the entities postulated by scientific theories (including unobservable entities) genuinely exist, and that scientific theories are (approximately) true descriptions of the world.
+   - It involves a commitment to the truth of scientific theories and the existence of theoretical entities posited by these theories.
+
+2. **Metaphysical Realism (MR):**
+   - **MR** asserts that there is a mind-independent world that exists regardless of our perceptions, beliefs, or conceptual schemes.
+   - It posits that truths about the world correspond to this mind-independent reality.
+
+#### Logical Relationships Between SR and MR
+
+##### (a) Does SR imply MR?
+
+While SR often includes a commitment to MR (i.e., the existence of theoretical entities mind-independently), it does not necessarily imply MR. One can argue for the success and utility of scientific theories without making strong metaphysical claims about the mind-independent existence of the entities those theories posit. In other words, SR can be defended without a full commitment to MR.
+
+##### (b) Is MR necessary to defend SR?
+
+MR is not strictly necessary to defend SR. One can consistently hold SR without committing to MR, through positions like internal realism or metaphysical antirealism (MAR).
+
+#### Scientific Realism without Metaphysical Realism
+
+One can hold **SR** without **MR** through positions like:
+
+1. **Internal Realism (IR):**
+   - Proposed by Hilary Putnam, **IR** suggests that the truth of a statement depends on its coherence within a conceptual scheme or framework, not on a mind-independent reality.
+   - This allows for a commitment to the success and truth of scientific theories without positing an independent reality.
+
+2. **Metaphysical Antirealism (MAR):**
+   - **MAR** denies the existence of a mind-independent reality but can still affirm the reliability and utility of scientific theories within human conceptual frameworks.
+
+#### Putnam's Internal Realism and Scientific Realism
+
+Hilary Putnam argued for a form of **SR** coupled with **MAR**, suggesting that the success of scientific theories can be understood without assuming a mind-independent world. Instead, theories are true in the sense that they are coherent and reliable within our conceptual schemes.
+
+#### The "No Miracle" Argument (NMA) and Metaphysical Realism
+
+The **No Miracle Argument (NMA)** is a key argument for SR, suggesting that the success of science would be miraculous if scientific theories were not at least approximately true descriptions of the world. Critics argue that the NMA also supports MR, as the best explanation for the success of science involves a mind-independent reality that corresponds to our theories.
+
+1. **NMA and MR:**
+   - The NMA suggests that MR provides the most plausible explanation for the success of scientific theories.
+   - Denying MR while accepting the NMA could weaken the argument for SR.
+
+#### Conclusion: SR, MR, and Their Compatibility
+
+While SR and MR are logically distinct, and one can argue for SR without MR (through IR or MAR), the NMA implies a strong connection between SR and MR. The NMA suggests that the best explanation for the success of scientific theories involves a commitment to MR. Therefore, MR is not superfluous for SR but rather reinforces it without additional argumentative costs. Thus, while SR can be theoretically defended without MR, doing so may undermine the strongest argument for SR, the NMA.
+
+### Historical Context and Philosophical Precedents
+
+Historically, various philosophers have explored the relationship between reality, perception, and scientific theories:
+
+1. **Berkeley's Idealism:**
+   - Denied the mind-independence of objects but affirmed their existence within perception.
+
+2. **Kant's Transcendental Idealism:**
+   - Denied access to things-in-themselves but affirmed the objective reality of phenomena within human experience.
+
+3. **Logical Positivists (Carnap, Schlick):**
+   - Rejected metaphysical claims but supported the empirical adequacy and coherence of scientific theories.
+
+Putnam and other philosophers have shown that various forms of realism (scientific, empirical, internal) can be logically consistent with metaphysical antirealism, emphasizing the flexibility and nuanced nature of these philosophical positions.
+
+Two Different Kinds of Realist Claims: Ontologic and Semantic
+2.1 Ontologic Claims
+
+Ontologic realism concerns the nature of existence and properties of a target X. Here are various forms of ontologic realist claims:
+
+OR1: X exists. This is the fundamental claim that something exists rather than not existing.
+OR2: X is irreducible to something else. This means X is a fundamental constituent of reality and cannot be reduced to another form, such as physical objects not being reducible to ideas, or mental states not being reducible to brain states.
+OR3: X exists objectively. This claim posits that X exists independently of perception, thought, or knowledge (mind-independent existence). For example, physical objects exist regardless of whether they are perceived.
+OR4: X has properties, or relations, or a certain nature. This claim asserts that X possesses certain attributes or characteristics.
+OR5: X’s properties are irreducible. This means the properties of X cannot be reduced to other types of properties, such as biological properties not being reducible to chemical or physical properties.
+OR6: X’s properties are objective. This suggests that the properties of X exist independently of measurement or observation.
+These claims build on each other: OR1 is entailed by OR2–OR6, and OR4 is entailed by OR5 and OR6. Conversely, the negation of each of OR1–OR6 represents ontologic antirealism.
+
+2.2 Semantic Claims
+
+Semantic realism pertains to whether language can truly refer to a target X. Semantic claims examine the ability of words and sentences to refer to their apparent referents, not just to some surrogate or verification condition. Here are key points about semantic claims:
+
+Internal Reference: This trivial sense of reference, such as 'cow' referring to cows, is widely accepted. This form of internal semantic realism does not entail metaphysical realism.
+Semantic MR (Metaphysical Realism): This form of realism holds that our words and sentences refer to actual entities or states of affairs (e.g., cows, electrons) as they appear, not merely to verification conditions or sensations.
+Verificationism: This antirealist position posits that the meaning of statements is tied to their conditions of verification rather than to actual states of affairs. There are three main types of verificationism:
+Phenomenist Verificationism: Sentences refer to sensations.
+Reductionist Verificationism: Sentences refer to observable states of things.
+Assertibility Verificationism: Sentences are true if they can be correctly asserted within the conventions of a linguistic community.
+Verificationism reduces the meaning of statements to conditions that fall short of truth in the classical sense, making ontologic claims inexpressible in their intended form.
+
+Summary
+Ontologic realism focuses on the existence and properties of entities independently of our perceptions or knowledge. It posits that entities like physical objects and mental states have an objective, irreducible existence and properties. Semantic realism deals with the capability of language to refer to actual entities and their properties, opposing verificationist views that tie meaning to conditions of verification rather than to actual states of affairs. Together, these two types of realist claims form a comprehensive view of reality, asserting both the independent existence of entities and the ability of language to accurately describe them.
+
+
+## Two Different Kinds of Realist Claims: Ontologic and Semantic
+
+### 2.1 Ontologic Claims
+
+Ontologic realism concerns the nature of existence and properties of a target X. Here are various forms of ontologic realist claims:
+
+1. **OR1: X exists.** 
+   - This is the fundamental claim that something exists rather than not existing.
+
+2. **OR2: X is irreducible to something else.**
+   - This means X is a fundamental constituent of reality and cannot be reduced to another form, such as physical objects not being reducible to ideas, or mental states not being reducible to brain states.
+
+3. **OR3: X exists objectively.**
+   - This claim posits that X exists independently of perception, thought, or knowledge (mind-independent existence). For example, physical objects exist regardless of whether they are perceived.
+
+4. **OR4: X has properties, or relations, or a certain nature.**
+   - This claim asserts that X possesses certain attributes or characteristics.
+
+5. **OR5: X’s properties are irreducible.**
+   - This means the properties of X cannot be reduced to other types of properties, such as biological properties not being reducible to chemical or physical properties.
+
+6. **OR6: X’s properties are objective.**
+   - This suggests that the properties of X exist independently of measurement or observation.
+
+These claims build on each other: OR1 is entailed by OR2–OR6, and OR4 is entailed by OR5 and OR6. Conversely, the negation of each of OR1–OR6 represents ontologic antirealism.
+
+### 2.2 Semantic Claims
+
+Semantic realism pertains to whether language can truly refer to a target X. Semantic claims examine the ability of words and sentences to refer to their apparent referents, not just to some surrogate or verification condition. Here are key points about semantic claims:
+
+1. **Internal Reference:** 
+   - This trivial sense of reference, such as 'cow' referring to cows, is widely accepted. This form of internal semantic realism does not entail metaphysical realism.
+
+2. **Semantic MR (Metaphysical Realism):**
+   - This form of realism holds that our words and sentences refer to actual entities or states of affairs (e.g., cows, electrons) as they appear, not merely to verification conditions or sensations.
+
+3. **Verificationism:** 
+   - This antirealist position posits that the meaning of statements is tied to their conditions of verification rather than to actual states of affairs. There are three main types of verificationism:
+     - **Phenomenist Verificationism:** Sentences refer to sensations.
+     - **Reductionist Verificationism:** Sentences refer to observable states of things.
+     - **Assertibility Verificationism:** Sentences are true if they can be correctly asserted within the conventions of a linguistic community.
+
+Verificationism reduces the meaning of statements to conditions that fall short of truth in the classical sense, making ontologic claims inexpressible in their intended form.
+
+### Summary
+
+Ontologic realism focuses on the existence and properties of entities independently of our perceptions or knowledge. It posits that entities like physical objects and mental states have an objective, irreducible existence and properties. Semantic realism deals with the capability of language to refer to actual entities and their properties, opposing verificationist views that tie meaning to conditions of verification rather than to actual states of affairs. Together, these two types of realist claims form a comprehensive view of reality, asserting both the independent existence of entities and the ability of language to accurately describe them.
+
+## 3 Scientific Realism and Ontologic or Semantic Metaphysical Antirealism
+
+### Phenomenism and Metaphysical Antirealism
+
+**Berkeley, an advocate of metaphysical antirealism, denied that ordinary observable objects and properties exist mind-independently. However, he accepted that they exist in a mind-dependent way as sets of actual or possible sensations. This view is known as "phenomenism" about ordinary observable objects and properties.**
+
+The question arises whether a similar stance can be taken with unobservable entities. Can one hold that the physical world is mind-dependent (ontologic metaphysical antirealism) while accepting the existence of unobservable entities as sets of actual or possible sensations? This seems problematic since unobservable entities cannot be directly sensed.
+
+### Combining Ontologic Scientific Realism with Semantic Metaphysical Antirealism
+
+An alternative approach is to combine the existence and objectivity of unobservable entities (**ontologic scientific realism**) with **semantic metaphysical antirealism**. This method aligns with how neopositivists treated observable objects. They accepted statements like "unobservable entities exist" and "unobservable entities exist objectively and mind-independently" but interpreted them verificationistically. Essentially, they asserted the obtaining of verification conditions for those sentences, such as certain sets of actual or possible sensations or observable states of things, or certain assertibility conditions.
+
+### Addressing Objections and Counterfactuals
+
+A potential objection is that this approach might seem like positivism or instrumentalism, reducing unobservable entities to sets of actual or possible sensations or assertibility conditions. However, this is only seen as a form of semantic antirealism from a metaphysical realist perspective. For verificationists, the objection loses its force as they view meaning through verification conditions.
+
+Verificationists could argue that claims about unobservable entities are confirmed by numerous possible experiments and observations, not just a single set of actual or possible sensations. Thus, meaning encompasses many sets of actual or possible sensations or observable states, which are not reducible to their individual members.
+
+However, verificationists face the challenge of accounting for modalities and counterfactuals. Counterfactual claims need categorical truthmakers, often mind-independent and irreducible unobservable entities. For example, the statement "there are charged particles in this apparatus" implies that certain experiments would yield specific results. The truth of this counterfactual relies on the actual existence of those particles.
+
+### Neopositivist Response to Counterfactuals
+
+Neopositivists might respond that possible and necessary conditions are determined by empirically confirmed laws. Thus, statements about unobservable entities are grounded in these laws. Critics might argue that empirical laws are merely descriptions of past sensations or observations. However, verificationists can counter that laws are confirmed by complex sets of sensations or observations, maintaining a weak form of realism about unobservable entities.
+
+### Verificationism and Meaning
+
+Carnap and Hempel highlighted significant concerns about verificationism. Carnap noted that no amount of claims about actual or possible sensations can exhaust the meaning of claims about ordinary observable objects and properties, and Hempel showed that discourse about unobservable entities is not reducible to observable states. These concerns challenge the idea that meaning consists solely of verification or confirmation conditions. Despite this, the compatibility of verificationist metaphysical antirealism and ontologic scientific realism remains an open debate.
+
+### Idealist and Abstract Entity Perspectives
+
+Another possible combination of scientific realism and metaphysical antirealism involves idealism. An idealist might argue that the world exists only in thought (like Hegel) or that only abstract entities exist (like Plato). In the first case, unobservable entities could exist as models created by scientists' minds (Popper's "World 2"). In the second, they could exist in the realm of abstract entities (Popper's "World 3"). Although this might be considered a weak acceptance of unobservable entities, it still represents a form of scientific realism if the models are seen as robust and stable constructions supported by well-confirmed theories.
+
+### Conclusion
+
+**Certain instances of ontologic scientific realism can be consistently combined with certain forms of metaphysical antirealism. These combinations show that it is possible to maintain scientific realism while adopting metaphysical antirealism. However, scientific realists might find it challenging to defend this position without accepting some form of metaphysical realism.**
+
 
 # References
 
