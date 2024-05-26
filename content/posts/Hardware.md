@@ -10,7 +10,7 @@ draft: false
 ---
 
 ## CPU
-AMD EPYC 7763 Milan 2.45 GHz 256MB L3 Cache Socket SP3 280W 100-000000312 Server Processor* 
+AMD EPYC 7763 Milan 2.45 GHz 256MB L3 Cache Socket SP3 280W 100-000000312 Server Processor
 * 7 nm Milan 
 * 256MB L3 Cache 
 * 280W
