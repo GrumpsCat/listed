@@ -10,7 +10,7 @@ draft: false
 ---
 ## Cloud Computing
 
-Greenberg, Albert, et al. "The cost of a cloud: research problems in data center networks." ACM SIGCOMM computer communication review 39.1 (2008): 68-73.
+>Greenberg, Albert, et al. "The cost of a cloud: research problems in data center networks." ACM SIGCOMM computer communication review 39.1 (2008): 68-73.
 
 The paper explores the cost structure of cloud service data centers and identifies areas where research and development (R&D) can significantly impact cost efficiency and performance. The authors analyze the amortized costs associated with data centers and propose solutions to optimize these costs.
 
@@ -57,8 +57,6 @@ The authors provide a cost breakdown for a data center with approximately 50,000
 ### Importance of Networking and Systems Innovation
 
 While networking is not the largest cost component, innovations in networking and systems are crucial for reducing overall costs and improving efficiency. The authors argue that optimizing the network can significantly enhance the performance and cost-effectiveness of data centers.
-
-Sure, let's delve into Section 2 of the paper "The Cost of a Cloud: Research Problems in Data Center Networks" and break down the cost components of a data center as described by the authors.
 
 ### Section 2: Cost Breakdown
 
@@ -122,9 +120,122 @@ To tackle the challenges of low utilization and high latency, the paper highligh
 - Joint optimization of network and data center resources.
 - New systems and mechanisms for geo-distributing state.
 
+### Section 3: Agility
 
+In this section, we explore the concept of agility within a data center, which refers to the ability to dynamically allocate any server to any service while maintaining security and performance isolation. Conventional data center network designs often hinder agility due to their inherent structure, which fragments both network and server capacity. Let's break down the current state of networking in data centers and discuss the properties needed for a more agile solution.
 
+#### 3.1 Networking in Current Data Centers
 
+**Current Setup**:
+- **Applications**: Multiple applications run within a data center, each on its set of (potentially virtual) servers.
+- **Traffic Types**:
+  - **External Traffic**: Between external end systems and internal servers.
+  - **Internal Traffic**: Between internal servers (e.g., for synchronization in search applications or streaming in video download applications).
+
+**Network Architecture**:
+- **External Requests**: Applications have public IP addresses (VIPs) that clients use to send requests. These requests are spread across a pool of front-end servers using hardware load balancers.
+- **Layer 2 and Layer 3**: Requests are IP routed (Layer 3) through border and access routers to a Layer 2 domain based on the VIP. The VIPs are configured on load balancers connected to top switches.
+
+**Challenges**:
+1. **Static Network Assignment**:
+   - Applications are mapped to specific physical switches and routers using VLANs and Layer-3 based VLAN spanning.
+   - This static mapping provides isolation but hinders agility by ossifying network assignments.
+2. **Fragmentation of Resources**:
+   - Load balancing techniques (e.g., destination NAT) require all servers in a pool to be in the same Layer 2 domain.
+   - This restriction leads to resource fragmentation and under-utilization as applications grow but cannot use servers across different Layer 2 domains.
+3. **Poor Server-to-Server Connectivity**:
+   - Hierarchical networks force communication between different Layer 2 domains to pass through Layer 3, where ports are more expensive and oversubscribed.
+   - This oversubscription results in limited bandwidth and requires careful, often impractical, placement of servers to avoid saturating network links.
+4. **Proprietary Hardware Limitations**:
+   - Load balancers are used in pairs for resiliency (1+1 configuration). Scaling up involves replacing these pairs with more capable ones, which is expensive and unscalable.
+
+#### 3.2 Design Objectives
+
+To achieve agility in data centers, the network should have the following properties:
+
+1. **Location-independent Addressing**:
+   - Servers should use location-independent addresses, decoupling their physical location from their network address.
+   - This enables dynamic reassignment of servers to different services and simplifies configuration management.
+
+2. **Uniform Bandwidth and Latency**:
+   - Bandwidth and latency between any two servers should be consistent, regardless of their physical location within the data center.
+   - This ensures that servers can be distributed arbitrarily without performance degradation due to bandwidth choke points.
+
+3. **Security and Performance Isolation**:
+   - Services must be isolated to prevent one service from impacting the performance and availability of others.
+   - This isolation is crucial for handling issues like Denial-of-Service (DoS) attacks or traffic surges due to errors.
+
+#### 3.3 Current Approaches
+
+Several approaches are being explored to meet these design objectives:
+
+1. **Data Center Ethernet**:
+   - Major vendors are developing Data Center Ethernet, which uses Layer 2 addresses for location independence and incorporates complex congestion control mechanisms to ensure losslessness.
+
+2. **Research Proposals**:
+   - Researchers have proposed designs for fast interconnects with varying degrees of location independence, uniform bandwidth, and performance isolation.
+   - Some suggestions involve using servers themselves as nodes within the interconnect, enhancing flexibility and efficiency.
+
+### Summary
+
+Agility within a data center requires overcoming the limitations of conventional network designs that fragment network and server resources and inhibit dynamic allocation. By adopting location-independent addressing, ensuring uniform bandwidth and latency, and maintaining security and performance isolation, data centers can achieve greater flexibility and efficiency. Current approaches, including advancements in Data Center Ethernet and innovative research proposals, are paving the way toward more agile data center networks.
+
+### Section 4: Incenting Desirable Behavior
+
+#### Introduction
+
+Optimizing the placement and sizing of data centers (DCs) involves addressing several key factors. These include geographic diversity, the size of the data centers, network costs, and encouraging efficient resource consumption through economic incentives.
+
+#### Geographic Diversity
+
+**Benefits**:
+1. **Latency Reduction**: Locating data centers closer to users decreases latency, enhancing user experience.
+2. **Redundancy**: Geographical separation enhances redundancy, mitigating risks from localized disruptions like power outages, natural disasters, or civil unrest.
+
+#### Data Center Size
+
+**Mega Data Centers**:
+- **Characteristics**: House large computations, with 100,000s of servers over 100,000s of square feet, drawing 10 to 20 MW of power.
+- **Optimization**: Focus on server cost and power availability, leveraging economies of scale.
+- **Local Factors**: Zoning, tax, and power concessions significantly influence site selection.
+
+**Micro Data Centers**:
+- **Flexibility**: More degrees of freedom in siting and sizing compared to mega data centers.
+- **Constraints**:
+  - **Minimum Size**: Must have enough servers to gain statistical multiplexing benefits and amortize fixed costs.
+  - **Maximum Size**: Should be small enough to allow flexible placement and minimize restrictions.
+- **Innovations**: Use of shipping containers to house servers, each container with roughly 1,000 servers drawing less than 500 KW.
+- **Economic Limitations**: Fixed budgets and the desire to place DCs close to each population segment cap the size of each DC.
+
+#### Network Costs
+
+**Objectives**:
+- **Proximity to Users**: Data centers should be close to users to minimize latency and transfer costs.
+- **Cost-Performance Balance**: Optimize the balance between performance and cost, especially near major population centers and fiber hotels for low-cost Internet peering and dedicated or leased lines between data centers.
+
+**Service Dependencies**:
+- **Service Tiers**: Services are often tiered (e.g., front-end and back-end tiers). Front-ends may be in micro data centers for low latency, while back-ends leverage the resources of mega data centers.
+- **Dependency Management**: Intense or low-latency communication dependencies between services need consideration in placement strategies.
+
+#### Economic Incentives for Efficient Resource Use
+
+**Challenges**:
+- **Resource Consumption**: Without incentives, users may not modulate demand, leading to inefficient resource use with periods of high bursty load and low utilization.
+
+**Strategies**:
+1. **Trough Filling**:
+   - **Peak Usage Costs**: Data centers incur higher costs during peak usage due to billing based on 95th percentile usage.
+   - **Smoothing Resource Consumption**: Implementing mechanisms like bin packing to manage services and shift workloads from peaks to troughs.
+   - **Variable Pricing**: Setting prices that vary with resource availability to encourage efficient use.
+
+2. **Server Allocation**:
+   - **Unfragmented Server Pools**: Creating large pools of servers improves agility and reduces over-provisioning by application operators.
+   - **Cost Assignments**: Establishing a cost for having servers assigned to services incentivizes returning unneeded servers.
+   - **Handling Peaks**: For seasonal peaks, internal auctions can allocate servers fairly and efficiently.
+
+#### Conclusion
+
+Optimizing data center operations involves enhancing network agility, developing algorithms and market mechanisms for resource consumption, and leveraging geo-diversity for performance and reliability. By addressing these factors, data centers can achieve greater efficiency, reduce costs, and provide better service to users.
 
 
 
