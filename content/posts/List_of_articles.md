@@ -19,6 +19,12 @@ Mysterious deaths in Tonopah, NV along with plague deaths are now the sites of c
 
 >The Modoc War, or the Modoc Campaign (also known as the Lava Beds War), was an armed conflict between the Native American Modoc people and the United States Army in northeastern California and southeastern Oregon from 1872 to 1873 (Wikipedia).
 
+```
+The Modoc War, or the Modoc Campaign (also known as the Lava Beds War), was an armed conflict between the Native American Modoc people and the United States Army in northeastern California and southeastern Oregon from 1872 to 1873 (Wikipedia).
+```
+
+
+
 ```markdown
 # Heading 1
 
