@@ -1,7 +1,7 @@
 ---
-title = "Lorem ipsum dolores eos"
-description = "Custom description (max 160 characters)"
-date = 2017-03-11T00:00:00Z
+title: "Lorem ipsum dolores eos"
+description: "Custom description (max 160 characters)"
+date: 2017-03-11T00:00:00Z
 tags:
   - markdown
   - css
