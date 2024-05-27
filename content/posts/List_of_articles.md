@@ -1,11 +1,13 @@
-+++
-date = 2017-03-11T00:00:00Z
-description = "Custom description (max 160 characters)"
-draft = false
-tags = ["markdown", "css", "html", "themes"]
+---
 title = "Lorem ipsum dolores eos"
-
-+++
+description = "Custom description (max 160 characters)"
+date = 2017-03-11T00:00:00Z
+tags:
+  - markdown
+  - css
+  - html
+  - themes
+---
 
 
 

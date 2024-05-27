@@ -6,5 +6,4 @@ tags:
 - Lorem
 - Ipsum
 draft: true
-
 ---
