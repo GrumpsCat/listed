@@ -5,5 +5,5 @@ date: 2013-09-08
 tags:
 - Lorem
 - Ipsum
-draft: true
+draft: false
 ---
