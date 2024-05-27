@@ -9,9 +9,7 @@ draft: false
 ---
 
 
-Sure! Here’s a template demonstrating various Markdown formatting features:
 
-```markdown
 # Heading 1
 
 ## Heading 2
@@ -153,8 +151,4 @@ $$
   <summary>Click to expand!</summary>
   Hidden text.
 </details>
-```
-
-This template covers most common Markdown elements and formatting options. You can copy and paste this into a Markdown editor to see how each formatting option renders.
-
 
