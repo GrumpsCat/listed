@@ -1,12 +1,10 @@
 ---
-title: "Lorem ipsum dolores eos"
-description: "Custom description (max 160 characters)"
-date: 2017-03-11
+title: Lorem ipsum tut dolores eos qui ration
+description: Sed ut perspiciatis unde omnis iste natus error sit voluptatem
+date: 2013-09-08
 tags:
-  - markdown
-  - css
-  - html
-  - themes
+- Lorem
+- Ipsum
 draft: false
 ---
 
