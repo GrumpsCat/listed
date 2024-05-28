@@ -14,6 +14,7 @@ Spring 2023
 
 ### A Post-Apocalypse in the Shadow of Clowns
 Andrew Chamings
+
 Mysterious deaths in Tonopah, NV along with plague deaths are now the sites of clown motels. 
 
 >The Modoc War, or the Modoc Campaign (also known as the Lava Beds War), was an armed conflict between the Native American Modoc people and the United States Army in northeastern California and southeastern Oregon from 1872 to 1873 (Wikipedia).
@@ -21,8 +22,8 @@ Mysterious deaths in Tonopah, NV along with plague deaths are now the sites of c
 ### A Pregnant Teenager Stuck between Conservatives' Judgement and Liberals' Arrogance
 Tamie Parker Song
 
-God allowed Job's entire family to be slaughtered and Job's own body to be afflicted.
-God tested Abraham to kill his only child, Issac. 
+> God allowed Job's entire family to be slaughtered and Job's own body to be afflicted.
+> God tested Abraham to kill his only child, Issac. 
 
 * **Layla and Majnun** is an old story of Arab origin, about the 7th-century Arabic poet Qays ibn al-Mulawwah and his lover Layla bint Mahdi (later known as Layla al-Aamiriya)
 * Martin Buber book **I and Thou**
