@@ -20,11 +20,12 @@ Mysterious deaths in Tonopah, NV along with plague deaths are now the sites of c
 
 ### A Pregnant Teenager Stuck between Conservatives' Judgement and Liberals' Arrogance
 Tamie Parker Song
+
 God allowed Job's entire family to be slaughtered and Job's own body to be afflicted.
 God tested Abraham to kill his only child, Issac. 
 
 * **Layla and Majnun** is an old story of Arab origin, about the 7th-century Arabic poet Qays ibn al-Mulawwah and his lover Layla bint Mahdi (later known as Layla al-Aamiriya)
-* Martin Buber book I and Thou
+* Martin Buber book **I and Thou**
 * A **charnel house** is a vault or building where human skeletal remains are stored. They are often built near churches for depositing bones that are unearthed while digging graves. The term can also be used more generally as a description of a place filled with death and destruction.
 * **Samizdat** was a form of dissident activity across the Eastern Bloc in which individuals reproduced censored and underground makeshift publications, often by hand, and passed the documents from reader to reader.
 
