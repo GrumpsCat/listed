@@ -10,6 +10,43 @@ draft: false
 ---
 ## Cloud Computing
 
+> Ali, Mazhar, Samee U. Khan, and Athanasios V. Vasilakos. "Security in cloud computing: Opportunities and challenges." Information sciences 305 (2015): 357-383.
+
+Keywords:
+* Cloud computing 
+* Multi-tenancy 
+* Security 
+* Virtualization 
+* Web services
+
+Popular security models of cloud computing:
+* Cube model
+    1. Service Models (X-axis)
+    1. Deployment Models (Y-axis)
+    1. Functional Categories (Z-axis)
+* Multi-tenancy model
+* Risk assessment model
+
+Common security challenges include:
+* denial-of-service
+* man-in-the-middle - alters the communication between two parties without their knowledge
+* eavesdropping
+* IP-spoofing based flooding - type of Distributed Denial of Service (DDoS) attack where an attacker sends a large volume of packets with forged source IP addresses to a target, aiming to overwhelm and disrupt the target's network or services
+* masquerading
+
+Solutions include: 
+* Secure Socket Layer (SSL)
+* Internet Security Protocol (IPSec)
+* cryptographic algorithms
+* intrusion detection and prevention systems
+* traffic cleaning
+* digital certificates
+
+XML wrapping attacks, also known as XML rewriting attacks or SOAP wrapping attacks, are a type of security vulnerability that exploits weaknesses in the way XML messages are processed and validated in web services and other systems that use XML-based communication protocols. These attacks primarily target the integrity and authentication mechanisms of SOAP (Simple Object Access Protocol) messages, although they can also affect other XML-based protocols.
+
+Xen hypervisor provides the ability to run multiple operating systems on the same computing platform.
+
+
 >Greenberg, Albert, et al. "The cost of a cloud: research problems in data center networks." ACM SIGCOMM computer communication review 39.1 (2008): 68-73.
 
 The paper explores the cost structure of cloud service data centers and identifies areas where research and development (R&D) can significantly impact cost efficiency and performance. The authors analyze the amortized costs associated with data centers and propose solutions to optimize these costs.
