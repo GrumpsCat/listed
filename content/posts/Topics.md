@@ -10,6 +10,20 @@ draft: false
 ---
 ## Cloud Computing
 
+> Shiraly, D., Eslami, Z. & Pakniat, N. Hierarchical Identity-Based Authenticated Encryption with Keyword Search over encrypted cloud data. J Cloud Comp 13, 112 (2024). https://doi.org/10.1186/s13677-024-00633-9
+
+There is a trade-off between cloud computing data privacy and searchability. 
+If data becomes encrypted before upload, the ciphered data is not searchable. 
+Two methods are available:
+    1. Traditional public-key 
+    2. Identity-based public key cryptosystems. 
+These are are all vulnerable to Keyword Guessing Attacks. 
+
+
+
+
+
+
 > Ali, Mazhar, Samee U. Khan, and Athanasios V. Vasilakos. "Security in cloud computing: Opportunities and challenges." Information sciences 305 (2015): 357-383.
 
 Keywords:
