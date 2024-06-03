@@ -11,9 +11,11 @@ draft: false
 
 ## CPU
 
-* 24 cores (8 P-cores + 16 E-cores) and 32 threads. Integrated Intel® UHD Graphics 770 included
+Intel Core i7-14700K - Core i7 14th Gen 20-Core (8P+12E) LGA 1700 125W Intel UHD Graphics 770 Processor - Boxed - BX8071514700K
+
+* 20 cores (8 P-cores + 12 E-cores) and 28 threads. Integrated Intel UHD Graphics 770 included
 * Performance hybrid architecture integrates two core microarchitectures, prioritizing and distributing workloads to optimize performance
-* Up to 6.0 GHz unlocked. 36MB Cache
+* Up to 5.6 GHz unlocked. 33MB Cache
 * Compatible with Intel 600-series (with potential BIOS update) and 700-series chipset-based motherboards
 * Turbo Boost Max Technology 3.0 Frequency, and PCIe 5.0 & 4.0 support. DDR4 and DDR5 Memory support.
 * Cooling device not included - Processor Only
