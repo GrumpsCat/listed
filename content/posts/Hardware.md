@@ -31,6 +31,7 @@ Intel Core i7-14700K - Core i7 14th Gen 20-Core (8P+12E) LGA 1700 125W Intel UHD
 * Turbo Boost Max Technology 3.0 Frequency, and PCIe 5.0 & 4.0 support. DDR4 and DDR5 Memory support.
 * Cooling device not included - Processor Only
 
+```
 ### Intel Core:
 
 - **Intel Core (2006)**: The introduction of the "Intel Core" brand, replacing the Pentium series, with Core Solo and Core Duo processors.
@@ -80,7 +81,7 @@ Intel Core i7-14700K - Core i7 14th Gen 20-Core (8P+12E) LGA 1700 125W Intel UHD
 ### Alder Lake (2021-2022):
 
 - Twelfth-generation Intel Core processors with a new hybrid architecture combining high-performance cores (P-cores) and high-efficiency cores (E-cores).
-
+```
 
 
 AMD EPYC 7763 Milan 2.45 GHz 256MB L3 Cache Socket SP3 280W 100-000000312 Server Processor
