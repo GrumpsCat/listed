@@ -5,15 +5,17 @@ date: 2020-09-08
 tags:
 - Movies
 - Films
-draft: TRUE
+draft: FALSE
 
 ---
 
-| Title              | Year | Director              | Actors               | Rating | Summary                          |
-|--------------------|------|-----------------------|----------------------|--------|----------------------------------|
-| There Will Be Blood | 2007 | Paul Thomas Anderson | Daniel Day-Lewis     | 8.2    | A ruthless oilman risks it all. |
-| The Secret of NIMH  | 1982 | Don Bluth            | Elizabeth Hartman    | 7.6    | A brave mouse faces a great peril. |
-| Birdman             | 2014 | Alejandro G. Iñárritu| Michael Keaton       | 7.7    | A washed-up actor mounts a comeback. |
-| Rosemary's Baby     | 1968 | Roman Polanski       | Mia Farrow           | 8.0    | A young wife unravels a dark secret. |
-| Inception           | 2010 | Christopher Nolan    | Leonardo DiCaprio    | 8.8    | A thief infiltrates dreams for profit. |
-| Spirited Away       | 2001 | Hayao Miyazaki       | Rumi Hiiragi         | 8.6    | A girl navigates a magical world.    |
+| Title              | Year | Director              | Actors               | Rating out of 10 | Summary         | Link |
+|--------------------|------|-----------------------|----------------------|--------|-------------------|--|
+| El Norte     | 1983 | 	Gregory Nava      | Zaide Silvia Gutiérrez, David Villalpando |   6.0  | Guatemalan siblings journey to the US at great costs   |[Link](#el-norte)
+
+
+### El Norte  
+Arturo Xuncax is a coffee picker in a Guatemalan village in the 1980s amid the [Guatemalan Civil War](https://en.wikipedia.org/wiki/Guatemalan_Civil_War), who dreams of providing his family with a better economic future in the United States. He shares these aspirations with his teenage son, Enrique. When Arturo attempts to organize a labor union, he is attacked by the military, resulting in his brutal execution and beheading. Enrique and his sister Rosa flee their village, for the United States.  
+They journey through Mexico, aided by a Coyote—a paid guide who helps migrants cross the border. To avoid deportation back to Guatemala, they pose as Mexicans when apprehended by the Border Patrol, ensuring they are sent only to a nearby Mexican town. Their journey continues with a violent robbery, followed by a crawl through a rat-infested sewer.  
+Upon arriving in the United States, Enrique and Rosa face the hardship of life as undocumented immigrants. They find work in menial jobs, such as cleaners and busboys. Rosa becomes ill and dies, leaving Enrique grief-stricken and questioning the cost of leaving his home.  
+The film is harrowing and, at times, gruesome, such as the scenes wit the father’s beheading and the siblings’ crawl through the rat-infested sewer. Yet, it’s tone is light enough to see through to the end. Directed by Gregory Nava, the film was released in 1983.
