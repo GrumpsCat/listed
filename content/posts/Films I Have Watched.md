@@ -8,9 +8,9 @@ tags:
 draft: FALSE
 
 ---
-| Title          | Year     | Country             |  Link              |
-|----------------|----------|---------------------|-------------------|
-| El Norte       | 1983     | United States       | [Details](#el-norte) |
+| Title          | Year     | Country             | 
+|----------------|----------|---------------------|
+| [El Notte](#el-norte)   | 1983     | United States    |
 
 
 ### El Norte  
