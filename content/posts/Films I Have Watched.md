@@ -8,10 +8,9 @@ tags:
 draft: FALSE
 
 ---
-| Title          | Year     | Country             | 
-|----------------|----------|---------------------|
-| [El Notte](#el-norte)   | 1983     | United States    |
-
+| Title                     | Year     | Country          | Description               |
+|---------------------------|----------|------------------|---------------------------|
+| [El Norte](#el-norte)     | 1983     | United States    | 1980's Immigration Drama  |
 
 ### El Norte  
 Arturo Xuncax is a coffee picker in a Guatemalan village in the 1980s amid the [Guatemalan Civil War](https://en.wikipedia.org/wiki/Guatemalan_Civil_War), who dreams of providing his family with a better economic future in the United States. He shares these aspirations with his teenage son, Enrique. When Arturo attempts to organize a labor union, he is attacked by the military, resulting in his brutal execution and beheading. Enrique and his sister Rosa flee their village, for the United States.  
