@@ -6,8 +6,8 @@ tags:
 - Writing
 
 ---
-Dreams  
-Magnetism  
-Movies  
-d
+- Dreams  
+- Magnetism  
+- Movies  
+- Realism
 
