@@ -9,9 +9,9 @@ draft: FALSE
 
 ---
 
-| Title              | Year | Director              | Actors               | Rating out of 10 | Summary         | Link |
-|--------------------|------|-----------------------|----------------------|--------|-------------------|--|
-| El Norte     | 1983 | 	Gregory Nava      | Zaide Silvia Gutiérrez, David Villalpando |   6.0  | Guatemalan siblings journey to the US at great costs   |[Link](#el-norte)
+| Title              | Year | Country              | Rating out of 10 | Summary  | Link |
+|--------------------|------|-----------------------|--------|-------------------|--|
+| El Norte           | 1983 | 	United States        | 6.0  | Guatemalan siblings journey to the US at great costs   |[Link](#el-norte)
 
 
 ### El Norte  
