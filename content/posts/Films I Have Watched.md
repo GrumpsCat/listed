@@ -1,6 +1,6 @@
 ---
-title: Movies
-description: Movies
+title: Films
+description: Films, a summary and a rating
 date: 2020-09-08
 tags:
 - Movies
