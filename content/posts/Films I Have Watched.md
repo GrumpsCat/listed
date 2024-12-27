@@ -9,9 +9,9 @@ draft: FALSE
 
 ---
 
-| Title          | Year | Country              | Rating out of 10  | Link |
-|----------------|------|-----------------------|-----------------|----|
-| El Norte       | 1983 | 	United States       | 6.0    | [*](#el-norte)
+| Title          | Year   | Country              | Rating out of 10  | Link |
+|----------------|--------|-------------------------|-----------------|---------------|
+| El Norte       | 1983   | 	United States                   | 6.0             | [*](#el-norte)
 
 
 ### El Norte  
