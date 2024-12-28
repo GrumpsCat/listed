@@ -16,6 +16,7 @@ draft: FALSE
 
 ### The Runner
 >Young Amiro lives in poverty in an Iranian port city, working as a bottle collector, shoe shiner, and ice water seller. Despite the harshness of his environment, marked by intense heat, heavy competition, and the constant threat of theft, his life is brightened by the camaraderie of his friends and his dreams of flying planes or sailing away. In heat and surrounded by fire, Amiro and his friends organize a race to a melting block of ice, which he triumphantly wins.
+
 The Runner is a deeply sad story about poverty and child labor, but equally uplifting, showcasing the transformative power of aspirations and hope.
 Directed by Amir Naderi, the film was released in 1985 in Persian. 
 
