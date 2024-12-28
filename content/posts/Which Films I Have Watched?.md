@@ -10,9 +10,15 @@ draft: FALSE
 ---
 | Title                     | Year     | Country          | Description               |Rating        |
 |:--------------------------|:---------|:-----------------|:--------------------------|:-------------|
+| [Poppy Field](#poppy-field) | 2020     | Romania        | Romanian policeman outing during a protest    |★★★☆☆|
 | [The Runner](#the-runner) | 1985     | Iran             | A boy works and dreams    |★★★☆☆|
 | [El Norte](#el-norte)     | 1983     | United States    | 1980's Immigration Drama  |★★☆☆☆|
 
+
+### Poppy Field
+
+> Romanian gendarme Cristi is in a secret relationship with Hadi. He is called to a protest against a queer film screening where a protester threatens to out him. 
+Directed by Eugen Jebeleanu, the film was released in 2020.
 
 ### The Runner
 >Young Amiro lives in poverty in an Iranian port city, working as a bottle collector, shoe shiner, and ice water seller. Despite the harshness of his environment, marked by intense heat, heavy competition, and the constant threat of theft, his life is brightened by the camaraderie of his friends and his dreams of flying planes or sailing away. In heat and surrounded by fire, Amiro and his friends organize a race to a melting block of ice, which he triumphantly wins.
