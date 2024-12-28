@@ -17,7 +17,8 @@ draft: FALSE
 
 ### Poppy Field
 
-> Romanian gendarme Cristi is in a secret relationship with Hadi. He is called to a protest against a queer film screening where a protester threatens to out him. 
+> Romanian gendarme Cristi is in a secret relationship with Hadi. He is called to a protest against a queer film screening where a protester threatens to out him.
+
 Directed by Eugen Jebeleanu, the film was released in 2020.
 
 ### The Runner
