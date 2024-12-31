@@ -17,6 +17,10 @@ draft: FALSE
 
 
 ### Next Exit
+> <em>Life after death has been proven, and participants in a trial seek to be the first to end their life, or rather, start their life after death. Troubled Rose meets Teddy in a trek across the country to take part in this trial, meeting characters along the way and growing closer at every stage. </em>
+
+Road trip, mis-match buddy road trip story that is a little bit of everything - black comedy, self-realization drama, opposites attract romance and supernatural horror. You never know what is coming next - a new character or genre the film takes on. The new life they seek after death, and ultimately decline for one another, seems to suggest that redemption is available to us all. 
+Directed by Mali Elfman and released in 2022. 
 
 ### Poppy Field
 
