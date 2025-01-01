@@ -10,6 +10,9 @@ draft: FALSE
 ---
 | Title                     | Year     | Country          | Description               |Rating        |
 |:--------------------------|:---------|:-----------------|:--------------------------|:-------------|
+| Suburban Birds    | 2018     | China    | Two related mysterious stories in Hangzhou  |★★☆☆☆|
+| Colonel Redl    | 1985     | Hungary    | Pre-WWI general's early life  |★★☆☆☆|
+| L-argent     | 1983   | French    | Chain of criminal events  |★★☆☆☆|
 | [Next Exit](#next-exit)     | 2022     | United States    | Sci-Fi Buddy Roadtrip  |★★☆☆☆|
 | [Poppy Field](#poppy-field) | 2020     | Romania        | Romanian policeman outing during a protest    |★★★☆☆|
 | [The Runner](#the-runner) | 1985     | Iran             | A boy works and dreams    |★★★☆☆|
