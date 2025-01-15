@@ -12,5 +12,7 @@ All reality is filtered through human senses and cognition, meaning that everyth
 
 ![Penrose Stairs]([https://upload.wikimedia.org/wikipedia/commons/3/3c/Cafe_wall_illusion.png](https://openclipart.org/image/800px/318460))
 
+*Figure 1: Penrose Stairs.*
+
 [^1]: Kant, Immanuel. *Critique of Pure Reason.* Translated by Marcus Weigelt, Penguin Classics, 2003.
 
