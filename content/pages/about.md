@@ -2,8 +2,8 @@
 title: About
 
 ---
-# Hi, it's Greg.
+# About
 
-* I write about various topics! I always adding.
-* I update most post continuously and irregularly.
+**What is this site about?**\
+*Just topics I am interested in.*
 
