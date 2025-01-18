@@ -1,5 +1,5 @@
 ---
-title: Why be an Anti_Realist?
+title: Why be an Anti Realist?
 description: Understanding the arguments of anti-realism, and realism
 date: 2025-01-14
 tags:
