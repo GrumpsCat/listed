@@ -10,6 +10,8 @@ draft: FALSE
 ---
 | Title                     | Year     | Country          | Description               |Rating        |
 |:--------------------------|:---------|:-----------------|:--------------------------|:-------------|
+| Cold War    | 2018     | Poland    | Post-WWII director and singer romance  |★★☆☆☆|
+| Ascension    | 2021     | United States    | Factory to water park-a look at the "Chinese Dream"  |★★★★☆|
 | Suburban Birds    | 2018     | China    | Two related mysterious stories in Hangzhou  |★★☆☆☆|
 | Colonel Redl    | 1985     | Hungary    | Pre-WWI general's early life  |★★☆☆☆|
 | L-argent     | 1983   | French    | Chain of criminal events  |★★☆☆☆|
