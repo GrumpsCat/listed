@@ -27,3 +27,19 @@ Between the late 19th and mid-20th centuries, physics underwent three profound p
 
 Similarly dramatic paradigm shifts have occurred in other fields. In biology, Darwin’s theory of evolution (1859) replaced creationist views, showing that species evolve through natural selection, fundamentally altering humanity’s understanding of life. In medicine, germ theory (1860s) displaced miasma theory, revolutionizing disease prevention and treatment by identifying microorganisms as the cause of illness. In economics, the shift from classical economics to Keynesian theory (1936) redefined how governments manage economies, emphasizing active intervention to stabilize markets during recessions.
 
+## Underdetermination of Theories
+
+| **Aspect**               | **Copenhagen Interpretation**                                     | **Many-Worlds Interpretation**                                     |
+|---------------------------|-------------------------------------------------------------------|--------------------------------------------------------------------|
+| **Wavefunction Collapse** | Yes, the wavefunction collapses during measurement.              | No collapse; the wavefunction evolves deterministically.           |
+| **Nature of Reality**     | Single reality chosen probabilistically upon measurement.        | Infinite branching realities, all equally real.                   |
+| **Role of the Observer**  | Central: The observer triggers wavefunction collapse.            | Minimal: The observer becomes part of the multiverse and experiences one branch. |
+| **Determinism**           | Non-deterministic: Measurement introduces randomness.            | Deterministic: The wavefunction evolves predictably under the Schrödinger equation. |
+| **Superposition**         | Exists until measurement collapses the system into one outcome.  | Exists, and all possible outcomes occur in separate universes.     |
+| **Ontology**              | Reality is observer-dependent; unmeasured states are not "real." | Reality is objective and includes all possible outcomes in parallel. |
+| **Mathematical Simplicity**| Requires the additional postulate of wavefunction collapse.      | Adheres strictly to the Schrödinger equation without extra rules.  |
+| **What It Rejects**        | The existence of parallel universes or branching realities.      | The concept of wavefunction collapse and observer-induced randomness. |
+| **Experimental Testability**| Difficult to test collapse mechanisms directly.                | Difficult to test due to the unobservability of other branches.    |
+| **Philosophical Implications** | Suggests observer involvement and a probabilistic reality.   | Challenges traditional views of identity, free will, and reality.  |
+| **Schrödinger’s Cat**      | The cat is in superposition (alive and dead) until observed.     | The universe splits: one branch has a living cat, the other has a dead cat. |
+
