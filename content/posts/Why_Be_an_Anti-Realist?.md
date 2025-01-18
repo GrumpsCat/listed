@@ -1,10 +1,11 @@
 ---
-title: Realism vs Anti-Realism
-description: Understanding Realism
+title: Why be an Anti_Realist?
+description: Understanding the arguments of anti-realism, and realism
 date: 2025-01-14
 tags:
 - Philosophy
 - Realism
+- Antirealism
 draft: false
 
 ---
