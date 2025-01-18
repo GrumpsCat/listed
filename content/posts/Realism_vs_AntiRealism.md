@@ -23,7 +23,7 @@ Between the late 19th and mid-20th centuries, physics underwent three profound p
 
 ![Paradigm Shift Illustration](/images/paradigmshift200.png)
 
-*Figure 4: Paradigm Shifts over the last 200 years in 9 fields. 
+*Figure 4: Paradigm Shifts over the last 200 years in 9 fields.* 
 
 Similarly dramatic paradigm shifts have occurred in other fields. In biology, Darwin’s theory of evolution (1859) replaced creationist views, showing that species evolve through natural selection, fundamentally altering humanity’s understanding of life. In medicine, germ theory (1860s) displaced miasma theory, revolutionizing disease prevention and treatment by identifying microorganisms as the cause of illness. In economics, the shift from classical economics to Keynesian theory (1936) redefined how governments manage economies, emphasizing active intervention to stabilize markets during recessions.
 
