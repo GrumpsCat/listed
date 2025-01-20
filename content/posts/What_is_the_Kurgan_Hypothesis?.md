@@ -35,5 +35,4 @@ This hypothesis contends that PIE languages evolved in situ over millennia withi
 
 Each of these hypotheses reflects distinct interpretations of linguistic, archaeological, and genetic evidence. The ongoing debate underscores the complexity of reconstructing ancient human history, highlighting the need for interdisciplinary approaches to understanding the PIE language family's origins. Exploring the geographic and cultural implications of these theories helps illuminate the dynamic interactions that shaped early civilizations.
 
-
-{{< image "https://image.slidesharecdn.com/indoeuropean-language-tree-1192712218474033-1/95/indoeuropean-language-tree-1-638.jpg?cb=1422672641" "Indo-European Language Tree" caption="An illustration of the Indo-European Language Tree." >}}
+{{< figure src="https://image.slidesharecdn.com/indoeuropean-language-tree-1192712218474033-1/95/indoeuropean-language-tree-1-638.jpg?cb=1422672641" alt="Indo-European Language Tree" caption="An illustration of the Indo-European Language Tree." width="800" >}}
