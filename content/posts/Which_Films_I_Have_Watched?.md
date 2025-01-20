@@ -12,10 +12,10 @@ draft: FALSE
 |:--------------------------|:---------|:-----------------|:--------------------------|:-------------|
 | Cold War    | 2018     | Poland    | Post-WWII director and singer romance  |★★☆☆☆|
 | Ascension    | 2021     | United States    | Documentary on the "Chinese Dream"  |★★★★☆|
-| Suburban Birds    | 2018     | China    | Two related mysterious stories in Hangzhou  |★★☆☆☆|
+| Suburban Birds    | 2018     | China    | Two related mysterious stories in Hangzhou  |★★★☆☆|
 | Colonel Redl    | 1985     | Hungary    | Pre-WWI general's early life  |★★☆☆☆|
-| L-argent     | 1983   | French    | Chain of criminal events  |★★☆☆☆|
-| [Next Exit](#next-exit)     | 2022     | United States    | Sci-Fi Buddy Roadtrip  |★★☆☆☆|
+| L-argent     | 1983   | French    | Chain of criminal events  |★★★☆☆|
+| [Next Exit](#next-exit)     | 2022     | United States    | Sci-Fi Buddy Roadtrip  |★★★☆☆|
 | [Poppy Field](#poppy-field) | 2020     | Romania        | Romanian policeman outing during a protest    |★★★☆☆|
 | [The Runner](#the-runner) | 1985     | Iran             | A boy works and dreams    |★★★☆☆|
 | [El Norte](#el-norte)     | 1983     | United States    | 1980's Immigration Drama  |★★☆☆☆|
