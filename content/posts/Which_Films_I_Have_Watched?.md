@@ -10,6 +10,7 @@ draft: FALSE
 ---
 | Title                     | Year     | Country          | Description               |Rating        |
 |:--------------------------|:---------|:-----------------|:--------------------------|:-------------|
+| The Cool Lakes of Death    | 1982     | Netherlands    | 1860's Dutch woman’s descent |★★☆☆☆|
 | Cold War    | 2018     | Poland    | Post-WWII director and singer romance  |★★☆☆☆|
 | Ascension    | 2021     | United States    | Documentary on the "Chinese Dream"  |★★★★☆|
 | Suburban Birds    | 2018     | China    | Two related mysterious stories in Hangzhou  |★★★☆☆|
