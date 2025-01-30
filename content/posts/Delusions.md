@@ -18,7 +18,21 @@ draft: FALSE
 
 ## 1. Understanding Delusional Misidentification Syndromes (DMS)  
 - Define DMS as a group of disorders where individuals misidentify people, places, or objects.  
-- Explain the role of the brain’s recognition and emotional response systems in these syndromes.  
+- Explain the role of the brain’s recognition and emotional response systems in these syndromes.
+
+# Delusional Misidentification Syndromes (DMS)
+
+| **Syndrome**                   | **Description** | **Key Features** |
+|--------------------------------|---------------|----------------|
+| **Capgras Delusion** | The belief that a loved one has been replaced by an identical imposter. | - Lack of emotional recognition despite visual recognition. <br> - Often accompanied by paranoia or fear. |
+| **Fregoli Delusion** | The belief that different people are actually a single person in disguise. | - Sense of persecution or stalking. <br> - Hyperconnectivity in facial recognition processing. |
+| **Intermetamorphosis** | The belief that people physically transform into others. | - Claims of witnessing physical transformations. <br> - Often accompanied by paranoia. |
+| **Subjective Doubles Syndrome** (Autoscopic Doubles) | The belief that the affected person has a physical duplicate. | - Claims their "double" is taking over their life. <br> - Sometimes linked to Cotard’s Delusion. |
+| **Reduplicative Paramnesia** | The belief that a familiar place has been duplicated or relocated. | - Patients believe they are in a duplicate hospital or house. <br> - Common in dementia, strokes, head trauma. |
+| **Mirrored-Self Misidentification** | The belief that one’s reflection in the mirror is a different person. | - Talking to or expressing fear of the reflection. <br> - Avoidance of mirrors. |
+| **Cotard’s Delusion** (Walking Corpse Syndrome) | The belief that one is dead, does not exist, or has lost internal organs. | - Some refuse to eat or care for themselves. <br> - Overlaps with nihilistic delusions. |
+| **Syndrome of Delusional Companions** | The belief that inanimate objects are sentient or alive. | - Talking to or caring for objects as if they are alive. <br> - May lead to social withdrawal. |
+| **Phantom Boarder Syndrome** | The belief that unknown people secretly live in one’s home. | - Complaints of unseen "intruders" eating food or moving furniture. <br> - Similar to paranoia but focused on unseen "guests." |
 
 ## 2. The Fregoli Delusion: Everyone Is Someone Else  
 - **Definition**: The belief that different people are actually the same person in disguise.  
