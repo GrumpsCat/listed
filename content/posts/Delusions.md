@@ -1,5 +1,5 @@
 ---
-title: Permanent Imposter Syndrome. What is Fregoli's and Capgras Delusion?
+title: What if Everybody is an Imposter?
 description: 
 date: 2025-01-29
 tags:
@@ -9,7 +9,7 @@ draft: FALSE
 
 ---
 
-# The Mind’s Mirror: Exploring Fregoli, Capgras, and Delusional Misidentification Syndromes
+# What if Everybody is an Imposter? Exploring Fregoli, Capgras, and Delusional Misidentification Syndromes
 
 ## Introduction  
 - Briefly introduce the concept of delusional misidentification syndromes (DMS).  
