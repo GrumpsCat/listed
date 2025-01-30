@@ -12,9 +12,11 @@ draft: FALSE
 # What if Everybody is an Imposter? Exploring Fregoli, Capgras, and Delusional Misidentification Syndromes
 
 ## Introduction  
-- Briefly introduce the concept of delusional misidentification syndromes (DMS).  
-- Explain how these disorders affect perception and belief, leading to mistaken identities.  
-- Mention the relevance of Fregoli and Capgras syndromes in both psychiatric and neurological contexts.  
+Humans can accurately recognize other human faces with a 97.35 % accuracy rate. ([Huang 2007](https://people.cs.umass.edu/~elm/papers/lfw.pdf)) However, when this fundamental process is disrupted, it can give rise to delusional misidentification syndromes (DMS)—a group of rare but striking disorders where individuals incorrectly perceive the identities of people, objects, or locations. These syndromes distort reality, causing individuals to believe that familiar people have been replaced by imposters, that strangers are secretly the same person in disguise, or even that duplicates of places exist.
+
+At the core of DMS is a breakdown in the brain’s ability to integrate perception and emotional recognition, often leading to paranoia, confusion, and distress. Unlike simple memory lapses or mistaken identity, these disorders are deeply delusional, meaning the affected individuals are firmly convinced of their beliefs despite evidence to the contrary.
+
+Among the most well-known of these conditions are Fregoli Syndrome and Capgras Syndrome. Fregoli Syndrome causes individuals to believe that different people are, in fact, the same person constantly changing their appearance. In contrast, Capgras Syndrome leads to the belief that a familiar loved one has been replaced by an identical imposter. These syndromes are often associated with schizophrenia, brain injuries, neurodegenerative diseases, and psychiatric disorders, revealing a complex interaction between cognition, facial recognition, and emotional processing.
 
 ## 1. Understanding Delusional Misidentification Syndromes (DMS)  
 - Define DMS as a group of disorders where individuals misidentify people, places, or objects.  
