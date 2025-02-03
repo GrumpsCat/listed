@@ -10,6 +10,9 @@ draft: FALSE
 ---
 | Title                     | Year     | Country          | Description               |Rating        |
 |:--------------------------|:---------|:-----------------|:--------------------------|:-------------|
+| Invisible Demons    | 2021     | India    | Documentary about the conditions in India  |★★★☆☆|
+| The Celebration    | 1998     | Denmark    | Dogme 95 style family gathering |★★★☆☆|
+| Bluebeard    | 2017     | South Korean    | Man sees murder everywhere |★★★★☆|
 | Sátántangó    | 1994     | Hungary    | Slow demise of a rural Hungarian village |★★★☆☆|
 | The Cool Lakes of Death    | 1982     | Netherlands    | 1860's Dutch woman’s descent |★★☆☆☆|
 | Cold War    | 2018     | Poland    | Post-WWII director and singer romance  |★★☆☆☆|
