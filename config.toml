@@ -9,7 +9,6 @@ paginate = 9999
 minify = true
 disableHugoGeneratorInject = true
 
-
 [taxonomies]
   tag = "tags"
   category = "categories"
@@ -26,7 +25,7 @@ disableHugoGeneratorInject = true
   [privacy.vimeo]
     disable = true
   [privacy.youtube]
-    disable = true
+    disable = false  # Ensure this is set to false to allow YouTube embeds
 
 [Author]
   name = "Listedd"
@@ -86,3 +85,9 @@ disableHugoGeneratorInject = true
     name       = "About"
     url        = "/about/"
     weight     = -20
+
+# Enable shortcodes, including YouTube embeds
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
