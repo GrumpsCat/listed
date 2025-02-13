@@ -18,6 +18,8 @@ At the core of DMS is a breakdown in the brain’s ability to integrate percepti
 
 Among the most well-known of these conditions are Fregoli Syndrome and Capgras Syndrome. Fregoli Syndrome causes individuals to believe that different people are, in fact, the same person constantly changing their appearance. In contrast, Capgras Syndrome leads to the belief that a familiar loved one has been replaced by an identical imposter. These syndromes are often associated with schizophrenia, brain injuries, neurodegenerative diseases, and psychiatric disorders, revealing a complex interaction between cognition, facial recognition, and emotional processing.
 
+Prevalence in all psychiatric inpatients ranges from 1.3 to 4.1 percent ([Silva 1994](https://pubmed.ncbi.nlm.nih.gov/7846240/)).
+
 ## 1. Understanding Delusional Misidentification Syndromes (DMS)  
 - Define DMS as a group of disorders where individuals misidentify people, places, or objects.  
 - Explain the role of the brain’s recognition and emotional response systems in these syndromes.
@@ -26,10 +28,10 @@ Among the most well-known of these conditions are Fregoli Syndrome and Capgras S
 
 | **Syndrome**                   | **Description** | **Key Features** |
 |--------------------------------|---------------|----------------|
-| **Capgras Delusion** | The belief that a loved one has been replaced by an identical imposter. | - Lack of emotional recognition despite visual recognition. <br> - Often accompanied by paranoia or fear. |
-| **Fregoli Delusion** | The belief that different people are actually a single person in disguise. | - Sense of persecution or stalking. <br> - Hyperconnectivity in facial recognition processing. |
-| **Intermetamorphosis** | The belief that people physically transform into others. | - Claims of witnessing physical transformations. <br> - Often accompanied by paranoia. |
-| **Subjective Doubles Syndrome** (Autoscopic Doubles) | The belief that the affected person has a physical duplicate. | - Claims their "double" is taking over their life. <br> - Sometimes linked to Cotard’s Delusion. |
+| **Capgras Delusion** | The belief that a loved one has been replaced by an identical imposter (hypoidentiications) | - Lack of emotional recognition despite visual recognition. <br> - Often accompanied by paranoia or fear. |
+| **Fregoli Delusion** | The belief that different people are actually a single person in disguise (hyperidentiication) | - Sense of persecution or stalking. <br> - Hyperconnectivity in facial recognition processing. |
+| **Intermetamorphosis** | The belief that people physically transform into others (hyperidentiication). | - Claims of witnessing physical transformations. <br> - Often accompanied by paranoia. |
+| **Subjective Doubles Syndrome** (Autoscopic Doubles) | The belief that the affected person has a physical duplicate (hyperidentiication). | - Claims their "double" is taking over their life. <br> - Sometimes linked to Cotard’s Delusion. |
 | **Reduplicative Paramnesia** | The belief that a familiar place has been duplicated or relocated. | - Patients believe they are in a duplicate hospital or house. <br> - Common in dementia, strokes, head trauma. |
 | **Mirrored-Self Misidentification** | The belief that one’s reflection in the mirror is a different person. | - Talking to or expressing fear of the reflection. <br> - Avoidance of mirrors. |
 | **Cotard’s Delusion** (Walking Corpse Syndrome) | The belief that one is dead, does not exist, or has lost internal organs. | - Some refuse to eat or care for themselves. <br> - Overlaps with nihilistic delusions. |
@@ -47,7 +49,7 @@ The disorder is named after Italian actor Leopoldo Fregoli, who was renowned for
   <p><em>ANOMALISA - Trailer (2015) - Paramount Pictures</em></p>
 </div>
 
-I was shocked to learn about Fregoli Delusion when I watched the fictional drama film [Anomalisa](https://www.imdb.com/title/tt2401878/) (2015), which portrays the main character, Michael Stone, who is resigned to a mundane and unsettling life with the condition. The film potraits his point-of-view, where everyone around him as having the same face and voice. Thus he experiences a  deep sense of isolation and distance until he meets Lisa, the first person to ever look different to him. 
+I was shocked to learn about Fregoli Delusion when I watched the fictional drama film [Anomalisa](https://www.imdb.com/title/tt2401878/) (2015), which portrays the main character, Michael Stone, who is resigned to a mundane and unsettling life with the condition. The film potraits his point-of-view, where everyone around him as having the same face and voice. Thus he experiences a  deep sense of isolation and distance until he meets Lisa, the first person to ever look different to him. For those not interested in drama, Invasion of the Body Snatchers (1956) will also suffice. 
 
 The etiology of Fregoli Delusion is believed to stem from either temporal lobe dysfunction, particularly in the fusiform gyrus responsible for facial recognition, or dopamine dysregulation in the mesolimbic system, which can lead to heightened associative processing and delusional misidentification. The fusiform gyrus, a part of the temporal lobe, is critical for recognizing faces. When it malfunctions, as is suspected in Fregoli Delusion, the brain may mistakenly associate different faces with the same identity, leading to false recognition. In addition, studies suggest that dopamine dysregulation plays a key role. Dopamine, a neurotransmitter responsible for regulating thought processes and perception, is often found to be imbalanced in individuals with delusional disorders. Overactivity in dopamine pathways, particularly in the mesolimbic system, could contribute to heightened pattern recognition, causing the brain to form incorrect associations between different people.
 
@@ -86,4 +88,5 @@ Fregoli Delusion is frequently linked to other neurological and psychiatric cond
 - Highlight the importance of further research in neurology and psychiatry.  
 - End with a reflection on how perception shapes reality.  
 
-This Markdown format keeps the structure clear and easily readable for blogs or documentation. Let me know if you need any modifications! 🚀
+Other not explored here: delusional companions,  clonal pluralization of the self, Somatoparaphrenia is a subtype of
+asomatosognosia
