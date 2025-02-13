@@ -37,13 +37,24 @@ Among the most well-known of these conditions are Fregoli Syndrome and Capgras S
 | **Phantom Boarder Syndrome** | The belief that unknown people secretly live in one’s home. | - Complaints of unseen "intruders" eating food or moving furniture. <br> - Similar to paranoia but focused on unseen "guests." |
 
 ## 2. The Fregoli Delusion: Everyone Is Someone Else  
-- **Definition**: The belief that different people are actually the same person in disguise.  
-- **Origin**: Named after Italian actor Leopoldo Fregoli, known for rapid costume changes.  
-- **Symptoms and real-world impact**: How patients perceive threats or familiarity in strangers.  
-- **Neurological and psychological theories behind Fregoli**:  
-  - Dysfunction in facial recognition (fusiform gyrus).  
-  - Dopamine dysregulation.  
-  - Connections to schizophrenia and brain injuries.  
+
+Fregoli Delusion is a rare psychiatric disorder in which an individual preceives different people are possibly the same person, but in disguise. This condition often leads to severe paranoia, distress, and significant difficulties in social interactions, as those affected may feel they are being followed or manipulated by a single person appearing in various forms over long periods of time. 
+
+The disorder is named after Italian actor Leopoldo Fregoli, who was renowned for his ability to rapidly change costumes and transform into different characters on stage. The namesake reflects the theme of the delusion—the perception that multiple identities are mere disguises of one persistent individual.
+
+{{< youtube WQkHA3fHk_0 >}}
+
+I was shocked to learn about Fregoli Delusion when I watched the fictional drama film Anomalisa (2015), which portrays the main character, Michael Stone, who is resigned to a mundane and unsettling life with the condition. The film potraits his point-of-view, where everyone around him as having the same face and voice, emphasizing his deep sense of isolation and distance. 
+
+
+
+The origins of this disorder can be traced back to abnormalities in the brain, particularly in the areas responsible for facial recognition and emotional processing. The fusiform gyrus, a part of the temporal lobe, is critical for recognizing faces. When it malfunctions, as is suspected in Fregoli Delusion, the brain may mistakenly associate different faces with the same identity, leading to false recognition. In addition, studies suggest that dopamine dysregulation plays a key role. Dopamine, a neurotransmitter responsible for regulating thought processes and perception, is often found to be imbalanced in individuals with delusional disorders. Overactivity in dopamine pathways, particularly in the mesolimbic system, could contribute to heightened pattern recognition, causing the brain to form incorrect associations between different people.
+
+Moreover, Fregoli Delusion is frequently linked to other neurological and psychiatric conditions, such as schizophrenia, dementia, and traumatic brain injuries. Many cases involve damage to the right frontal and temporal lobes, areas responsible for reasoning, memory, and perception. Patients with schizophrenia, a disorder characterized by hallucinations and delusions, sometimes exhibit Fregoli-like symptoms, reinforcing the idea that this delusion is part of a broader spectrum of misidentification syndromes. Fregoli Delusion also shares similarities with Capgras Delusion, in which a person believes that a loved one has been replaced by an identical impostor. Both conditions highlight the complex ways in which the brain processes identity and familiarity.
+
+Despite its rarity, Fregoli Delusion has been studied for its implications on neuroscience and mental health. Understanding this disorder provides valuable insight into how the brain constructs reality and what happens when that process goes awry. While treatments such as antipsychotic medications, cognitive behavioral therapy (CBT), and neurological interventions can help manage symptoms, there is still much to uncover about its exact causes and mechanisms. As research advances, a deeper understanding of Fregoli Delusion could lead to better diagnostic and treatment approaches for individuals suffering from similar conditions.
+
+In conclusion, Fregoli Delusion is a fascinating yet debilitating disorder that challenges our understanding of identity and perception. Rooted in dysfunctions of facial recognition, dopamine regulation, and psychiatric illness, this condition offers insight into the fragile nature of reality as interpreted by the human brain. Though rare, its impact on those who experience it is significant, often leading to severe paranoia and social withdrawal. Continued research is essential to developing more effective treatments and helping those affected regain a sense of normalcy in their perception of the world.
 
 ## 3. The Capgras Delusion: The Imposter Syndrome  
 - **Definition**: The belief that a loved one has been replaced by an identical imposter.  
