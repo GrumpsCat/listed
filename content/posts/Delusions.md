@@ -42,7 +42,10 @@ Fregoli Delusion is a rare psychiatric disorder in which an individual preceives
 
 The disorder is named after Italian actor Leopoldo Fregoli, who was renowned for his ability to rapidly change costumes and transform into different characters on stage. The namesake reflects the theme of the delusion—the perception that multiple identities are mere disguises of one persistent individual.
 
-{{< youtube WQkHA3fHk_0 >}}
+<div style="text-align: center;">
+  {{< youtube WQkHA3fHk_0 >}}
+  <p><em>ANOMALISA - Trailer (2015) - Paramount Pictures</em></p>
+</div>
 
 I was shocked to learn about Fregoli Delusion when I watched the fictional drama film [Anomalisa](https://www.imdb.com/title/tt2401878/) (2015), which portrays the main character, Michael Stone, who is resigned to a mundane and unsettling life with the condition. The film potraits his point-of-view, where everyone around him as having the same face and voice. Thus he experiences a  deep sense of isolation and distance until he meets Lisa, the first person to ever look different to him. 
 
