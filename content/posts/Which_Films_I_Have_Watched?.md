@@ -10,6 +10,7 @@ draft: FALSE
 ---
 | Title                     | Year     | Country          | Description               |Rating        |
 |:--------------------------|:---------|:-----------------|:--------------------------|:-------------|
+| War of the Worlds    | 1953     | United States    | Aliens invade 1950's small town  |★★★☆☆|
 | Invisible Demons    | 2021     | India    | Documentary about the conditions in India  |★★★☆☆|
 | The Celebration    | 1998     | Denmark    | Dogme 95 style family gathering |★★★☆☆|
 | Bluebeard    | 2017     | South Korean    | Man sees murder everywhere |★★★★☆|
