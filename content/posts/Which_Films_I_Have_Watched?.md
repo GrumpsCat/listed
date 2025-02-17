@@ -10,6 +10,7 @@ draft: FALSE
 ---
 | Title                     | Year     | Country          | Description               |Rating        |
 |:--------------------------|:---------|:-----------------|:--------------------------|:-------------|
+| Polyester    | 1981     | United States    | Campy, dark satire of a suburban family    |★★☆☆☆|
 | Rafiki    | 2018     | Kenya    | Difficult romance in Nairobi   |★★☆☆☆|
 | War of the Worlds    | 1953     | United States    | Aliens invade 1950's small town  |★★★☆☆|
 | Invisible Demons    | 2021     | India    | Documentary about the conditions in India  |★★★☆☆|
