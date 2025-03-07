@@ -56,12 +56,9 @@ The etiology of Fregoli Delusion is believed to stem from either temporal lobe d
 Fregoli Delusion is frequently linked to other neurological and psychiatric conditions, such as schizophrenia, dementia, and traumatic brain injuries. Many cases involve damage to the right frontal and temporal lobes, areas responsible for reasoning, memory, and perception. Patients with schizophrenia, a disorder characterized by hallucinations and delusions, sometimes exhibit Fregoli-like symptoms, reinforcing the idea that this delusion is part of a broader spectrum of misidentification syndromes. Fregoli Delusion also shares similarities with Capgras Delusion, in which a person believes that a loved one has been replaced by an identical impostor. Both conditions highlight the complex ways in which the brain processes identity and familiarity.
 
 ## 3. The Capgras Delusion: The Imposter Syndrome  
-- **Definition**: The belief that a loved one has been replaced by an identical imposter.  
-- **Key symptoms and case studies**.  
-- **Possible causes**:  
-  - Disconnection between facial recognition and emotional processing.  
-  - Damage to the limbic system or the amygdala’s role.  
-  - Links to neurodegenerative diseases like Alzheimer’s.  
+Capgras delusion is a rare psychiatric disorder in which an individual misidentifies a familiar person—such as a family member or friend—as someone who closely resembles them but is, in their perception, an impostor. So unlike ordinary misidentification, this delusion reflects a disconnection between the ability to associate deeply familiar faces with the expected sense of personal connection. 
+
+First described by the French psychiatrist Joseph Capgras in 1923, the condition is often linked to schizophrenia, dementia, or brain injuries, particularly those affecting the right hemisphere.
 
 ## 4. Other Related Delusions  
 - **Intermetamorphosis**: The belief that people physically transform into others.  
