@@ -10,6 +10,7 @@ draft: FALSE
 ---
 | Title                     | Year     | Country          | Description               |Rating        |
 |:--------------------------|:---------|:-----------------|:--------------------------|:-------------|
+| Akira Kurosawa's Dreams    | 1990  | Japan | Eight dreams about the human condition    |★★★★★|
 | Sympathy for Mr. Vengeance    | 2002     | Republic of Korea    |  Revenge thriller of violence   |★★★★☆|
 | Bacurau    | 2019     | Brazil    | Weird Western-UFO drama in the sertão    |★★★☆☆|
 | Crossroads    | 2015     | Türkiye    | Brothers relive death of a friend    |★★☆☆☆|
