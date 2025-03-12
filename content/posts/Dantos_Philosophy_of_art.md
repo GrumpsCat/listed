@@ -1,10 +1,14 @@
-+++
-date = "2017-03-11T00:00:00Z"
-description = "Custom description (max 160 characters)"
-tags = ["markdown", "css", "html", "themes"]
-title = "Arthur Danto's Questions in the Philosophy of Art"
-draft = true
-+++
+---
+title: Arthur Danto's Questions in the Philosophy of Art
+description: Custom description (max 160 characters)
+date: 2017-03-11T00:00:00Z
+tags:
+  - markdown
+  - css
+  - html
+  - themes
+draft: false
+---
 
 ## Danto's End of Art
 Arthur Danto's "end of art" thesis is one of his most influential and provocative contributions to the philosophy of art. The thesis posits that the historical narrative of art, characterized by a linear progression of styles and movements, has come to an end. Here is an expanded look at this concept:
