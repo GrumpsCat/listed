@@ -1,9 +1,9 @@
 +++
-date = 2017-03-11T00:00:00Z
+date = "2017-03-11T00:00:00Z"
 description = "Custom description (max 160 characters)"
 tags = ["markdown", "css", "html", "themes"]
 title = "Arthur Danto's Questions in the Philosophy of Art"
-
+draft = true
 +++
 
 ## Danto's End of Art
