@@ -7,7 +7,7 @@ tags:
   - css
   - html
   - themes
-draft: false
+draft: true
 ---
 
 ## Danto's End of Art
