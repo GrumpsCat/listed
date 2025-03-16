@@ -10,6 +10,8 @@ draft: FALSE
 ---
 | Title                     | Year     | Country          | Description               |Rating        |
 |:--------------------------|:---------|:-----------------|:--------------------------|:-------------|
+| I Am Cuba    | 1964   | Cuba    | Four stories on Cuban life    |★★☆☆☆|
+| Hatching    | 2022   | Finland    | Bird-human transformation horror    |★★★★★|
 | Un Chien Andalou    | 1929   | France    | Human extremes and emotions    |★★★★★|
 | Akira Kurosawa's Dreams    | 1990  | Japan | Eight dreams about man confronting adversity  |★★★★★|
 | Sympathy for Mr. Vengeance    | 2002     | Republic of Korea    |  Revenge thriller of violence   |★★★★☆|
