@@ -10,6 +10,7 @@ draft: FALSE
 ---
 | Title                     | Year     | Country          | Description               |Rating        |
 |:--------------------------|:---------|:-----------------|:--------------------------|:-------------|
+| Cronos    | 1985   | Mexico    | Vampire horror    |★★☆☆☆|
 | I Am Cuba    | 1964   | Cuba    | Four stories on Cuban life    |★★☆☆☆|
 | Hatching    | 2022   | Finland    | Bird-human transformation horror    |★★★★★|
 | Un Chien Andalou    | 1929   | France    | Human extremes and emotions    |★★★★★|
