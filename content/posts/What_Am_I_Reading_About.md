@@ -61,9 +61,8 @@ Comedian and talk show host known for her satirical interviews and bold style.
 Comedian and actor; writer and cast member on *Saturday Night Live*.
 
 ### Georgina Pazcoguin  
-Trailblazing ballerina and advocate for diversity in classical dance.
-{{< youtube dAZvxV6w0lU >}}
-
+Trailblazing ballerina and advocate for diversity in classical dance. <br>
+{{< youtube LYE7HAFGPLI >}}
 
 ### Robert Garland  
 Artistic Director of Dance Theatre of Harlem, choreographer, and educator.
