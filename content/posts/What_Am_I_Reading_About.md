@@ -1,5 +1,5 @@
 ---
-title: "Ideas from March"
+title: "What Am I Reading About Currently?"
 date: 2025-03-18
 author: "Greg"
 description: "Just a long list of things"
