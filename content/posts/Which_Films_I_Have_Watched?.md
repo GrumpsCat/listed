@@ -10,6 +10,8 @@ draft: FALSE
 ---
 | Title                     | Year     | Country          | Description               |Rating        |
 |:--------------------------|:---------|:-----------------|:--------------------------|:-------------|
+| Anna Karenina    | 2017   | Germany    | Ballet interpretation of Tolstoy's novel    |★★★★☆|
+| At The End of Eight    | 2019   | United States    | Escape the murderer horror    |★☆☆☆☆|
 | Cronos    | 1985   | Mexico    | Vampire horror    |★★☆☆☆|
 | I Am Cuba    | 1964   | Cuba    | Four stories on Cuban life    |★★☆☆☆|
 | Hatching    | 2022   | Finland    | Bird-human transformation horror    |★★★★★|
