@@ -10,6 +10,7 @@ draft: FALSE
 ---
 | Title                     | Year     | Country          | Description               |Rating        |
 |:--------------------------|:---------|:-----------------|:--------------------------|:-------------|
+| Jinpa    | 2018   | China    | Hitchhiker murderer on the Qinghai-Tibet Plateau    |★★☆☆☆|
 | Anna Karenina    | 2017   | Germany    | Ballet interpretation of Tolstoy's novel    |★★★★☆|
 | At The End of Eight    | 2019   | United States    | Escape the murderer horror    |★☆☆☆☆|
 | Cronos    | 1985   | Mexico    | Vampire horror    |★★☆☆☆|
