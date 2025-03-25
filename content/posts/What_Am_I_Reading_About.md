@@ -84,7 +84,7 @@ First African American female principal dancer at American Ballet Theatre.
 
 ### Jenny Lin  
 Virtuoso pianist known for contemporary classical interpretations.<br>
-{{< youtube vmyegvuV4U >}}
+{{< youtube y8DCcmHg-HU >}}
 
 ### Adam Tendler  
 Avant-garde pianist celebrated for innovative solo performances.
