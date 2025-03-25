@@ -83,7 +83,8 @@ Artistic Director of Dance Theatre of Harlem, choreographer, and educator.
 First African American female principal dancer at American Ballet Theatre.
 
 ### Jenny Lin  
-Virtuoso pianist known for contemporary classical interpretations.
+Virtuoso pianist known for contemporary classical interpretations.<br>
+{{< youtube vmyegvuV4U >}}
 
 ### Adam Tendler  
 Avant-garde pianist celebrated for innovative solo performances.
