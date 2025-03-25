@@ -109,40 +109,8 @@ British designer recognized for voluminous tulle dresses and playful silhouettes
 
 ### AR Penck  
 German painter and sculptor; associated with neo-expressionism. <br>
-<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
-
-  <div style="flex: 1 1 45%;">
     {{< figure src="https://www.kunstmuseum.nl/sites/default/files/styles/carousel_370y/public/images/Tentoonstellingen/2020/A.R.%20Penck/RP_712.jpg?itok=TU5_fQRh" alt="AR Penck artwork" caption="AR Penck at Kunstmuseum" width="300" >}}
-  </div>
 
-  <div style="flex: 1 1 45%;">
-    {{< figure
-      src="https://www.operagallery.com/_next/image?url=https%3A%2F%2Fcms.operagallery.com%2Fwp-content%2Fuploads%2F2023%2F06%2FAPENCK_13669_The-future-of-a-illusion_1992_220x170cm_Acrylique-sur-toile-scaled.jpg&w=1920&q=75"
-      alt="AR Penck - The Future of an Illusion, 1992"
-      caption="AR Penck at Opera Gallery — [View Exhibition](https://www.operagallery.com/viewing-rooms/ar-penck)"
-      width="300"
-    >}}
-  </div>
-
-  <div style="flex: 1 1 45%;">
-    {{< figure
-      src="https://images.myartbroker.com/fit-in/1200x1200/filters:format(webp)/https%3A%2F%2Fmyartbroker.imgix.net%2Fimages%2Fartworks%2Fa-r-penck%2Frevolutionares-jahr%2Frevolutionares-jahr-a-r-penck.webp"
-      alt="A. R. Penck – Revolutionäres Jahr"
-      caption="A. R. Penck — *Revolutionäres Jahr* (Signed Print) • [View on MyArtBroker](https://www.myartbroker.com/artist-a-r-penck/artwork-revolutionares-jahr-signed-print)"
-      width="300"
-    >}}
-  </div>
-
-  <div style="flex: 1 1 45%;">
-    {{< figure
-      src="https://media.composition.gallery/media/artworks/a-r-penck-bewegung-um-das-zentrum-herum.jpg"
-      alt="A. R. Penck – Bewegung um das Zentrum herum"
-      caption="A. R. Penck — *Bewegung um das Zentrum herum* • [View on Composition Gallery](https://www.composition.gallery/art/ar-penck-bewegung-um-das-zentrum-herum/)"
-      width="300"
-    >}}
-  </div>
-
-</div>
 ### Gerhard Richter  
 German artist blending photorealism and abstraction; major postwar figure.
 
