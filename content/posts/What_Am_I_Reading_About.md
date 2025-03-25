@@ -108,7 +108,8 @@ Fashion designer known for gender-fluid, theatrical couture.
 British designer recognized for voluminous tulle dresses and playful silhouettes.
 
 ### AR Penck  
-German painter and sculptor; associated with neo-expressionism.
+German painter and sculptor; associated with neo-expressionism. <br>
+{{< quicklink title="AR Penck at Kunstmuseum" url="https://www.kunstmuseum.nl/en/exhibitions/ar-penck" image="https://www.kunstmuseum.nl/sites/default/files/styles/carousel_370y/public/images/Tentoonstellingen/2020/A.R.%20Penck/RP_712.jpg?itok=TU5_fQRh" >}}
 
 ### Gerhard Richter  
 German artist blending photorealism and abstraction; major postwar figure.
