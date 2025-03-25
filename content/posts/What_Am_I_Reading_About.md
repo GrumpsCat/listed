@@ -10,7 +10,7 @@ draft: false
 ---
 
 ### Linh Dinh  
-Vietnamese-American poet, fiction writer, and translator. Author of *Blood and Soap* and the poem *A Super Clean Country*.
+Vietnamese-American poet, fiction writer, and translator. Author of Blood and Soap and blog Postcards from the End.
 
 ### Jean Baudrillard  
 French philosopher and cultural theorist, known for his work on simulation and hyperreality.
