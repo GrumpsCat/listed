@@ -102,9 +102,9 @@ Dutch photographer specializing in portraiture, often of adolescents and youth.
 Dijkstra concentrates on single portraits, and usually works in series, looking at groups such as adolescents, clubbers, and soldiers.
 
 {{< figure
-  src="https://www.artnet.com/WebServices/images/ll9/Y/YDR4K00Z2001.jpg"
-  alt="Rineke Dijkstra – Montemor, Portugal May 1, 1994 B"
-  caption="[Montemor, Portugal May 1, 1994 B, 2001 – Rineke Dijkstra (via Artnet)](https://www.artnet.com/artists/rineke-dijkstra/montemor-portugal-may-1-1994-b-WGsqcShkGY0L0dJzqLNQCA2)"
+  src="https://www.berlinartlink.com/wp-content/uploads/2025/01/berlinartlink-Rineke-Dijkstra_Almerisa_Asylumcenter-Leiden_March-14-1994_Berlinische-Galerie.jpg"
+  alt="Rineke Dijkstra – Almerisa, Asylumcenter Leiden, March 14, 1994"
+  caption="[Rineke Dijkstra: ‘Almerisa, Asylumcenter Leiden, the Netherlands, March 14, 1994’](https://www.berlinartlink.com/2025/01/12/rineke-dijkstra-portraits-berlinische-galerie/)"
   width="400"
 >}}
 
