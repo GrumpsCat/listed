@@ -98,7 +98,14 @@ Sorey received the 2024 Pulitzer Prize for Music for his Adagio (for Wadada Leo 
 Saxophonist and bandleader fusing jazz, funk, and soul.
 
 ### Rineke Dijkstra  
-Dutch photographer specializing in portraiture, often of adolescents and youth.
+Dutch photographer specializing in portraiture, often of adolescents and youth.  
+Dijkstra concentrates on single portraits, and usually works in series, looking at groups such as adolescents, clubbers, and soldiers.  
+{{< quicklink
+  title="Rineke Dijkstra"
+  url="https://www.artnet.com/artists/rineke-dijkstra/montemor-portugal-may-1-1994-b-WGsqcShkGY0L0dJzqLNQCA2"
+  image="https://www.artnet.com/WebServices/images/ll9/Y/YDR4K00Z2001.jpg"
+  caption="Montemor, Portugal May 1, 1994 B, 2001"
+>}}
 
 ### Erdem Moralioglu  
 British fashion designer, founder of the label Erdem.
