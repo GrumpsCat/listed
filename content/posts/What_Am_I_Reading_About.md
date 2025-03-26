@@ -90,7 +90,8 @@ Virtuoso pianist known for contemporary classical interpretations.<br>
 Avant-garde pianist celebrated for innovative solo performances.
 
 ### Tyshawn Sorey  
-Composer, percussionist, and genre-defying musician.
+Composer, percussionist, and genre-defying musician.<br>
+{{< youtube nbPwO45Z8tM >}}
 
 ### Lakecia Benjamin  
 Saxophonist and bandleader fusing jazz, funk, and soul.
