@@ -91,7 +91,8 @@ Avant-garde pianist celebrated for innovative solo performances.
 
 ### Tyshawn Sorey  
 Composer, percussionist, and genre-defying musician.<br>
-{{< youtube nbPwO45Z8tM >}}
+Sorey received the 2024 Pulitzer Prize for Music for his Adagio (for Wadada Leo Smith).<br>
+{{< youtube Ruou8PtETa0 >}}
 
 ### Lakecia Benjamin  
 Saxophonist and bandleader fusing jazz, funk, and soul.
