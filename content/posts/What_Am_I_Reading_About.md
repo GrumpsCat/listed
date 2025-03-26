@@ -169,15 +169,13 @@ Innovative American choreographer who revolutionized modern dance.
 ### Lorser Feitelson  
 American painter and co-founder of the hard-edge painting movement.  
 Post-surrealism is a movement that arose in Southern California in 1934 when Helen Lundeberg and Lorser Feitelson wrote a manifesto explaining their desire to use art to convey the relationship between the perceptual and the conceptual.  
-
 {{< figure
   src="https://images.squarespace-cdn.com/content/v1/577ef319d2b857d5d6a8b8ed/1564684349148-PRCXEJNFSVGYB4L63JR6/302_Post-Surrealist_Configuration_Dapne.jpg?format=1000w"
   alt="Post Surrealist Configuration: Daphne, 1943"
   caption="*Post Surrealist Configuration: Daphne*, 1943  
 oil on canvas  
 30 x 36 inches; 76.2 x 91.4 centimeters"
-  width="500"
->}}
+  width="500" >}}
 
 ### Othon Friesz  
 French Fauvist painter known for vibrant, expressive landscapes.
