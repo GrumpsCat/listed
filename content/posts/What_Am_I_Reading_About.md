@@ -10,6 +10,7 @@ draft: false
 ---
 ### Harue Koga  
 Japanese surrealist illustrator known for intricate, cyberpunk-influenced art.  
+{{< figure src="https://www.kunstmuseum.nl/sites/default/files/styles/carousel_370y/public/images/Tentoonstellingen/2020/A.R.%20Penck/RP_712.jpg?itok=TU5_fQRh" alt="AR Penck artwork" caption="AR Penck at Kunstmuseum" width="300" >}}
 
 ### Malangatana Ngwenya  
 Mozambican painter and poet celebrated for vivid depictions of political and cultural life.
