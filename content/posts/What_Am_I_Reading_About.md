@@ -12,6 +12,8 @@ draft: false
 Japanese surrealist illustrator known for intricate, cyberpunk-influenced art.  
 <div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 20px;">
 
+<div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 20px;">
+
   <!-- Mid-winter Night's Dream -->
   <div style="text-align: center;">
     <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjdimiO_Mj3hGKqGluuJsdyElggcTzumxHybiQ_fY14y4LvyJAJ5o9R_c4vaqD6iynYkQGbJ-eold_VIbdthtjqKX3exKyePExyzSnBu1o19wSsJUyikmwfTlj2DEuQ4gsF7VsgLuyOUR8/s400/Mid-winter+Night%27s+Dream+1931.jpg" alt="Mid-winter Night's Dream" style="width:100%; max-width:100%; height:auto;">
@@ -30,10 +32,10 @@ Japanese surrealist illustrator known for intricate, cyberpunk-influenced art.
     <p><em>The Sea</em>, 1939</p>
   </div>
 
-  <!-- Fireworks -->
+  <!-- Merry May -->
   <div style="text-align: center;">
-    <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgbqm1alF_VyfX4tM7H_Q3OHWr7FDPwQyxkmk-mCX9ITtHQJqQFBNQpBHO4fNh-veYdevJGMAtqTKuyyzWMOgo9BHpZ6Hnv3ympy8AGCekUuCROszLbHF1wf1b-MeyxGR-elgEoXhKm6W8/s400/Fireworks.jpg" alt="Fireworks" style="width:100%; max-width:100%; height:auto;">
-    <p><em>Fireworks</em>, 1931</p>
+    <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEghCWFFno2TXTm54hNvvk0U3oFk5Wp7ImupxniqprbYvr-CVIrNJuvVLVzJpqmOjDH4VRkyBLJoLZy1ZcziN_r0Z8kG5aXJNkFP2rUeVTiLnIueveqesY_BNwOrVCv6TDlxtptzyZyvcyI/s400/Merry+May.jpg" alt="Merry May" style="width:100%; max-width:100%; height:auto;">
+    <p><em>Merry May</em>, 1932</p>
   </div>
 
   <!-- Winter -->
