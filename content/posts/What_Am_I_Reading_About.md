@@ -10,42 +10,44 @@ draft: false
 ---
 ### Harue Koga  
 Japanese surrealist illustrator known for intricate, cyberpunk-influenced art.  
-<figure>
-  <img src="https://payload.cargocollective.com/1/2/88505/9348939/Harue-Koga-03_1200.jpg" alt="Harue Koga – Mid-winter Night's Dream, 1931" width="400" style="max-width: 100%; height: auto;">
-  <figcaption><em>Mid-winter Night's Dream</em>, 1931</figcaption>
-</figure> 
-
 <div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 20px;">
+
   <!-- Mid-winter Night's Dream -->
   <div style="text-align: center;">
-    <img src="https://www.artnet.com/WebServices/images/ll00123lld9WLDGFgPjNfDrCWQFHPKcR7G9K/harue-koga-mid-winter-nights-dream.jpg" alt="Mid-winter Night's Dream" style="width:100%;">
-    <p>Mid-winter Night's Dream</p>
+    <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjdimiO_Mj3hGKqGluuJsdyElggcTzumxHybiQ_fY14y4LvyJAJ5o9R_c4vaqD6iynYkQGbJ-eold_VIbdthtjqKX3exKyePExyzSnBu1o19wSsJUyikmwfTlj2DEuQ4gsF7VsgLuyOUR8/s400/Mid-winter+Night%27s+Dream+1931.jpg" alt="Mid-winter Night's Dream" style="width:100%; max-width:100%; height:auto;">
+    <p><em>Mid-winter Night's Dream</em>, 1931</p>
   </div>
-  <!-- Innocent Moonlit Night -->
+
+  <!-- Early Summer Scene -->
   <div style="text-align: center;">
-    <img src="https://www.artnet.com/WebServices/images/ll00123lld9WLDGFgPjNfDrCWQFHPKcR7G9K/harue-koga-innocent-moonlit-night.jpg" alt="Innocent Moonlit Night" style="width:100%;">
-    <p>Innocent Moonlit Night</p>
+    <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjaOCpXkQt3mE_5LVuyHaBcsRo1lcCxi__ZpyKuOvJVhEEFdYH2lp1joMMehhJ6UShFTED6t1jZutVJPtDwW2mbO5QfI9cBaDi5jxqOcJNEZXRlREKZf_ywSg3N04A1LVsG4BUZZmXkCk8/s400/Early+Summer+Scene.jpg" alt="Early Summer Scene" style="width:100%; max-width:100%; height:auto;">
+    <p><em>Early Summer Scene</em>, 1932</p>
   </div>
+
   <!-- The Sea -->
   <div style="text-align: center;">
-    <img src="https://www.artnet.com/WebServices/images/ll00123lld9WLDGFgPjNfDrCWQFHPKcR7G9K/harue-koga-the-sea.jpg" alt="The Sea" style="width:100%;">
-    <p>The Sea</p>
+    <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjUnUmPdLI9G4Sbvqp_c5X9fNAvmik5RjbR6T8q5A_fEjuXOeqkOe5XVoaOh5whZvebYemqUxhctjf4f0YHbKPshLPSxYvE1e_HJ7Yb-qOYU9JBgUKFwyU1uEXuqY1O8wY06QEaOMDogws/s400/KOGA+Sea+1939.JPG" alt="The Sea" style="width:100%; max-width:100%; height:auto;">
+    <p><em>The Sea</em>, 1939</p>
   </div>
+
   <!-- Fireworks -->
   <div style="text-align: center;">
-    <img src="https://www.artnet.com/WebServices/images/ll00123lld9WLDGFgPjNfDrCWQFHPKcR7G9K/harue-koga-fireworks.jpg" alt="Fireworks" style="width:100%;">
-    <p>Fireworks</p>
+    <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgbqm1alF_VyfX4tM7H_Q3OHWr7FDPwQyxkmk-mCX9ITtHQJqQFBNQpBHO4fNh-veYdevJGMAtqTKuyyzWMOgo9BHpZ6Hnv3ympy8AGCekUuCROszLbHF1wf1b-MeyxGR-elgEoXhKm6W8/s400/Fireworks.jpg" alt="Fireworks" style="width:100%; max-width:100%; height:auto;">
+    <p><em>Fireworks</em>, 1931</p>
   </div>
-  <!-- Birdcage -->
+
+  <!-- Winter -->
   <div style="text-align: center;">
-    <img src="https://www.artnet.com/WebServices/images/ll00123lld9WLDGFgPjNfDrCWQFHPKcR7G9K/harue-koga-birdcage.jpg" alt="Birdcage" style="width:100%;">
-    <p>Birdcage</p>
+    <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgMHwASzaV89zB5RKsg6-mzVbAfwDoTLkN0QZCUKEgTD9mTTc2-XdZXXBPvtJG0mws1p389b7_nlHBqfTDc9JdZaHpSpOm5lXrE3vDG4Q8DGKXFvACGWmVAa0ELLiMGnmUV4cbyCAccaRo/s400/winter.jpg" alt="Winter" style="width:100%; max-width:100%; height:auto;">
+    <p><em>Winter</em>, 1932</p>
   </div>
-  <!-- Endless Flight -->
+
+  <!-- The Moon and Flowers -->
   <div style="text-align: center;">
-    <img src="https://www.artnet.com/WebServices/images/ll00123lld9WLDGFgPjNfDrCWQFHPKcR7G9K/harue-koga-endless-flight.jpg" alt="Endless Flight" style="width:100%;">
-    <p>Endless Flight</p>
+    <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjA2xm4vp82_ohy-uQWyD9XwkCsKOfk_1DCT_tscp05fuVrcsaIeGGCmgok17u9qyh2nkdQmAc0j4BfaCPCfnXF1AGLDdp8wsWiP4RN1XZLEsYuY7wwkrJ2e4R-Z5wLrsm0I-vFPfr7chI/s400/S0068010.jpg" alt="The Moon and Flowers" style="width:100%; max-width:100%; height:auto;">
+    <p><em>The Moon and Flowers</em>, 1926</p>
   </div>
+
 </div>
 
 ### Malangatana Ngwenya  
