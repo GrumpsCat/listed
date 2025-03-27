@@ -15,45 +15,36 @@ Japanese surrealist illustrator known for intricate, cyberpunk-influenced art.
   <figcaption><em>Mid-winter Night's Dream</em>, 1931</figcaption>
 </figure> 
 
-<div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 10px;">
-  <!-- Row 1 -->
-  <div>
-    <img src="https://www.alamy.com/sea-by-harue-koga-1929-oil-on-canvas-national-museum-of-modern-art-tokyo-dsc06613-image153209838.html" alt="Sea by Harue Koga, 1929">
-    <p>Sea by Harue Koga, 1929</p>
+<div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 20px;">
+  <!-- Mid-winter Night's Dream -->
+  <div style="text-align: center;">
+    <img src="https://www.artnet.com/WebServices/images/ll00123lld9WLDGFgPjNfDrCWQFHPKcR7G9K/harue-koga-mid-winter-nights-dream.jpg" alt="Mid-winter Night's Dream" style="width:100%;">
+    <p>Mid-winter Night's Dream</p>
   </div>
-  <div>
-    <img src="https://www.metmuseum.org/art/collection/search/838494" alt="Umi (The Sea) by Harue Koga, 1929">
-    <p>Umi (The Sea) by Harue Koga, 1929</p>
+  <!-- Innocent Moonlit Night -->
+  <div style="text-align: center;">
+    <img src="https://www.artnet.com/WebServices/images/ll00123lld9WLDGFgPjNfDrCWQFHPKcR7G9K/harue-koga-innocent-moonlit-night.jpg" alt="Innocent Moonlit Night" style="width:100%;">
+    <p>Innocent Moonlit Night</p>
   </div>
-  <div>
-    <img src="https://fineartamerica.com/featured/harue-koga-the-sea-harue-koga.html" alt="The Sea by Harue Koga">
-    <p>The Sea by Harue Koga</p>
+  <!-- The Sea -->
+  <div style="text-align: center;">
+    <img src="https://www.artnet.com/WebServices/images/ll00123lld9WLDGFgPjNfDrCWQFHPKcR7G9K/harue-koga-the-sea.jpg" alt="The Sea" style="width:100%;">
+    <p>The Sea</p>
   </div>
-  
-  <!-- Row 2 -->
-  <div>
-    <img src="https://www.alamy.com/english-oil-painting-by-japanese-avant-garde-painter-harue-koga-first-exhibited-in-1929-at-the-16th-nika-exhibition-1929-innocent-moonlit-night-1929-by-harue-koga-image184874896.html" alt="Innocent Moonlit Night by Harue Koga, 1929">
-    <p>Innocent Moonlit Night by Harue Koga, 1929</p>
+  <!-- Fireworks -->
+  <div style="text-align: center;">
+    <img src="https://www.artnet.com/WebServices/images/ll00123lld9WLDGFgPjNfDrCWQFHPKcR7G9K/harue-koga-fireworks.jpg" alt="Fireworks" style="width:100%;">
+    <p>Fireworks</p>
   </div>
-  <div>
-    <img src="https://50watts.com/Harue-Koga" alt="The Moon and Flowers by Harue Koga, 1926">
-    <p>The Moon and Flowers by Harue Koga, 1926</p>
+  <!-- Birdcage -->
+  <div style="text-align: center;">
+    <img src="https://www.artnet.com/WebServices/images/ll00123lld9WLDGFgPjNfDrCWQFHPKcR7G9K/harue-koga-birdcage.jpg" alt="Birdcage" style="width:100%;">
+    <p>Birdcage</p>
   </div>
-  <div>
-    <img src="https://fineartamerica.com/featured/koga-harue-innocent-moonlit-night-1929-koga-harue.html" alt="Innocent Moonlit Night by Koga Harue, 1929">
-    <p>Innocent Moonlit Night by Koga Harue, 1929</p>
-  </div>
-  
-  <!-- Row 3 -->
-  <div>
-    <img src="https://www.alamyimages.fr/art-de-harue-koga-naissance-1924-image432296919.html" alt="Naissance by Harue Koga, 1924">
-    <p>Naissance by Harue Koga, 1924</p>
-  </div>
-  <div>
-    <!-- Placeholder for future image -->
-  </div>
-  <div>
-    <!-- Placeholder for future image -->
+  <!-- Endless Flight -->
+  <div style="text-align: center;">
+    <img src="https://www.artnet.com/WebServices/images/ll00123lld9WLDGFgPjNfDrCWQFHPKcR7G9K/harue-koga-endless-flight.jpg" alt="Endless Flight" style="width:100%;">
+    <p>Endless Flight</p>
   </div>
 </div>
 
