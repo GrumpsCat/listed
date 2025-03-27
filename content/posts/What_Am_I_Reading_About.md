@@ -98,42 +98,6 @@ Chilean-Canadian artist and filmmaker working with experimental cinema.
 ### Cao Fei - Filmmaker - *Whose Utopia*  
 Chinese multimedia artist exploring urbanization and globalization.
 
-### Brian Gross Gallery of Fine Art  
-Contemporary art gallery in San Francisco.
-
-### Fraenkel Gallery  
-SF-based gallery known for photography and conceptual art.
-
-### McEvoy Foundation  
-Cultural foundation and art exhibition space in San Francisco.
-
-### Anthony Meier Gallery  
-Contemporary art gallery located in San Francisco.
-
-### Gallery Wendi Norris  
-SF-based gallery representing contemporary and surrealist artists.
-
-### Jessica Silverman  
-Contemporary art dealer and gallery owner in San Francisco.
-
-### Crown Point Press  
-Renowned printmaking studio and gallery in SF.
-
-### Catherine Clark Gallery  
-Gallery known for contemporary and mixed-media art in San Francisco.
-
-### Rena Bransten  
-Art gallery in SF with a focus on multicultural and socially-engaged artists.
-
-### Berggruen  
-High-profile contemporary art gallery in San Francisco.
-
-### Altman Siegal  
-Gallery featuring emerging and established contemporary artists.
-
-### Anglim Trimble  
-San Francisco gallery focused on conceptual and experimental art.
-
 ### Chris Marker  
 French filmmaker and multimedia artist known for essay films like *La Jetée*.
 
