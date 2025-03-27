@@ -229,7 +229,15 @@ Post-surrealism is a movement that arose in Southern California in 1934 when Hel
 >}}
 
 ### Othon Friesz  
-French Fauvist painter known for vibrant, expressive landscapes.
+French Fauvist painter known for vibrant, expressive landscapes.  
+{{< figure
+  src="https://uploads6.wikiart.org/images/othon-friesz/calanque-du-mugel-la-ciotat-1907.jpg"
+  alt="Calanque du Mugel à la Ciotat by Othon Friesz"
+  caption="*Calanque du Mugel à la Ciotat*  
+Othon Friesz  
+Date: 1907"
+  width="500"
+>}}
 
 ### Thomas Heatherwick  
 British designer and architect blending architecture, engineering, and sculpture.
