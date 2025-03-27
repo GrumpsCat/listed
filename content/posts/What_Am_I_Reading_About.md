@@ -50,8 +50,6 @@ Japanese surrealist illustrator known for intricate, cyberpunk-influenced art.
     <p><em>The Moon and Flowers</em>, 1926</p>
   </div>
 
-</div>
-
 ### Malangatana Ngwenya  
 Mozambican painter and poet celebrated for vivid depictions of political and cultural life.
 
