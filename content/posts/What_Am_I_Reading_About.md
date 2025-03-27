@@ -358,6 +358,37 @@ German painter and sculptor; associated with neo-expressionism.
   <figcaption>AR Penck at Kunstmuseum</figcaption>
 </figure>
 
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://www.artnet.com/WebServices/images/ll00614lldvT0GFg4Ro92CfDrCWQFHPKcPbbD/a.r.-penck-ich-begegne-plato.jpg" width="250"><br>
+      <strong>Ich begegne Plato</strong>
+    </td>
+    <td align="center">
+      <img src="https://www.artnet.com/WebServices/images/ll00125lldaR0GFgSyB72CfDrCWQFHPKcMFaD/a.r.-penck-gr%C3%BCn/gelb-(from-berlin).jpg" width="250"><br>
+      <strong>Grün/Gelb (from Berlin), 1990</strong>
+    </td>
+    <td align="center">
+      <img src="https://www.artnet.com/WebServices/images/ll00773lld6NvGFg3jECfDrCWQFHPKcOCXD/a.r.-penck-ohne-titel-(figur-und-tiger,-tiger-mit-roter-figur).jpg" width="250"><br>
+      <strong>Ohne Titel (Figur und Tiger)</strong>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://www.artnet.com/WebServices/images/ll00013lldNMvGFgoRECfDrCWQFHPKcuuVD/a.r.-penck-nach-dem-konzert.jpg" width="250"><br>
+      <strong>Nach dem Konzert, 1985</strong>
+    </td>
+    <td align="center">
+      <img src="https://www.artnet.com/WebServices/images/ll01022lldS7uGFgoSECfDrCWQFHPKcvKOD/a.r.-penck-komposition.jpg" width="250"><br>
+      <strong>Komposition, 1981</strong>
+    </td>
+    <td align="center">
+      <img src="https://www.artnet.com/WebServices/images/ll00115lldE1uGFg46b92CfDrCWQFHPKcUtJD/a.r.-penck-kopf.jpg" width="250"><br>
+      <strong>Kopf, 2000</strong>
+    </td>
+  </tr>
+</table>
+
 ### Gerhard Richter  
 German artist blending photorealism and abstraction; major postwar figure.
 
