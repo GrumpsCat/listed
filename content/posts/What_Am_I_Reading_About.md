@@ -11,7 +11,12 @@ draft: false
 
 ### Harue Koga  
 Japanese surrealist illustrator known for intricate, cyberpunk-influenced art.  
-
+{{< figure
+  src="https://payload.cargocollective.com/1/2/88505/9348939/Harue-Koga-03_1200.jpg"
+  alt="Harue Koga – Mid-winter Night's Dream, 1931"
+  caption="Mid-winter Night's Dream, 1931"
+  width="400"
+>}}
 
 ### Malangatana Ngwenya  
 Mozambican painter and poet celebrated for vivid depictions of political and cultural life.
@@ -339,15 +344,6 @@ Saxophonist and bandleader fusing jazz, funk, and soul.
 ### Rineke Dijkstra  
 Dutch photographer specializing in portraiture, often of adolescents and youth.  
 Dijkstra concentrates on single portraits, and usually works in series, looking at groups such as adolescents, clubbers, and soldiers.
-
-### Harue Koga  
-Japanese surrealist illustrator known for intricate, cyberpunk-influenced art.  
-{{< figure
-  src="https://payload.cargocollective.com/1/2/88505/9348939/Harue-Koga-03_1200.jpg"
-  alt="Harue Koga – Mid-winter Night's Dream, 1931"
-  caption="*Mid-winter Night's Dream*. 1931"
-  width="400"
->}}
 
 ### Erdem Moralioglu  
 British fashion designer, founder of the label Erdem.
