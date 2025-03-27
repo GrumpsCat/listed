@@ -24,12 +24,12 @@ Disneyland is often used as a textbook example of hyperreality. It’s a careful
 On Instagram or TikTok, influencers may curate perfect, glamorous versions of their lives through filters, poses, and selective storytelling. Followers begin to perceive these polished representations as real life, even though they are highly staged. The simulation becomes more desirable — and more believable — than actual, everyday experience.  
 
 Hyperreality, especially in Jean Baudrillard’s thought, is significant because it reveals how modern society increasingly lives through simulations—images, media, and signs that replace and distort reality. In a hyperreal world, representations no longer point to anything real but only to other representations, causing meaning to collapse. Baudrillard saw this as a key feature of consumer culture and media, where illusions are more compelling than truth, and reality is replaced by spectacle. Studying hyperreality helps us understand how power and meaning are shaped in contemporary life, and why people often can’t distinguish between what is real and what is manufactured.  
-See also simulacrum and he Gulf War Did Not Take Place.
+See also simulacrum and The Gulf War Did Not Take Place.
 
 ### Giorgio Agamben  
 Italian philosopher exploring biopolitics, states of exception, and contemporary sovereignty.
 
-### Agamben’s State of Exception and Foucault’s Biopolitics
+### Giorgio Agamben’s State of Exception and Michel Foucault’s Biopolitics
 
 Michel Foucault’s concept of biopolitics describes a shift in modern power: from the sovereign right to kill, to the power to regulate, manage, and optimize life itself. Modern states govern not just individuals but entire populations through systems like public health, surveillance, and institutions. In this view, power is not only repressive but also productive—it shapes how life is lived, measured, and normalized.
 
@@ -48,7 +48,6 @@ British modernist poet known for her eccentric style and theatrical readings.
 British literary hostess, patron of the arts, and key figure in the Bloomsbury Group.
 
 ### The Bloomsbury Group
-
 The group was united not by a formal manifesto, but by a shared set of aesthetic, philosophical, and personal values. Their outlook was shaped by a belief in intellectual freedom, emotional honesty, and the pursuit of beauty in both life and art.
 
 1. **Art for art’s sake**  
@@ -69,7 +68,6 @@ The group was united not by a formal manifesto, but by a shared set of aesthetic
 In essence, the Bloomsbury Group championed art, intellect, love, and freedom as central to a meaningful life, pushing against the social and artistic conventions of their time.
 
 ### Core Members
-
 - Virginia Woolf – Novelist and essayist  
 - Leonard Woolf – Publisher and political theorist  
 - Vanessa Bell – Painter  
@@ -81,7 +79,6 @@ In essence, the Bloomsbury Group championed art, intellect, love, and freedom as
 - John Maynard Keynes – Economist
 
 ### Other Associated Figures
-
 - Desmond MacCarthy – Literary critic and journalist  
 - David Garnett – Writer and member of the later "Neo-Pagans"  
 - Julian Bell – Poet  
