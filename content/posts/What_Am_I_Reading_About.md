@@ -295,25 +295,31 @@ The group was united not by a formal manifesto, but by a shared set of aesthetic
 In essence, the Bloomsbury Group championed art, intellect, love, and freedom as central to a meaningful life, pushing against the social and artistic conventions of their time.
 
 ### Core Members
-- Virginia Woolf – Novelist and essayist  
-- Leonard Woolf – Publisher and political theorist  
-- Vanessa Bell – Painter  
-- Clive Bell – Art critic  
-- Lytton Strachey – Biographer and critic  
-- Duncan Grant – Painter and designer  
-- Roger Fry – Art critic and promoter of Post-Impressionism  
-- E. M. Forster – Novelist (*A Passage to India*, *Howards End*)  
-- John Maynard Keynes – Economist
+
+| Name               | Description                                        |
+|--------------------|----------------------------------------------------|
+| Virginia Woolf     | Novelist and essayist                              |
+| Leonard Woolf      | Publisher and political theorist                   |
+| Vanessa Bell       | Painter                                            |
+| Clive Bell         | Art critic                                         |
+| Lytton Strachey    | Biographer and critic                              |
+| Duncan Grant       | Painter and designer                               |
+| Roger Fry          | Art critic and promoter of Post-Impressionism      |
+| E. M. Forster      | Novelist (*A Passage to India*, *Howards End*)     |
+| John Maynard Keynes| Economist                                          |
 
 ### Other Associated Figures
-- Desmond MacCarthy – Literary critic and journalist  
-- David Garnett – Writer and member of the later "Neo-Pagans"  
-- Julian Bell – Poet  
-- Angelica Garnett – Memoirist and painter  
-- Ottoline Morrell – Socialite and patron  
-- Bertrand Russell – Philosopher  
-- Lady Cynthia Asquith – Writer and hostess  
-- Arthur Waley – Translator and sinologist
+
+| Name                  | Description                                               |
+|------------------------|-----------------------------------------------------------|
+| Desmond MacCarthy      | Literary critic and journalist                            |
+| David Garnett          | Writer and member of the later "Neo-Pagans"              |
+| Julian Bell            | Poet                                                     |
+| Angelica Garnett       | Memoirist and painter                                    |
+| Ottoline Morrell       | Socialite and patron                                     |
+| Bertrand Russell       | Philosopher                                              |
+| Lady Cynthia Asquith   | Writer and hostess                                       |
+| Arthur Waley           | Translator and sinologist                                |
 
 ### Abimael Guzmán  
 Maoist leader of the Shining Path, a revolutionary movement in Peru.
