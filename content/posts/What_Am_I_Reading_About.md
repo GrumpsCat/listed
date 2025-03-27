@@ -8,15 +8,9 @@ description: "Just a long list of things"
 # layout: post # posts only for Projects
 draft: false
 ---
-
 ### Harue Koga  
 Japanese surrealist illustrator known for intricate, cyberpunk-influenced art.  
-{{< figure
-  src="https://payload.cargocollective.com/1/2/88505/9348939/Harue-Koga-03_1200.jpg"
-  alt="Harue Koga – Mid-winter Night's Dream, 1931"
-  caption="Mid-winter Night's Dream, 1931"
-  width="400"
->}}
+{{< figure src="https://payload.cargocollective.com/1/2/88505/9348939/Harue-Koga-03_1200.jpg" alt="Harue Koga - Mid-winter Night's Dream" caption="Mid-winter Night's Dream, 1931" >}}
 
 ### Malangatana Ngwenya  
 Mozambican painter and poet celebrated for vivid depictions of political and cultural life.
