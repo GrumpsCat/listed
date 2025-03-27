@@ -12,8 +12,6 @@ draft: false
 Japanese surrealist illustrator known for intricate, cyberpunk-influenced art.  
 <div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 20px;">
 
-<div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 20px;">
-
   <!-- Mid-winter Night's Dream -->
   <div style="text-align: center;">
     <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjdimiO_Mj3hGKqGluuJsdyElggcTzumxHybiQ_fY14y4LvyJAJ5o9R_c4vaqD6iynYkQGbJ-eold_VIbdthtjqKX3exKyePExyzSnBu1o19wSsJUyikmwfTlj2DEuQ4gsF7VsgLuyOUR8/s400/Mid-winter+Night%27s+Dream+1931.jpg" alt="Mid-winter Night's Dream" style="width:100%; max-width:100%; height:auto;">
@@ -49,6 +47,8 @@ Japanese surrealist illustrator known for intricate, cyberpunk-influenced art.
     <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjA2xm4vp82_ohy-uQWyD9XwkCsKOfk_1DCT_tscp05fuVrcsaIeGGCmgok17u9qyh2nkdQmAc0j4BfaCPCfnXF1AGLDdp8wsWiP4RN1XZLEsYuY7wwkrJ2e4R-Z5wLrsm0I-vFPfr7chI/s400/S0068010.jpg" alt="The Moon and Flowers" style="width:100%; max-width:100%; height:auto;">
     <p><em>The Moon and Flowers</em>, 1926</p>
   </div>
+
+</div>
 
 ### Malangatana Ngwenya  
 Mozambican painter and poet celebrated for vivid depictions of political and cultural life.
