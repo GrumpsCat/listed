@@ -13,7 +13,18 @@ draft: false
 Vietnamese-American poet, fiction writer, and translator. Author of Blood and Soap and blog Postcards from the End.
 
 ### Jean Baudrillard  
-French philosopher and cultural theorist, known for his work on simulation and hyperreality.
+French philosopher and cultural theorist, known for his work on simulation and hyperreality.  
+
+Hyperreality is the idea that in modern culture, especially through media and technology, the line between reality and simulation becomes blurred. Signs, images, and representations (like ads, movies, or social media) start to feel more “real” than actual reality. Over time, people may no longer distinguish between what is real and what is constructed — they experience a blended or artificial version of reality that feels just as, or even more, authentic.
+
+Examples of Hyperreality  
+	1.	Disneyland
+Disneyland is often used as a textbook example of hyperreality. It’s a carefully constructed fantasy world that mimics real-world experiences (towns, castles, nature, cultures) — but in a way that feels cleaner, safer, and more “real” than the actual world. Visitors can emotionally connect to this simulated space as if it’s an authentic version of reality.  
+	2.	Social Media Influencer Lifestyles
+On Instagram or TikTok, influencers may curate perfect, glamorous versions of their lives through filters, poses, and selective storytelling. Followers begin to perceive these polished representations as real life, even though they are highly staged. The simulation becomes more desirable — and more believable — than actual, everyday experience.  
+
+Hyperreality, especially in Jean Baudrillard’s thought, is significant because it reveals how modern society increasingly lives through simulations—images, media, and signs that replace and distort reality. In a hyperreal world, representations no longer point to anything real but only to other representations, causing meaning to collapse. Baudrillard saw this as a key feature of consumer culture and media, where illusions are more compelling than truth, and reality is replaced by spectacle. Studying hyperreality helps us understand how power and meaning are shaped in contemporary life, and why people often can’t distinguish between what is real and what is manufactured.  
+See also simulacrum and he Gulf War Did Not Take Place.
 
 ### Giorgio Agamben  
 Italian philosopher exploring biopolitics, states of exception, and contemporary sovereignty.
