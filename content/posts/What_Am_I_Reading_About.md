@@ -353,11 +353,6 @@ British designer recognized for voluminous tulle dresses and playful silhouettes
 
 ### AR Penck  
 German painter and sculptor; associated with neo-expressionism.  
-<figure>
-  <img src="https://www.kunstmuseum.nl/sites/default/files/styles/carousel_370y/public/images/Tentoonstellingen/2020/A.R.%20Penck/RP_712.jpg?itok=TU5_fQRh" alt="AR Penck artwork" width="300" style="max-width: 100%; height: auto;">
-  <figcaption>AR Penck at Kunstmuseum</figcaption>
-</figure>
-
 <table>
   <tr>
     <td align="center">
@@ -383,8 +378,8 @@ German painter and sculptor; associated with neo-expressionism.
       <strong>Komposition, 1981</strong>
     </td>
     <td align="center">
-      <img src="https://www.artnet.com/WebServices/images/ll00115lldE1uGFg46b92CfDrCWQFHPKcUtJD/a.r.-penck-kopf.jpg" width="250"><br>
-      <strong>Kopf, 2000</strong>
+      <img src="https://www.artnet.com/WebServices/images/ll00305lldXuoGFgp2qCfDrCWQFHPKc9ZDD/a.r.-penck-sans-titre.jpg" width="250"><br>
+      <strong>Sans titre, 1980</strong>
     </td>
   </tr>
 </table>
