@@ -170,48 +170,30 @@ Fashion designer known for gender-fluid, theatrical couture.
 British designer recognized for voluminous tulle dresses and playful silhouettes.
 
 ### AR Penck  
-German painter and sculptor; associated with neo-expressionism. <br>
-    {{< figure src="https://www.kunstmuseum.nl/sites/default/files/styles/carousel_370y/public/images/Tentoonstellingen/2020/A.R.%20Penck/RP_712.jpg?itok=TU5_fQRh" alt="AR Penck artwork" caption="AR Penck at Kunstmuseum" width="300" >}}  
+German painter and sculptor; associated with neo-expressionism.  
 
-    <div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
+{{< figure src="https://www.kunstmuseum.nl/sites/default/files/styles/carousel_370y/public/images/Tentoonstellingen/2020/A.R.%20Penck/RP_712.jpg?itok=TU5_fQRh" alt="AR Penck artwork" caption="AR Penck at Kunstmuseum" width="300" >}}
 
-  <div style="flex: 1 1 45%;">
-    {{< figure
-      src="https://dayoftheartist.com/wp-content/uploads/2014/09/1993_a-r-penck_einschlagpapier_hi-res_rgb.jpg?w=598"
-      alt="Nittardi Label by A.R. Penck"
-      caption="*Nittardi Label*"
-      width="300"
-    >}}
-  </div>
+&nbsp;
 
-  <div style="flex: 1 1 45%;">
-    {{< figure
-      src="https://dayoftheartist.com/wp-content/uploads/2014/09/images1.jpeg"
-      alt="City of Memories by A.R. Penck"
-      caption="*City of Memories*, 2005 — Acrylic on canvas"
-      width="300"
-    >}}
-  </div>
-
-  <div style="flex: 1 1 45%;">
-    {{< figure
-      src="https://dayoftheartist.com/wp-content/uploads/2014/09/112001271.jpg?w=512"
-      alt="Ohne Titel by A.R. Penck"
-      caption="*Ohne Titel* (Untitled)"
-      width="300"
-    >}}
-  </div>
-
-  <div style="flex: 1 1 45%;">
-    {{< figure
-      src="https://dayoftheartist.com/wp-content/uploads/2014/09/rp-1104.jpg"
-      alt="Systembild—neue alte Welte, 2007 by A.R. Penck"
-      caption="*Systembild – neue alte Welte*, 2007"
-      width="300"
-    >}}
-  </div>
-
-</div>
+<table>
+  <tr>
+    <td>
+      {{< figure src="https://dayoftheartist.com/wp-content/uploads/2014/09/1993_a-r-penck_einschlagpapier_hi-res_rgb.jpg?w=598" alt="Nittardi Label by A.R. Penck" caption="*Nittardi Label*" width="300" >}}
+    </td>
+    <td>
+      {{< figure src="https://dayoftheartist.com/wp-content/uploads/2014/09/images1.jpeg" alt="City of Memories by A.R. Penck" caption="*City of Memories*, 2005 — Acrylic on canvas" width="300" >}}
+    </td>
+  </tr>
+  <tr>
+    <td>
+      {{< figure src="https://dayoftheartist.com/wp-content/uploads/2014/09/112001271.jpg?w=512" alt="Ohne Titel by A.R. Penck" caption="*Ohne Titel* (Untitled)" width="300" >}}
+    </td>
+    <td>
+      {{< figure src="https://dayoftheartist.com/wp-content/uploads/2014/09/rp-1104.jpg" alt="Systembild—neue alte Welte, 2007 by A.R. Penck" caption="*Systembild – neue alte Welte*, 2007" width="300" >}}
+    </td>
+  </tr>
+</table>
 
 ### Gerhard Richter  
 German artist blending photorealism and abstraction; major postwar figure.
