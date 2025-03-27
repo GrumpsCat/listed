@@ -174,26 +174,10 @@ German painter and sculptor; associated with neo-expressionism.
 
 {{< figure src="https://www.kunstmuseum.nl/sites/default/files/styles/carousel_370y/public/images/Tentoonstellingen/2020/A.R.%20Penck/RP_712.jpg?itok=TU5_fQRh" alt="AR Penck artwork" caption="AR Penck at Kunstmuseum" width="300" >}}
 
-&nbsp;
-
-<table>
-  <tr>
-    <td>
-      {{< figure src="https://dayoftheartist.com/wp-content/uploads/2014/09/1993_a-r-penck_einschlagpapier_hi-res_rgb.jpg?w=598" alt="Nittardi Label by A.R. Penck" caption="*Nittardi Label*" width="300" >}}
-    </td>
-    <td>
-      {{< figure src="https://dayoftheartist.com/wp-content/uploads/2014/09/images1.jpeg" alt="City of Memories by A.R. Penck" caption="*City of Memories*, 2005 — Acrylic on canvas" width="300" >}}
-    </td>
-  </tr>
-  <tr>
-    <td>
-      {{< figure src="https://dayoftheartist.com/wp-content/uploads/2014/09/112001271.jpg?w=512" alt="Ohne Titel by A.R. Penck" caption="*Ohne Titel* (Untitled)" width="300" >}}
-    </td>
-    <td>
-      {{< figure src="https://dayoftheartist.com/wp-content/uploads/2014/09/rp-1104.jpg" alt="Systembild—neue alte Welte, 2007 by A.R. Penck" caption="*Systembild – neue alte Welte*, 2007" width="300" >}}
-    </td>
-  </tr>
-</table>
+<img src="https://dayoftheartist.com/wp-content/uploads/2014/09/1993_a-r-penck_einschlagpapier_hi-res_rgb.jpg?w=598" width="200" alt="Nittardi Label" />
+<img src="https://dayoftheartist.com/wp-content/uploads/2014/09/images1.jpeg" width="200" alt="City of Memories" />
+<img src="https://dayoftheartist.com/wp-content/uploads/2014/09/112001271.jpg?w=512" width="200" alt="Ohne Titel" />
+<img src="https://dayoftheartist.com/wp-content/uploads/2014/09/rp-1104.jpg" width="200" alt="Systembild" />
 
 ### Gerhard Richter  
 German artist blending photorealism and abstraction; major postwar figure.
