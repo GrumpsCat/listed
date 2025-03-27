@@ -18,9 +18,9 @@ French philosopher and cultural theorist, known for his work on simulation and h
 Hyperreality is the idea that in modern culture, especially through media and technology, the line between reality and simulation becomes blurred. Signs, images, and representations (like ads, movies, or social media) start to feel more “real” than actual reality. Over time, people may no longer distinguish between what is real and what is constructed — they experience a blended or artificial version of reality that feels just as, or even more, authentic.
 
 Examples of Hyperreality  
-	1.	Disneyland
+	1.	Disneyland  
 Disneyland is often used as a textbook example of hyperreality. It’s a carefully constructed fantasy world that mimics real-world experiences (towns, castles, nature, cultures) — but in a way that feels cleaner, safer, and more “real” than the actual world. Visitors can emotionally connect to this simulated space as if it’s an authentic version of reality.  
-	2.	Social Media Influencer Lifestyles
+	2.	Social Media Influencer Lifestyles  
 On Instagram or TikTok, influencers may curate perfect, glamorous versions of their lives through filters, poses, and selective storytelling. Followers begin to perceive these polished representations as real life, even though they are highly staged. The simulation becomes more desirable — and more believable — than actual, everyday experience.  
 
 Hyperreality, especially in Jean Baudrillard’s thought, is significant because it reveals how modern society increasingly lives through simulations—images, media, and signs that replace and distort reality. In a hyperreal world, representations no longer point to anything real but only to other representations, causing meaning to collapse. Baudrillard saw this as a key feature of consumer culture and media, where illusions are more compelling than truth, and reality is replaced by spectacle. Studying hyperreality helps us understand how power and meaning are shaped in contemporary life, and why people often can’t distinguish between what is real and what is manufactured.  
@@ -93,9 +93,6 @@ Maoist leader of the Shining Path, a revolutionary movement in Peru.
 
 ### Éric Zemmour  
 French far-right political commentator and author with nationalist views.
-
-### Charles Dickens  
-Iconic 19th-century British novelist known for *Oliver Twist* and *Great Expectations*.
 
 ### Maxim Gorky  
 Russian/Soviet author and political thinker; a founder of socialist realism.
@@ -255,12 +252,6 @@ Multidisciplinary South African artist exploring identity and colonial histories
 ### Jean-Claude Juncker  
 Luxembourgish politician; served as President of the European Commission.
 
-### Theresa May  
-Former Prime Minister of the UK who led during the Brexit process.
-
-### Recep Tayyip Erdoğan  
-President of Turkey; expanded executive power through constitutional reforms.
-
 ### Horacio Cartes  
 Former President of Paraguay; proposed and retracted constitutional changes for re-election.
 
@@ -272,9 +263,6 @@ Leftist French politician promoting wealth redistribution and anti-globalism.
 
 ### François Fillon  
 French conservative politician proposing austerity and labor reforms.
-
-### Emmanuel Macron  
-Centrist President of France, promoting economic reform and EU integration.
 
 ### Alvin Ailey American Dance Theater  
 Modern dance company emphasizing African American cultural expression.
