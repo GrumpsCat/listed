@@ -343,10 +343,12 @@ Saxophonist and bandleader fusing jazz, funk, and soul.
 Dutch photographer specializing in portraiture, often of adolescents and youth.  
 Dijkstra concentrates on single portraits, and usually works in series, looking at groups such as adolescents, clubbers, and soldiers.
 
+### Harue Koga  
+Japanese surrealist illustrator known for intricate, cyberpunk-influenced art.  
 {{< figure
-  src="https://www.berlinartlink.com/wp-content/uploads/2025/01/berlinartlink-Rineke-Dijkstra_Almerisa_Asylumcenter-Leiden_March-14-1994_Berlinische-Galerie.jpg"
-  alt="Rineke Dijkstra – Almerisa, Asylumcenter Leiden, March 14, 1994"
-  caption="[Rineke Dijkstra: ‘Almerisa, Asylumcenter Leiden, the Netherlands, March 14, 1994’](https://www.berlinartlink.com/2025/01/12/rineke-dijkstra-portraits-berlinische-galerie/)"
+  src="https://payload.cargocollective.com/1/2/88505/9348939/Harue-Koga-03_1200.jpg"
+  alt="Harue Koga – Mid-winter Night's Dream, 1931"
+  caption="*Mid-winter Night's Dream*. 1931"
   width="400"
 >}}
 
