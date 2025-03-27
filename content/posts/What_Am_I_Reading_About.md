@@ -47,6 +47,50 @@ British modernist poet known for her eccentric style and theatrical readings.
 ### Ottoline Morrell  
 British literary hostess, patron of the arts, and key figure in the Bloomsbury Group.
 
+### The Bloomsbury Group
+
+The group was united not by a formal manifesto, but by a shared set of aesthetic, philosophical, and personal values. Their outlook was shaped by a belief in intellectual freedom, emotional honesty, and the pursuit of beauty in both life and art.
+
+1. **Art for art’s sake**  
+   They believed in the intrinsic value of art and aesthetics, often rejecting Victorian moralism and realism. Influenced by Clive Bell’s idea of “significant form,” they saw art as emotionally and intellectually enriching without needing to serve moral or political ends.
+
+2. **Emphasis on personal relationships**  
+   Emotional intimacy, friendship, and honesty were central. They valued personal connection over convention, often living unconventionally—rejecting traditional marriage norms, embracing open relationships, and exploring queer identities.
+
+3. **Intellectual freedom and individualism**  
+   Inspired by the philosopher G. E. Moore, especially his work *Principia Ethica*, they emphasized truth, beauty, and friendship as the highest human values. Rational discussion, critical thinking, and skepticism of authority were cornerstones of their ethos.
+
+4. **Pacifism and political engagement**  
+   Many were pacifists, especially after World War I. They were also politically progressive—supporting feminism, sexual liberation, and (in some cases) socialism or liberal economics (e.g., Keynes’s economic reforms).
+
+5. **Rejection of traditional institutions**  
+   They were often critical of the church, empire, and traditional class structures. Their ideals represented a modernist break from the rigidity and moral certainties of Victorian England.
+
+In essence, the Bloomsbury Group championed art, intellect, love, and freedom as central to a meaningful life, pushing against the social and artistic conventions of their time.
+
+### Core Members
+
+- Virginia Woolf – Novelist and essayist  
+- Leonard Woolf – Publisher and political theorist  
+- Vanessa Bell – Painter  
+- Clive Bell – Art critic  
+- Lytton Strachey – Biographer and critic  
+- Duncan Grant – Painter and designer  
+- Roger Fry – Art critic and promoter of Post-Impressionism  
+- E. M. Forster – Novelist (*A Passage to India*, *Howards End*)  
+- John Maynard Keynes – Economist
+
+### Other Associated Figures
+
+- Desmond MacCarthy – Literary critic and journalist  
+- David Garnett – Writer and member of the later "Neo-Pagans"  
+- Julian Bell – Poet  
+- Angelica Garnett – Memoirist and painter  
+- Ottoline Morrell – Socialite and patron  
+- Bertrand Russell – Philosopher  
+- Lady Cynthia Asquith – Writer and hostess  
+- Arthur Waley – Translator and sinologist
+
 ### Abimael Guzmán  
 Maoist leader of the Shining Path, a revolutionary movement in Peru.
 
