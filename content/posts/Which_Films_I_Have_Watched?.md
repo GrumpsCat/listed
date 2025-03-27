@@ -8,6 +8,49 @@ tags:
 draft: FALSE
 
 ---
+<table style="width:100%; border-collapse: collapse;" border="1">
+  <thead>
+    <tr>
+      <th>Title</th>
+      <th>Year</th>
+      <th>Country</th>
+      <th>Genre</th>
+      <th>Description</th>
+      <th>Rating</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr><td>Jinpa</td><td>2018</td><td>China</td><td>Drama / Mystery</td><td>Hitchhiker murderer on the Qinghai-Tibet Plateau</td><td>★★★☆☆</td></tr>
+    <tr><td>Anna Karenina</td><td>2017</td><td>Germany</td><td>Ballet / Drama</td><td>Ballet interpretation of Tolstoy's novel</td><td>★★★★☆</td></tr>
+    <tr><td>At The End of Eight</td><td>2019</td><td>United States</td><td>Horror</td><td>Escape the murderer horror</td><td>★☆☆☆☆</td></tr>
+    <tr><td>Cronos</td><td>1985</td><td>Mexico</td><td>Horror</td><td>Vampire horror</td><td>★★☆☆☆</td></tr>
+    <tr><td>I Am Cuba</td><td>1964</td><td>Cuba</td><td>Historical / Drama</td><td>Four stories on Cuban life</td><td>★★☆☆☆</td></tr>
+    <tr><td>Hatching</td><td>2022</td><td>Finland</td><td>Body Horror / Fantasy</td><td>Bird-human transformation horror</td><td>★★★★★</td></tr>
+    <tr><td>Un Chien Andalou</td><td>1929</td><td>France</td><td>Surreal / Experimental</td><td>Human extremes and emotions</td><td>★★★★★</td></tr>
+    <tr><td>Akira Kurosawa's Dreams</td><td>1990</td><td>Japan</td><td>Fantasy / Anthology</td><td>Eight dreams about man confronting adversity</td><td>★★★★★</td></tr>
+    <tr><td>Sympathy for Mr. Vengeance</td><td>2002</td><td>Republic of Korea</td><td>Thriller / Revenge</td><td>Revenge thriller of violence</td><td>★★★★☆</td></tr>
+    <tr><td>Bacurau</td><td>2019</td><td>Brazil</td><td>Sci-Fi / Western</td><td>Weird Western-UFO drama in the sertão</td><td>★★★☆☆</td></tr>
+    <tr><td>Crossroads</td><td>2015</td><td>Türkiye</td><td>Drama</td><td>Brothers relive death of a friend</td><td>★★☆☆☆</td></tr>
+    <tr><td>Polyester</td><td>1981</td><td>United States</td><td>Comedy / Satire</td><td>Campy, dark satire of a suburban family</td><td>★★☆☆☆</td></tr>
+    <tr><td>Rafiki</td><td>2018</td><td>Kenya</td><td>Romance / Drama</td><td>Difficult romance in Nairobi</td><td>★★☆☆☆</td></tr>
+    <tr><td>War of the Worlds</td><td>1953</td><td>United States</td><td>Sci-Fi</td><td>Aliens invade 1950's small town</td><td>★★★☆☆</td></tr>
+    <tr><td>Invisible Demons</td><td>2021</td><td>India</td><td>Documentary / Environmental</td><td>Documentary about the conditions in India</td><td>★★★☆☆</td></tr>
+    <tr><td>The Celebration</td><td>1998</td><td>Denmark</td><td>Drama / Dogme 95</td><td>Dogme 95 style family gathering</td><td>★★★☆☆</td></tr>
+    <tr><td>Bluebeard</td><td>2017</td><td>Republic of Korea</td><td>Thriller / Psychological</td><td>Man sees murder everywhere</td><td>★★★★☆</td></tr>
+    <tr><td>Sátántangó</td><td>1994</td><td>Hungary</td><td>Drama / Arthouse</td><td>Slow demise of a rural Hungarian village</td><td>★★★☆☆</td></tr>
+    <tr><td>The Cool Lakes of Death</td><td>1982</td><td>Netherlands</td><td>Historical / Drama</td><td>1860's Dutch woman’s descent</td><td>★★☆☆☆</td></tr>
+    <tr><td>Cold War</td><td>2018</td><td>Poland</td><td>Romance / Historical</td><td>Post-WWII director and singer romance</td><td>★★☆☆☆</td></tr>
+    <tr><td>Ascension</td><td>2021</td><td>United States</td><td>Documentary</td><td>Documentary on the "Chinese Dream"</td><td>★★★★☆</td></tr>
+    <tr><td>Suburban Birds</td><td>2018</td><td>China</td><td>Drama / Mystery</td><td>Two related mysterious stories in Hangzhou</td><td>★★★☆☆</td></tr>
+    <tr><td>Colonel Redl</td><td>1985</td><td>Hungary</td><td>Biography / Historical</td><td>Pre-WWI general's early life</td><td>★★☆☆☆</td></tr>
+    <tr><td>L'Argent</td><td>1983</td><td>France</td><td>Drama / Crime</td><td>Chain of criminal events</td><td>★★★☆☆</td></tr>
+    <tr><td><a href="#next-exit">Next Exit</a></td><td>2022</td><td>United States</td><td>Sci-Fi / Road Movie</td><td>Sci-Fi Buddy Roadtrip</td><td>★★★☆☆</td></tr>
+    <tr><td><a href="#poppy-field">Poppy Field</a></td><td>2020</td><td>Romania</td><td>Drama / LGBTQ+</td><td>Romanian policeman outing during a protest</td><td>★★★☆☆</td></tr>
+    <tr><td><a href="#the-runner">The Runner</a></td><td>1985</td><td>Iran</td><td>Drama</td><td>A boy works and dreams</td><td>★★★☆☆</td></tr>
+    <tr><td><a href="#el-norte">El Norte</a></td><td>1983</td><td>United States</td><td>Drama / Immigration</td><td>1980's Immigration Drama</td><td>★★☆☆☆</td></tr>
+  </tbody>
+</table>
+
 | Title                     | Year     | Country          | Description               |Rating        |
 |:--------------------------|:---------|:-----------------|:--------------------------|:-------------|
 | Jinpa    | 2018   | China    | Hitchhiker murderer on the Qinghai-Tibet Plateau    |★★★☆☆|
