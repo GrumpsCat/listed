@@ -442,9 +442,6 @@ American singer famous for her rendition of “God Bless America.”
 ### Ziwe  
 Comedian and talk show host known for her satirical interviews and bold style.
 
-### Bowen Yang  
-Comedian and actor; writer and cast member on *Saturday Night Live*.
-
 ### Georgina Pazcoguin  
 Trailblazing ballerina and advocate for diversity in classical dance. <br>
 {{< youtube LYE7HAFGPLI >}}
@@ -460,7 +457,8 @@ Virtuoso pianist known for contemporary classical interpretations.<br>
 {{< youtube y8DCcmHg-HU >}}
 
 ### Adam Tendler  
-Avant-garde pianist celebrated for innovative solo performances.
+Adam Tendler is an acclaimed American pianist known for his fearless performances of modern and experimental music. He frequently interprets works by John Cage, Morton Feldman, and other avant-garde composers, often blending music with storytelling and visual art. Tendler is recognized for his intimate, thought-provoking concerts and his commitment to expanding the boundaries of classical performance.  
+{{< youtube YlXgUsGtFVw >}}
 
 ### Tyshawn Sorey  
 Composer, percussionist, and genre-defying musician.<br>
@@ -468,17 +466,18 @@ Sorey received the 2024 Pulitzer Prize for Music for his Adagio (for Wadada Leo 
 {{< youtube Ruou8PtETa0 >}}
 
 ### Lakecia Benjamin  
-Saxophonist and bandleader fusing jazz, funk, and soul.
+Lakecia Benjamin is a dynamic American saxophonist and bandleader celebrated for her electrifying fusion of jazz, funk, and soul. Known for her bold stage presence and energetic performances, she bridges tradition and innovation, drawing from legends like John Coltrane and intertwining them with contemporary influences. Her work often pays tribute to iconic figures while carving a distinctive voice in modern jazz.  
+{{< youtube wrm0cN7bTOM >}}
 
 ### Rineke Dijkstra  
 Dutch photographer specializing in portraiture, often of adolescents and youth.  
 Dijkstra concentrates on single portraits, and usually works in series, looking at groups such as adolescents, clubbers, and soldiers.
 
-### Erdem Moralioglu  
-British fashion designer, founder of the label Erdem.
+### Erdem Moralıoğlu  
+British Creative Director and founder of eponymous London-based fashion label Erdem, which he established in 2005.
 
 ### Harris Reed  
-Fashion designer known for gender-fluid, theatrical couture.
+British-American fashion designer and creative director for French fashion house Nina Ricci, known for gender-fluid, theatrical couture.
 
 ### Molly Goddard  
 British designer recognized for voluminous tulle dresses and playful silhouettes.
