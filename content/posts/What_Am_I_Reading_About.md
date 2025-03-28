@@ -77,6 +77,10 @@ His distinctive artistic style is marked by densely packed compositions filled w
       object-fit: cover;
       border-radius: 8px;
     }
+    .shrink {
+      object-fit: contain;
+      height: 300px;
+    }
     .caption {
       margin-top: 10px;
       font-size: 16px;
@@ -91,11 +95,11 @@ His distinctive artistic style is marked by densely packed compositions filled w
       <div class="caption">The Witch Doctor, or The Purification of the Child (O feiticeiro, ou A purificação da criança), 1962</div>
     </div>
     <div class="artwork">
-      <img src="https://artic-web.imgix.net/null98d56e8a-b3d4-4589-b605-d3a6429475dd/2013.37_press.jpg?rect=0%2C0%2C1594%2C3000&auto=format%2Ccompress&q=80&fit=crop&crop=faces%2Ccenter&w=800&h=496" alt="The Poet as a Child">
+      <img class="shrink" src="https://artic-web.imgix.net/null98d56e8a-b3d4-4589-b605-d3a6429475dd/2013.37_press.jpg?rect=0%2C0%2C1594%2C3000&auto=format%2Ccompress&q=80&fit=crop&crop=faces%2Ccenter&w=800&h=1506" alt="The Poet as a Child">
       <div class="caption">The Poet as a Child (O bebé poeta), 1963</div>
     </div>
     <div class="artwork">
-      <img src="https://artic-web.imgix.net/null6c86cce2-bb61-45f1-8f7b-bd8d57ecd564/IM045510-int_press.jpg?rect=0%2C0%2C2307%2C3000&auto=format%2Ccompress&q=80&fit=crop&crop=faces%2Ccenter&w=800&h=496" alt="PIDE’s Punishment Room">
+      <img class="shrink" src="https://artic-web.imgix.net/null6c86cce2-bb61-45f1-8f7b-bd8d57ecd564/IM045510-int_press.jpg?rect=0%2C0%2C2307%2C3000&auto=format%2Ccompress&q=80&fit=crop&crop=faces%2Ccenter&w=800&h=1040" alt="PIDE’s Punishment Room">
       <div class="caption">PIDE’s Punishment Room (Sala de castigo da PIDE), 1965</div>
     </div>
     <div class="artwork">
