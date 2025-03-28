@@ -458,7 +458,7 @@ Virtuoso pianist known for contemporary classical interpretations.<br>
 
 ### Adam Tendler  
 Adam Tendler is an acclaimed American pianist known for his fearless performances of modern and experimental music. He frequently interprets works by John Cage, Morton Feldman, and other avant-garde composers, often blending music with storytelling and visual art. Tendler is recognized for his intimate, thought-provoking concerts and his commitment to expanding the boundaries of classical performance.  
-{{< youtube YlXgUsGtFVw >}}
+{{< youtube cB_nRgRsidk >}}
 
 ### Tyshawn Sorey  
 Composer, percussionist, and genre-defying musician.<br>
