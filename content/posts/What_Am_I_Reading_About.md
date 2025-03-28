@@ -51,7 +51,57 @@ Japanese surrealist illustrator known for intricate, cyberpunk-influenced art.
 </div>
 
 ### Malangatana Ngwenya  
-Mozambican painter and poet celebrated for vivid depictions of political and cultural life.
+Mozambican painter and poet celebrated for vivid depictions of political and cultural life.  
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Art Grid</title>
+  <style>
+    .grid {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 20px;
+      max-width: 1000px;
+      margin: auto;
+      font-family: Arial, sans-serif;
+    }
+    .artwork {
+      text-align: center;
+    }
+    .artwork img {
+      width: 100%;
+      height: auto;
+      border-radius: 8px;
+    }
+    .caption {
+      margin-top: 10px;
+      font-size: 16px;
+      font-weight: bold;
+    }
+  </style>
+</head>
+<body>
+  <div class="grid">
+    <div class="artwork">
+      <img src="https://artic-web.imgix.net/null26b8c62a-7738-4778-afc5-aa444c161cfd/MM-_APurificacaodeCrincaOBERLINLIBRARY_v2.jpg?rect=0%2C0%2C3851%2C2387&auto=format%2Ccompress&q=80&fit=crop&crop=faces%2Ccenter&w=800&h=496" alt="The Witch Doctor">
+      <div class="caption">The Witch Doctor, or The Purification of the Child (O feiticeiro, ou A purificação da criança), 1962</div>
+    </div>
+    <div class="artwork">
+      <img src="https://artic-web.imgix.net/null98d56e8a-b3d4-4589-b605-d3a6429475dd/2013.37_press.jpg?rect=0%2C0%2C1594%2C3000&auto=format%2Ccompress&q=80&fit=crop&crop=faces%2Ccenter&w=800&h=1506" alt="The Poet as a Child">
+      <div class="caption">The Poet as a Child (O bebé poeta), 1963</div>
+    </div>
+    <div class="artwork">
+      <img src="https://artic-web.imgix.net/null6c86cce2-bb61-45f1-8f7b-bd8d57ecd564/IM045510-int_press.jpg?rect=0%2C0%2C2307%2C3000&auto=format%2Ccompress&q=80&fit=crop&crop=faces%2Ccenter&w=800&h=1040" alt="PIDE’s Punishment Room">
+      <div class="caption">PIDE’s Punishment Room (Sala de castigo da PIDE), 1965</div>
+    </div>
+    <div class="artwork">
+      <img src="https://artic-web.imgix.net/null09361fb1-4c32-4f52-8505-5e70e10a521b/FountainofBloodCLEVELAND2012.67_press.jpg?rect=0%2C0%2C3000%2C2485&auto=format%2Ccompress&q=80&fit=crop&crop=faces%2Ccenter&w=800&h=530" alt="The Fountain of Blood">
+      <div class="caption">The Fountain of Blood (A fonte de sangue), 1961</div>
+    </div>
+  </div>
+</body>
+</html>
 
 ### Boris Vian  
 French polymath: writer, poet, musician, and critic known for surreal, satirical works.
