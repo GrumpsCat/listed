@@ -483,7 +483,9 @@ British-American fashion designer and creative director for French fashion house
 British designer recognized for voluminous tulle dresses and playful silhouettes.
 
 ### AR Penck  
-German painter and sculptor; associated with neo-expressionism.  
+A. R. Penck (1939–2017) was a German painter, sculptor, and printmaker best known for his bold, symbolic style rooted in neo-expressionism. Born Ralf Winkler in Dresden, East Germany, he adopted the pseudonym “A. R. Penck” after the geologist Albrecht Penck.
+
+His signature visual language featured stick figures, signs, and pictographic symbols reminiscent of cave paintings, graffiti, or ancient scripts. These forms expressed complex themes like communication, power, alienation, and the Cold War tensions between East and West. His early work was often produced under censorship in East Germany and smuggled to the West.   
 <table>
   <tr>
     <td align="center">
