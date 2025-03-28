@@ -51,12 +51,14 @@ Japanese surrealist illustrator known for intricate, cyberpunk-influenced art.
 </div>
 
 ### Malangatana Ngwenya  
-Mozambican painter and poet celebrated for vivid depictions of political and cultural life.  
+Malangatana Valente Ngwenya (1936–2011) was a celebrated Mozambican painter and poet, known for his vivid, emotionally charged artworks that explore themes of political struggle, social injustice, and traditional African culture. Born in Matalana, Mozambique, Malangatana held various jobs in his youth—including as a ball boy at a tennis club—which enabled him to attend evening art classes and pursue his creative ambitions.
+
+His distinctive artistic style is marked by densely packed compositions filled with human and animal figures, rendered in bold colors and dynamic forms. Malangatana’s work serves as a poignant visual commentary on Mozambique’s colonial history, its fight for independence, and the turmoil that followed. In addition to his paintings, he was an accomplished poet, with his writings featured in publications such as Black Orpheus in 1963.
 <!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>Art Grid</title>
+  <title>Malangatana Art Grid</title>
   <style>
     .grid {
       display: grid;
@@ -71,7 +73,8 @@ Mozambican painter and poet celebrated for vivid depictions of political and cul
     }
     .artwork img {
       width: 100%;
-      height: auto;
+      height: 400px;
+      object-fit: cover;
       border-radius: 8px;
     }
     .caption {
@@ -88,15 +91,15 @@ Mozambican painter and poet celebrated for vivid depictions of political and cul
       <div class="caption">The Witch Doctor, or The Purification of the Child (O feiticeiro, ou A purificação da criança), 1962</div>
     </div>
     <div class="artwork">
-      <img src="https://artic-web.imgix.net/null98d56e8a-b3d4-4589-b605-d3a6429475dd/2013.37_press.jpg?rect=0%2C0%2C1594%2C3000&auto=format%2Ccompress&q=80&fit=crop&crop=faces%2Ccenter&w=800&h=1506" alt="The Poet as a Child">
+      <img src="https://artic-web.imgix.net/null98d56e8a-b3d4-4589-b605-d3a6429475dd/2013.37_press.jpg?rect=0%2C0%2C1594%2C3000&auto=format%2Ccompress&q=80&fit=crop&crop=faces%2Ccenter&w=800&h=496" alt="The Poet as a Child">
       <div class="caption">The Poet as a Child (O bebé poeta), 1963</div>
     </div>
     <div class="artwork">
-      <img src="https://artic-web.imgix.net/null6c86cce2-bb61-45f1-8f7b-bd8d57ecd564/IM045510-int_press.jpg?rect=0%2C0%2C2307%2C3000&auto=format%2Ccompress&q=80&fit=crop&crop=faces%2Ccenter&w=800&h=1040" alt="PIDE’s Punishment Room">
+      <img src="https://artic-web.imgix.net/null6c86cce2-bb61-45f1-8f7b-bd8d57ecd564/IM045510-int_press.jpg?rect=0%2C0%2C2307%2C3000&auto=format%2Ccompress&q=80&fit=crop&crop=faces%2Ccenter&w=800&h=496" alt="PIDE’s Punishment Room">
       <div class="caption">PIDE’s Punishment Room (Sala de castigo da PIDE), 1965</div>
     </div>
     <div class="artwork">
-      <img src="https://artic-web.imgix.net/null09361fb1-4c32-4f52-8505-5e70e10a521b/FountainofBloodCLEVELAND2012.67_press.jpg?rect=0%2C0%2C3000%2C2485&auto=format%2Ccompress&q=80&fit=crop&crop=faces%2Ccenter&w=800&h=530" alt="The Fountain of Blood">
+      <img src="https://artic-web.imgix.net/null09361fb1-4c32-4f52-8505-5e70e10a521b/FountainofBloodCLEVELAND2012.67_press.jpg?rect=0%2C0%2C3000%2C2485&auto=format%2Ccompress&q=80&fit=crop&crop=faces%2Ccenter&w=800&h=496" alt="The Fountain of Blood">
       <div class="caption">The Fountain of Blood (A fonte de sangue), 1961</div>
     </div>
   </div>
