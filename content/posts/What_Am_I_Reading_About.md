@@ -114,7 +114,11 @@ His distinctive artistic style is marked by densely packed compositions filled w
 French polymath: writer, poet, musician, and critic known for surreal, satirical works.
 
 ### Kukeri  
-Traditional Bulgarian ritual involving costumed dancers to scare away evil spirits.  
+Kukeri are a traditional Bulgarian practice involving elaborately costumed individuals who perform rituals designed to ward off evil spirits and invite prosperity. Typically held between New Year’s and Lent, these rituals feature participants—predominantly men—dressed in intricate animalistic masks and costumes adorned with large bells. They parade and dance through villages, creating a cacophony intended to scare away malevolent forces and ensure a bountiful harvest and communal well-being for the coming year.  
+
+The origins of Kukeri are believed to be linked to ancient Thracian ceremonies honoring Dionysus, the god of wine and ecstasy. Similar traditions are found throughout the Balkans and Greece, each with regional variations. The term “Kuker” may derive from the Latin “cuculla,” meaning “hood,” reflecting the hooded nature of the costumes.  
+
+One of the most notable celebrations is the Surva Festival in Pernik, Bulgaria, recognized as one of the largest masquerade festivals in the Balkans and Eastern Europe. Held annually in late January, it attracts thousands of participants and spectators, showcasing the rich cultural heritage of the Kukeri tradition.  
 {{< youtube nYYHXiqLsXM >}}
 
 ### Charif Shanahan - Present Moment  
