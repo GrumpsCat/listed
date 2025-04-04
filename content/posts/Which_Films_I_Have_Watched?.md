@@ -10,7 +10,7 @@ draft: FALSE
 ---
 | Title                     | Year     | Country          | Description               |Rating        |
 |:--------------------------|:---------|:-----------------|:--------------------------|:-------------|
-| By Brakhage: An Anthology, VOlume One and Two  | 2023   | USA    | Short experimental films    |★★★☆☆|
+| By Brakhage: An Anthology, Volumes One and Two  | 2023   | USA    | Short experimental films    |★★★☆☆|
 | Der Schatzgräber  | 2023   | Germany    | Opera Love Tragedy    |★★★☆☆|
 | Red Cliff  | 2008   | China    | Han Dynasty War Thriller    |★★★☆☆|
 | The Blue Caftan    | 2022   | Moracco    | Tailor's secret life    |★★★☆☆|
