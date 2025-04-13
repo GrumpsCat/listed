@@ -167,7 +167,7 @@ French filmmaker and multimedia artist known for essay films like *La Jetée*.
 Leading independent contemporary art center in Asia.
 
 ### David Murray (saxophonist)  
-American jazz saxophonist known for avant-garde and post-bop styles.  
+American jazz saxophonist known for avant-garde and post-bop styles. He was a founding member of the World Saxophone Quartet with Oliver Lake, Julius Hemphill and Hamiet Bluiett.  
 {{< youtube egq0S5H0bPw >}}
 
 ### Paul Gonsalves  
