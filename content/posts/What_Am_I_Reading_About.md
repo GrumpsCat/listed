@@ -167,7 +167,8 @@ French filmmaker and multimedia artist known for essay films like *La Jetée*.
 Leading independent contemporary art center in Asia.
 
 ### David Murray (saxophonist)  
-American jazz saxophonist known for avant-garde and post-bop styles.
+American jazz saxophonist known for avant-garde and post-bop styles.  
+{{< youtube egq0S5H0bPw >}}
 
 ### Paul Gonsalves  
 American jazz tenor saxophonist, known for his work with Duke Ellington.
