@@ -10,6 +10,8 @@ draft: FALSE
 ---
 | Title                     | Year     | Country          | Description               |Rating        |
 |:--------------------------|:---------|:-----------------|:--------------------------|:-------------|
+| Sweeney Todd | 1979   | USA    | Film adapatation of the musical    |★★★☆☆|
+| The One and Only Dick Gregory  | 2021   | USA    | Documentary on activist, comedian    |★★★★☆|
 | By Brakhage: An Anthology, Volumes One and Two  | 2023   | USA    | Short experimental films    |★★★☆☆|
 | Der Schatzgräber  | 2023   | Germany    | Opera Love Tragedy    |★★★☆☆|
 | Red Cliff  | 2008   | China    | Han Dynasty War Thriller    |★★★☆☆|
