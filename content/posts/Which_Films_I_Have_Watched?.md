@@ -8,10 +8,14 @@ tags:
 draft: FALSE
 
 ---
-| Title                     | Year     | Country          | Description               |Rating        |
-|:--------------------------|:---------|:-----------------|:--------------------------|:-------------|
-| Sweeney Todd | 1979   | USA    | Film adapatation of the musical    |★★★☆☆|
-| The One and Only Dick Gregory  | 2021   | USA    | Documentary on activist, comedian    |★★★★☆|
+| Title                     | Year     | Country          | Description                                 | Rating |
+|:--------------------------|:---------|:-----------------|:--------------------------------------------|:--------|
+| Mad Max                  | 1979     | Australia        | Post-apocalyptic action film                | ★★★☆☆ |
+| The Quiet Girl           | 2022     | Ireland          | Coming-of-age drama set in rural Ireland    | ★★☆☆☆ |
+| Mandabi                  | 1968     | Senegal          | Social satire about bureaucracy and family  |★★★☆☆|
+| Betty Blue               | 1986     | France           | Romantic drama about love and madness       | ★★☆☆☆ |
+| Sweeney Todd             | 1979     | USA              | Film adaptation of the musical              | ★★★☆☆ |
+| The One and Only Dick Gregory  | 2021   | USA      | Documentary on activist, comedian           | ★★★★☆ |
 | By Brakhage: An Anthology, Volumes One and Two  | 2023   | USA    | Short experimental films    |★★★☆☆|
 | Der Schatzgräber  | 2023   | Germany    | Opera Love Tragedy    |★★★☆☆|
 | Red Cliff  | 2008   | China    | Han Dynasty War Thriller    |★★★☆☆|
