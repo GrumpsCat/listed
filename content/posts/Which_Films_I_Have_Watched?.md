@@ -10,10 +10,10 @@ draft: FALSE
 ---
 | Title                     | Year     | Country          | Description                                 | Rating |
 |:--------------------------|:---------|:-----------------|:--------------------------------------------|:--------|
-| Mad Max                  | 1979     | Australia        | Post-apocalyptic action film                | ★★★☆☆ |
-| The Quiet Girl           | 2022     | Ireland          | Coming-of-age drama set in rural Ireland    | ★★☆☆☆ |
-| Mandabi                  | 1968     | Senegal          | Social satire about bureaucracy and family  |★★★☆☆|
 | Betty Blue               | 1986     | France           | Romantic drama about love and madness       | ★★☆☆☆ |
+| Mandabi                  | 1968     | Senegal          | Social satire about bureaucracy and family  | ★★★☆☆ |
+| The Quiet Girl           | 2022     | Ireland          | Coming-of-age drama set in rural Ireland    | ★★☆☆☆ |
+| Mad Max                  | 1979     | Australia        | Post-apocalyptic action film                | ★★★☆☆ |
 | Sweeney Todd             | 1979     | USA              | Film adaptation of the musical              | ★★★☆☆ |
 | The One and Only Dick Gregory  | 2021   | USA      | Documentary on activist, comedian           | ★★★★☆ |
 | By Brakhage: An Anthology, Volumes One and Two  | 2023   | USA    | Short experimental films    |★★★☆☆|
