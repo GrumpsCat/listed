@@ -10,8 +10,10 @@ draft: FALSE
 ---
 | Title                     | Year     | Country          | Description                                 | Rating |
 |:--------------------------|:---------|:-----------------|:--------------------------------------------|:--------|
-| Betty Blue               | 1986     | France           | Romantic drama about love and madness       | ★★☆☆☆ |
-| Mandabi                  | 1968     | Senegal          | Social satire about bureaucracy and family  | ★★★☆☆ |
+| Chop Shop               | 2007     | USA              | Gritty coming-of-age story set in Queens    | ★★★★☆ |
+| Rushmore                | 1998     | USA              | Offbeat comedy about an eccentric student   | ★★★☆☆ |
+| Betty Blue              | 1986     | France           | Romantic drama about love and madness       | ★★☆☆☆ |
+| Mandabi                 | 1968     | Senegal          | Social satire about bureaucracy and family  | ★★★☆☆ |
 | The Quiet Girl           | 2022     | Ireland          | Coming-of-age drama set in rural Ireland    | ★★☆☆☆ |
 | Mad Max                  | 1979     | Australia        | Post-apocalyptic action film                | ★★★☆☆ |
 | Sweeney Todd             | 1979     | USA              | Film adaptation of the musical              | ★★★☆☆ |
