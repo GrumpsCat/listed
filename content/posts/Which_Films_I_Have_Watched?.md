@@ -10,6 +10,7 @@ draft: FALSE
 ---
 | Title                     | Year     | Country          | Description                                 | Rating |
 |:--------------------------|:---------|:-----------------|:--------------------------------------------|:--------|
+| The Iceman Cometh       | 1989     | Hong Kong         | A Ming dynasty warrior time-travels to 1980s Hong Kong | ★★★☆☆ |
 | Eternal Date            | 2016     | Russia           | Amateur sleuths investigate a village murder | ★★☆☆☆ |
 | Chop Shop               | 2007     | USA              | Gritty coming-of-age story set in Queens    | ★★★★☆ |
 | Rushmore                | 1998     | USA              | Offbeat comedy about an eccentric student   | ★★★☆☆ |
