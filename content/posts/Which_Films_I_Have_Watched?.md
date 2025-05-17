@@ -10,6 +10,7 @@ draft: FALSE
 ---
 | Title                     | Year     | Country          | Description                                 | Rating |
 |:--------------------------|:---------|:-----------------|:--------------------------------------------|:--------|
+| Eternal Date            | 2016     | Russia           | Amateur sleuths investigate a village murder | ★★☆☆☆ |
 | Chop Shop               | 2007     | USA              | Gritty coming-of-age story set in Queens    | ★★★★☆ |
 | Rushmore                | 1998     | USA              | Offbeat comedy about an eccentric student   | ★★★☆☆ |
 | Betty Blue              | 1986     | France           | Romantic drama about love and madness       | ★★☆☆☆ |
