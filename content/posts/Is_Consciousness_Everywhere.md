@@ -1,5 +1,5 @@
 ---
-title: "Panpsychism"
+title: "Is Consciousness Everywhere?"
 date: 2025-05-18
 summary: "Explore the philosophical view that consciousness is a fundamental property of all matter."
 categories: ["Philosophy", "Mind", "Consciousness"]
