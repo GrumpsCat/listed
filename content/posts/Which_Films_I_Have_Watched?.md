@@ -8,15 +8,14 @@ tags:
 draft: FALSE
 
 ---
-| Title                              | Year     | Country           | Description                                                  | Rating  |
-|:-----------------------------------|:---------|:------------------|:-------------------------------------------------------------|:--------|
-| The Winds of Ayahuasca             | 1982     | Peru/Mexico          | Early cinematic exploration of Amazonian shamanic rituals    |  ★★★☆☆  |
-| The Velvet Underground             | 2021     | USA                | Documentary on the influential experimental rock band        |  ★★★☆☆ |
-| Naked                              | 1993     | UK                 | A darkly comic and bleak portrait of a drifter in London     | ★★☆☆☆   |
-| La Mégère apprivoisée              | 2003     | France/Monaco      | Ballet adaptation of Shakespeare’s "The Taming of the Shrew" | ★★★☆☆   |
-| The Iceman Cometh                  | 1989     | Hong Kong          | A Ming dynasty warrior time-travels to 1980s Hong Kong       | ★★★☆☆  |
-| Eternal Date                       | 2016     | Russia             | Amateur sleuths investigate a village murder                 | ★★☆☆☆  |
-
+| Title        | Year     | Country           | Description               | Rating  |
+|:-----------------------------------|:---------|:------------------|:----------------------------|:--------|
+| The Winds of Ayahuasca             | 1982     | Peru/Mexico      | Early cinematic exploration of Amazonian shamanic rituals    |  ★★★☆☆  |
+| The Velvet Underground             | 2021     | USA              | Documentary on the influential experimental rock band        |  ★★★☆☆ |
+| Naked                              | 1993     | UK               | A darkly comic and bleak portrait of a drifter in London     | ★★☆☆☆   |
+| La Mégère apprivoisée              | 2003     | France/Monaco    | Ballet adaptation of Shakespeare’s "The Taming of the Shrew" | ★★★☆☆   |
+| The Iceman Cometh                  | 1989     | Hong Kong         | A Ming dynasty warrior time-travels to 1980s Hong Kong       | ★★★☆☆  |
+| Eternal Date                       | 2016     | Russia          | Amateur sleuths investigate a village murder    | ★★☆☆☆  |
 | Chop Shop               | 2007     | USA              | Gritty coming-of-age story set in Queens    | ★★★★☆ |
 | Rushmore                | 1998     | USA              | Offbeat comedy about an eccentric student   | ★★★☆☆ |
 | Betty Blue              | 1986     | France           | Romantic drama about love and madness       | ★★☆☆☆ |
