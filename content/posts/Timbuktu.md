@@ -1,17 +1,18 @@
 ---
-title: What was Timbuktu?
-description: A historical overview of the Mali Empire, the Kurukan Fuga, and Timbuktu’s role as a center of Islamic learning, law, and manuscript culture.
+title: "What was Timbuktu?"
 date: 2025-06-06
+summary: "A historical overview of the Mali Empire, the Kurukan Fuga, and Timbuktu’s role as a center of Islamic learning, law, and manuscript culture."
+categories: ["History", "Africa", "Islamic World"]
 tags:
-- Mali Empire
-- Timbuktu
-- African history
-- Islamic scholarship
-- trans-Saharan trade
-draft: FALSE
+  - Mali Empire
+  - Timbuktu
+  - African history
+  - Islamic scholarship
+  - trans-Saharan trade
+draft: false
 ---
 
-# The Mali Empire and the Intellectual Legacy of Timbuktu
+# What was Timbuktu? The Mali Empire and the Intellectual Legacy of Timbuktu
 
 The **Mali Empire of West Africa** was known for its immense wealth, powerful rulers like **Mansa Musa**, and its thriving centers of trade and learning—most notably, the city of **Timbuktu**. At its height, Mali was one of the world’s largest and most influential empires, controlling major trans-Saharan trade routes and fostering cultural and intellectual flourishing. Gold and salt moved through its markets, but so did ideas, manuscripts, and religious traditions, making Mali a key node in a vast Afro-Eurasian network.
 
