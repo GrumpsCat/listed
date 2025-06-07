@@ -7,6 +7,16 @@ tags:
 draft: false
 ---
 
+
+## Ali Farka Touré – *Savane*  
+{{< youtube LEPDfBhK_XQ >}}
+
+**Ali Farka Touré** (1939–2006) was a Malian guitarist and singer whose music bridges **traditional West African styles** with **American blues**, creating a sound often described as the **"roots of the blues"**. He sang in several African languages including Songhai, Fulfulde, and Tamasheq, reflecting Mali's deep musical heritage.
+
+The track *Savane* comes from his final album of the same name, released posthumously in 2006. It showcases his intricate guitar work, soulful voice, and deep connection to the desert rhythms of northern Mali. The song is both a personal farewell and a cultural statement—linking centuries of Saharan musical traditions to a global audience.
+
+---
+
 ## Gulistān, KSS 63
 {{< youtube -r7aezcOrDg >}}
 
