@@ -47,7 +47,7 @@ Globally significant figures of the same period include **Mansa Musa** (c. 1280�
 Among Mali's enduring contributions was the **Kurukan Fuga**, a charter established after the **Battle of Kirina** (c. 1235). This document codified a system of **decentralized governance, social cooperation, and restorative justice**. Society was structured into occupational castes such as farmers, warriors, blacksmiths, and griots—each playing essential roles. Local assemblies like the **gbara** mediated disputes and advised rulers.
 
 <figure>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Djenne_Terracotta_Archer_%2813th-15th_cent%29.jpg" alt="Statue of Sundiata Keita" width="300" style="max-width: 100%; height: auto;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Djenne_Terracotta_Archer_%2813th-15th_cent%29.jpg" alt="Statue of Sundiata Keita" width="150" style="max-width: 100%; height: auto;">
   <figcaption>Terracotta figure from Djenné, often associated with warrior iconography from the Mali Empire.<br><em>Statue of Sundiata Keita</em>, founder of the Mali Empire and initiator of the Kurukan Fuga charter.</figcaption>
 </figure>
 
