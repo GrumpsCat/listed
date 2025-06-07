@@ -60,7 +60,7 @@ The **Kurukan Fuga** also emphasized **environmental stewardship**, protecting f
 Between the 14th and 16th centuries, **Timbuktu** emerged as one of the greatest intellectual centers of the Islamic world. At **Sankore University** and other madrasas, scholars taught theology, law, medicine, logic, and astronomy. West African thinkers like **Ahmad Baba** wrote original treatises defending African scholarship, analyzing Islamic law, and criticizing the Atlantic slave trade.
 
 <figure>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/1d/2007_Sankore_Mosque_Timbuktu_02.jpg" alt="Sankore Mosque in Timbuktu" width="300" style="max-width: 100%; height: auto;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/1d/2007_Sankore_Mosque_Timbuktu_02.jpg" alt="Sankore Mosque in Timbuktu" width="600" style="max-width: 100%; height: auto;">
   <figcaption><em>Sankoré Madrasah</em> — a major center of Islamic scholarship in Timbuktu.</figcaption>
 </figure>
 
