@@ -8,12 +8,12 @@ draft: false
 ---
 
 
-## Ali Farka Touré – *Savane*  
-{{< youtube LEPDfBhK_XQ >}}
+## Ali Farka Touré – *Heygana*  
+{{< youtube OgNFwXC4I6M >}}
 
-**Ali Farka Touré** (1939–2006) was a Malian guitarist and singer whose music bridges **traditional West African styles** with **American blues**, creating a sound often described as the **"roots of the blues"**. He sang in several African languages including Songhai, Fulfulde, and Tamasheq, reflecting Mali's deep musical heritage.
+**Ali Farka Touré** (1939–2006) was a legendary Malian guitarist, singer, and multi-instrumentalist known for blending **traditional Malian music** with the tonalities of **American blues**. His work helped global audiences recognize the African roots of the blues and highlighted the richness of West African musical traditions.
 
-The track *Savane* comes from his final album of the same name, released posthumously in 2006. It showcases his intricate guitar work, soulful voice, and deep connection to the desert rhythms of northern Mali. The song is both a personal farewell and a cultural statement—linking centuries of Saharan musical traditions to a global audience.
+*Heygana*, from his posthumous album *Savane* (2006), is a haunting, rhythmic track steeped in the desert blues style Touré helped define. Sung in Songhai, the piece pulses with repetitive guitar patterns and subtle melodic shifts, evoking the vast Sahelian landscapes of northern Mali. It’s a meditative journey through sound—both grounded in place and spiritually expansive.
 
 ---
 
