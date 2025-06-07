@@ -29,7 +29,7 @@ The empire existed from **1226 to 1610**, overlapping with major global powers a
 In Mali, the **Great Mosque of Djenné**, first built in the 13th century, remains a testament to Sudano-Sahelian architectural genius.
 
 <figure>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Djenne_great_mud_mosque.jpg/1920px-Djenne_great_mud_mosque.jpg" alt="Great Mosque of Djenné" width="300" style="max-width: 100%; height: auto;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Djenne_great_mud_mosque.jpg/1920px-Djenne_great_mud_mosque.jpg" alt="Great Mosque of Djenné" width="600" style="max-width: 100%; height: auto;">
   <figcaption><em>Great Mud Mosque</em>, Djenné, Mali — a striking example of Sudano-Sahelian architecture.</figcaption>
 </figure>
 
