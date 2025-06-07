@@ -37,10 +37,10 @@ In Mali, the **Great Mosque of Djenné**, first built in the 13th century, remai
 Globally significant figures of the same period include **Mansa Musa** (c. 1280–1337), **Ibn Battuta**, **Marco Polo**, **Amir Khusrow**, and **Petrarch**, all of whom contributed to an era of intense cultural and philosophical exchange.
 
 <figure>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Catalan_Atlas_BNF_Sheet_6_Mansa_Musa_%28cropped%29.jpg/1050px-Catalan_Atlas_BNF_Sheet_6_Mansa_Musa_%28cropped%29.jpg" alt="Catalan Atlas depiction of Mansa Musa" width="300" style="max-width: 100%; height: auto;">
+  <img src="https://www.researchgate.net/profile/Soufiana-Drame/publication/353878476/figure/fig3/AS:1118657543454722@1643720150053/Musa-is-depicted-in-the-1375-Catalan-Atlas-holding-a-gold-nugget-signifying-the-wealth.png" alt="Mansa Musa in the Catalan Atlas, 1375" width="300" style="max-width: 100%; height: auto;">
   <figcaption>
-    <em>Mansa Musa</em> holding a gold nugget, depicted in the <em>Catalan Atlas</em>, created in 1375 by Abraham Cresques for the Crown of Aragon. This is one of the earliest European illustrations of a sub-Saharan African ruler, reflecting Mali’s global significance.<br>
-    <small>Source: <a href="https://commons.wikimedia.org/wiki/File:Catalan_Atlas_BNF_Sheet_6_Mansa_Musa_(cropped).jpg" target="_blank">Wikimedia Commons</a>, <a href="https://ibw21.org/reparations/africas-lost-forgotten-kingdoms/" target="_blank">IBW21</a>, and <a href="https://www.researchgate.net/profile/Soufiana-Drame/publication/353878476/figure/fig3/AS:1118657543454722@1643720150053/Musa-is-depicted-in-the-1375-Catalan-Atlas-holding-a-gold-nugget-signifying-the-wealth.png" target="_blank">ResearchGate</a></small>
+    <em>Mansa Musa</em> holding a gold nugget, as depicted in the 1375 <em>Catalan Atlas</em>, created by Abraham Cresques of Majorca. This map illustration is among the earliest European portrayals of a West African ruler and symbolizes the legendary wealth and influence of the Mali Empire.<br>
+    <small>Source: ResearchGate, <a href="https://www.researchgate.net/profile/Soufiana-Drame/publication/353878476/figure/fig3/AS:1118657543454722@1643720150053/" target="_blank">Soufiana Dramé, 2021</a></small>
   </figcaption>
 </figure>
 
