@@ -67,7 +67,7 @@ Between the 14th and 16th centuries, **Timbuktu** emerged as one of the greatest
 Timbuktu’s scholars created and preserved **thousands of manuscripts**, many of which still exist in family collections and libraries. These texts, written in Arabic and local languages, covered topics such as **astronomical calculations**, **Sahelian medicinal knowledge**, and **adaptations of Maliki Islamic jurisprudence** to local life.
 
 <figure>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Timbuktu-manuscripts-astronomy-mathematics.jpg" alt="Timbuktu Manuscript example" width="300" style="max-width: 100%; height: auto;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Timbuktu-manuscripts-astronomy-mathematics.jpg" alt="Timbuktu Manuscript example" width="600" style="max-width: 100%; height: auto;">
   <figcaption><em>Timbuktu Manuscripts</em> — astronomy and mathematics manuscript, handwritten by West African scholars.</figcaption>
 </figure>
 
