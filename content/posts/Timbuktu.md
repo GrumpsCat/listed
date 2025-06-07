@@ -38,8 +38,10 @@ Globally significant figures of the same period include **Mansa Musa** (c. 1280â
 
 <figure>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Catalan_Atlas_BNF_Sheet_6_Mansa_Musa_%28cropped%29.jpg/1050px-Catalan_Atlas_BNF_Sheet_6_Mansa_Musa_%28cropped%29.jpg" alt="Catalan Atlas depiction of Mansa Musa" width="300" style="max-width: 100%; height: auto;">
-  <figcaption><em>Mansa Musa</em> holding a gold nugget, depicted in the <em>Catalan Atlas</em>, 1375.<br>
-  <small>Source: Wikimedia Commons, <a href="https://commons.wikimedia.org/wiki/File:Catalan_Atlas_BNF_Sheet_6_Mansa_Musa_(cropped).jpg" target="_blank">Public Domain</a></small></figcaption>
+  <figcaption>
+    <em>Mansa Musa</em> holding a gold nugget, depicted in the <em>Catalan Atlas</em>, created in 1375 by Abraham Cresques for the Crown of Aragon. This is one of the earliest European illustrations of a sub-Saharan African ruler, reflecting Maliâ€™s global significance.<br>
+    <small>Source: <a href="https://commons.wikimedia.org/wiki/File:Catalan_Atlas_BNF_Sheet_6_Mansa_Musa_(cropped).jpg" target="_blank">Wikimedia Commons</a>, <a href="https://ibw21.org/reparations/africas-lost-forgotten-kingdoms/" target="_blank">IBW21</a>, and <a href="https://www.researchgate.net/profile/Soufiana-Drame/publication/353878476/figure/fig3/AS:1118657543454722@1643720150053/Musa-is-depicted-in-the-1375-Catalan-Atlas-holding-a-gold-nugget-signifying-the-wealth.png" target="_blank">ResearchGate</a></small>
+  </figcaption>
 </figure>
 
 ---
