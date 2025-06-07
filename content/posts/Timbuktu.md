@@ -37,10 +37,10 @@ In Mali, the **Great Mosque of Djenné**, first built in the 13th century, remai
 Globally significant figures of the same period include **Mansa Musa** (c. 1280–1337), **Ibn Battuta**, **Marco Polo**, **Amir Khusrow**, and **Petrarch**, all of whom contributed to an era of intense cultural and philosophical exchange.
 
 <figure>
-  <img src="https://www.researchgate.net/profile/Soufiana-Drame/publication/353878476/figure/fig3/AS:1118657543454722@1643720150053/Musa-is-depicted-in-the-1375-Catalan-Atlas-holding-a-gold-nugget-signifying-the-wealth.png" alt="Mansa Musa in the Catalan Atlas, 1375" width="300" style="max-width: 100%; height: auto;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c1/Mansa_Musa.jpg" alt="Mansa Musa depicted in the Catalan Atlas, 1375" width="300" style="max-width: 100%; height: auto;">
   <figcaption>
-    <em>Mansa Musa</em> holding a gold nugget, as depicted in the 1375 <em>Catalan Atlas</em>, created by Abraham Cresques of Majorca. This map illustration is among the earliest European portrayals of a West African ruler and symbolizes the legendary wealth and influence of the Mali Empire.<br>
-    <small>Source: ResearchGate, <a href="https://www.researchgate.net/profile/Soufiana-Drame/publication/353878476/figure/fig3/AS:1118657543454722@1643720150053/" target="_blank">Soufiana Dramé, 2021</a></small>
+    <em>Mansa Musa</em>, ruler of the Mali Empire, depicted in the 1375 <em>Catalan Atlas</em> by Abraham Cresques of Majorca. He is shown holding a gold nugget and wearing a European-style crown. The surrounding Latin text praises him as "the richest and most noble king in all the land," referencing the abundance of gold in his kingdom.<br>
+    <small>Image: Wikimedia Commons, <a href="https://commons.wikimedia.org/wiki/File:Mansa_Musa.jpg" target="_blank">Public Domain</a></small>
   </figcaption>
 </figure>
 
