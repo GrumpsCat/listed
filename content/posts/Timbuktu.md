@@ -19,7 +19,8 @@ The **Mali Empire of West Africa** was known for its immense wealth, powerful ru
 
 <figure>
   <img src="https://upload.wikimedia.org/wikipedia/commons/b/b7/Niger_saharan_medieval_trade_routes.PNG" alt="Saharan trade routes circa 1400" width="600" style="max-width: 100%; height: auto;">
-  <figcaption><em>Saharan trade routes circa 1400</em>, with the modern territory of Niger highlighted.</figcaption>
+  <figcaption><em>Saharan trade routes circa 1400</em>, with the modern territory of Niger highlighted.<br>
+  <small>Source: Wikimedia Commons, <a href="https://commons.wikimedia.org/wiki/File:Niger_saharan_medieval_trade_routes.PNG" target="_blank">CC BY-SA</a></small></figcaption>
 </figure>
 
 ## Global Context and Cultural Influence
@@ -30,14 +31,16 @@ In Mali, the **Great Mosque of Djenné**, first built in the 13th century, remai
 
 <figure>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Djenne_great_mud_mosque.jpg/1920px-Djenne_great_mud_mosque.jpg" alt="Great Mosque of Djenné" width="600" style="max-width: 100%; height: auto;">
-  <figcaption><em>Great Mud Mosque</em>, Djenné, Mali — a striking example of Sudano-Sahelian architecture.</figcaption>
+  <figcaption><em>Great Mud Mosque</em>, Djenné, Mali — a striking example of Sudano-Sahelian architecture.<br>
+  <small>Source: Wikimedia Commons, <a href="https://commons.wikimedia.org/wiki/File:Djenne_great_mud_mosque.jpg" target="_blank">CC BY-SA</a></small></figcaption>
 </figure>
 
 Globally significant figures of the same period include **Mansa Musa** (c. 1280–1337), **Ibn Battuta**, **Marco Polo**, **Amir Khusrow**, and **Petrarch**, all of whom contributed to an era of intense cultural and philosophical exchange.
 
 <figure>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Catalan_Atlas_BNF_Sheet_6_Mansa_Musa_%28cropped%29.jpg/1050px-Catalan_Atlas_BNF_Sheet_6_Mansa_Musa_%28cropped%29.jpg" alt="Catalan Atlas depiction of Mansa Musa" width="300" style="max-width: 100%; height: auto;">
-  <figcaption><em>Mansa Musa</em> holding a gold nugget, depicted in the <em>Catalan Atlas</em>, 1375.</figcaption>
+  <figcaption><em>Mansa Musa</em> holding a gold nugget, depicted in the <em>Catalan Atlas</em>, 1375.<br>
+  <small>Source: Wikimedia Commons, <a href="https://commons.wikimedia.org/wiki/File:Catalan_Atlas_BNF_Sheet_6_Mansa_Musa_(cropped).jpg" target="_blank">Public Domain</a></small></figcaption>
 </figure>
 
 ---
@@ -48,7 +51,8 @@ Among Mali's enduring contributions was the **Kurukan Fuga**, a charter establis
 
 <figure>
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Djenne_Terracotta_Archer_%2813th-15th_cent%29.jpg" alt="Statue of Sundiata Keita" width="150" style="max-width: 100%; height: auto;">
-  <figcaption>Terracotta figure from Djenné, often associated with warrior iconography from the Mali Empire.<br><em>Statue of Sundiata Keita</em>, founder of the Mali Empire and initiator of the Kurukan Fuga charter.</figcaption>
+  <figcaption>Terracotta figure from Djenné, often associated with warrior iconography from the Mali Empire.<br><em>Statue of Sundiata Keita</em>, founder of the Mali Empire and initiator of the Kurukan Fuga charter.<br>
+  <small>Source: Wikimedia Commons, <a href="https://commons.wikimedia.org/wiki/File:Djenne_Terracotta_Archer_(13th-15th_cent).jpg" target="_blank">CC BY-SA</a></small></figcaption>
 </figure>
 
 The **Kurukan Fuga** also emphasized **environmental stewardship**, protecting forests and regulating resource use—particularly critical in the fragile Sahelian ecosystem. It advanced ideas associated with **human rights**, banning the enslavement of Mali citizens and protecting women, orphans, and outsiders. Women were permitted to own property and inherit land, and justice centered on restitution and reconciliation rather than punishment.
@@ -61,14 +65,16 @@ Between the 14th and 16th centuries, **Timbuktu** emerged as one of the greatest
 
 <figure>
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/1d/2007_Sankore_Mosque_Timbuktu_02.jpg" alt="Sankore Mosque in Timbuktu" width="600" style="max-width: 100%; height: auto;">
-  <figcaption><em>Sankoré Madrasah</em> — a major center of Islamic scholarship in Timbuktu.</figcaption>
+  <figcaption><em>Sankoré Madrasah</em> — a major center of Islamic scholarship in Timbuktu.<br>
+  <small>Source: Wikimedia Commons, <a href="https://commons.wikimedia.org/wiki/File:2007_Sankore_Mosque_Timbuktu_02.jpg" target="_blank">CC BY-SA</a></small></figcaption>
 </figure>
 
 Timbuktu’s scholars created and preserved **thousands of manuscripts**, many of which still exist in family collections and libraries. These texts, written in Arabic and local languages, covered topics such as **astronomical calculations**, **Sahelian medicinal knowledge**, and **adaptations of Maliki Islamic jurisprudence** to local life.
 
 <figure>
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Timbuktu-manuscripts-astronomy-mathematics.jpg" alt="Timbuktu Manuscript example" width="600" style="max-width: 100%; height: auto;">
-  <figcaption><em>Timbuktu Manuscripts</em> — astronomy and mathematics manuscript, handwritten by West African scholars.</figcaption>
+  <figcaption><em>Timbuktu Manuscripts</em> — astronomy and mathematics manuscript, handwritten by West African scholars.<br>
+  <small>Source: Wikimedia Commons, <a href="https://commons.wikimedia.org/wiki/File:Timbuktu-manuscripts-astronomy-mathematics.jpg" target="_blank">CC BY-SA</a></small></figcaption>
 </figure>
 
 Timbuktu was also a **spiritual center**, connected through pilgrimage, trade, and Sufi brotherhoods like the **Qadiriyya**, which brought mystical practice and communal ethics into West African Islam.
