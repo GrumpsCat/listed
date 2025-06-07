@@ -1,5 +1,5 @@
 ---
-title: The Mali Empire and the Intellectual Legacy of Timbuktu
+title: What was Timbuktu?
 description: A historical overview of the Mali Empire, the Kurukan Fuga, and Timbuktu’s role as a center of Islamic learning, law, and manuscript culture.
 date: 2025-06-06
 tags:
