@@ -18,7 +18,7 @@ draft: false
 The **Mali Empire of West Africa** was known for its immense wealth, powerful rulers like **Mansa Musa**, and its thriving centers of trade and learning—most notably, the city of **Timbuktu**. At its height, Mali was one of the world’s largest and most influential empires, controlling major trans-Saharan trade routes and fostering cultural and intellectual flourishing. Gold and salt moved through its markets, but so did ideas, manuscripts, and religious traditions, making Mali a key node in a vast Afro-Eurasian network.
 
 <figure>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/b/b7/Niger_saharan_medieval_trade_routes.PNG" alt="Saharan trade routes circa 1400" width="300" style="max-width: 100%; height: auto;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/b/b7/Niger_saharan_medieval_trade_routes.PNG" alt="Saharan trade routes circa 1400" width="600" style="max-width: 100%; height: auto;">
   <figcaption><em>Saharan trade routes circa 1400</em>, with the modern territory of Niger highlighted.</figcaption>
 </figure>
 
