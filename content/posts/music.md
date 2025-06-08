@@ -17,21 +17,12 @@ draft: false
 
 ---
 
-## Moheener Ghoraguli – *Tai Janai Gaaney Gaaney*  
-<iframe 
-  width="560" 
-  height="315" 
-  src="https://www.youtube.com/embed/6FE8c5t8sBE?si=8orCMMj7QMfkSy5e" 
-  title="YouTube video player" 
-  frameborder="0" 
-  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
-  referrerpolicy="strict-origin-when-cross-origin" 
-  allowfullscreen>
-</iframe>
+## Moheener Ghoraguli – *Bhebe Dekhecho Ki*  
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6FE8c5t8sBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-**Moheener Ghoraguli**, active in 1970s Kolkata, was a visionary band that introduced India to the concept of **urban folk-rock**—weaving together Bengali poetry, street sensibility, jazz, Baul influences, and socially conscious themes. Often misunderstood in their time, they are now revered as cultural trailblazers who gave voice to the complexities of modern life in Bengal.
+**Moheener Ghoraguli** was a pioneering Bengali band from 1970s Kolkata that fused Western rock, jazz, and folk with Bengali poetry, social critique, and urban realism. Often seen as India’s first countercultural rock band, their music blended global forms with deeply local narratives, laying the foundation for what would later be known as “jibonmukhi gaan” (songs about real life).
 
-*Tai Janai Gaaney Gaaney* (“So I Say It Through Songs”) is a tribute to music itself as a form of communication and resistance. The lyrics express how words often fail where melody succeeds—capturing unspoken emotions, protest, and love. With a relaxed yet insistent groove, the track reflects Moheen’s ethos: that music can be a quiet revolution, a poetic act, and a deeply human bridge between inner truth and collective experience.
+*Bhebe Dekhecho Ki* (“Have You Ever Really Thought?”) is a reflective and gently provocative piece from their era-defining album *Prithibi Ta Naki Choto Hote Hote*. With plaintive vocals and a minimalist acoustic arrangement, the song meditates on emotional distance, self-deception, and the alienation of modern relationships. The repeated line “Tumi aar ami jai durey shorey” (“You and I keep drifting apart”) captures a quiet despair that feels universal. It’s music that doesn’t shout, but lingers—with questions more than answers.
 
 ---
 
