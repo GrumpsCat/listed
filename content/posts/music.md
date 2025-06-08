@@ -17,6 +17,15 @@ draft: false
 
 ---
 
+## Moheener Ghoraguli – *Tai Janai Gaaney Gaaney*  
+{{< youtube I_AJl16biUU >}}
+
+**Moheener Ghoraguli**, active in 1970s Kolkata, was a visionary band that introduced India to the concept of **urban folk-rock**—weaving together Bengali poetry, street sensibility, jazz, Baul influences, and socially conscious themes. Often misunderstood in their time, they are now revered as cultural trailblazers who gave voice to the complexities of modern life in Bengal.
+
+*Tai Janai Gaaney Gaaney* (“So I Say It Through Songs”) is a tribute to music itself as a form of communication and resistance. The lyrics express how words often fail where melody succeeds—capturing unspoken emotions, protest, and love. With a relaxed yet insistent groove, the track reflects Moheen’s ethos: that music can be a quiet revolution, a poetic act, and a deeply human bridge between inner truth and collective experience.
+
+---
+
 ## Ali Farka Touré – *Heygana*  
 {{< youtube OgNFwXC4I6M >}}
 
