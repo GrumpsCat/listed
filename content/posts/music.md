@@ -8,6 +8,15 @@ draft: false
 ---
 
 
+## Moheener Ghoraguli – *Prithibi*  
+{{< youtube y7rF9L6VVkg >}}
+
+**Moheener Ghoraguli** was a pioneering Bengali rock band from Kolkata, active primarily in the late 1970s. Often regarded as India's first independent rock group, they blended **Western musical forms**—especially art rock and jazz—with **Bengali poetry, social commentary, and regional folk idioms**. Their music was decades ahead of its time, tackling themes like alienation, urban angst, and existential longing.
+
+*Prithibi* (meaning *Earth*) is one of their most iconic tracks, a melancholic anthem reflecting on humanity’s fragile place in the universe. Through rich instrumentation and poetic lyricism, the song evokes both personal and planetary vulnerability. It stands as a powerful example of how **regional languages and global musical influences** can merge to create something deeply local, yet universally resonant.
+
+---
+
 ## Ali Farka Touré – *Heygana*  
 {{< youtube OgNFwXC4I6M >}}
 
