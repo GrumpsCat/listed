@@ -18,7 +18,16 @@ draft: false
 ---
 
 ## Moheener Ghoraguli – *Tai Janai Gaaney Gaaney*  
-{{< youtube I_AJl16biUU >}}
+<iframe 
+  width="560" 
+  height="315" 
+  src="https://www.youtube.com/embed/6FE8c5t8sBE?si=8orCMMj7QMfkSy5e" 
+  title="YouTube video player" 
+  frameborder="0" 
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+  referrerpolicy="strict-origin-when-cross-origin" 
+  allowfullscreen>
+</iframe>
 
 **Moheener Ghoraguli**, active in 1970s Kolkata, was a visionary band that introduced India to the concept of **urban folk-rock**—weaving together Bengali poetry, street sensibility, jazz, Baul influences, and socially conscious themes. Often misunderstood in their time, they are now revered as cultural trailblazers who gave voice to the complexities of modern life in Bengal.
 
