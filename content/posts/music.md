@@ -8,12 +8,12 @@ draft: false
 ---
 
 
-## Moheener Ghoraguli – *Prithibi*  
-{{< youtube y7rF9L6VVkg >}}
+## Moheener Ghoraguli – *Bhalobashi Jyotsnay Bhora Oi Phagun Raat*  
+{{< youtube SYe-x9ZQF7o >}}
 
-**Moheener Ghoraguli** was a pioneering Bengali rock band from Kolkata, active primarily in the late 1970s. Often regarded as India's first independent rock group, they blended **Western musical forms**—especially art rock and jazz—with **Bengali poetry, social commentary, and regional folk idioms**. Their music was decades ahead of its time, tackling themes like alienation, urban angst, and existential longing.
+**Moheener Ghoraguli**, often considered India’s first experimental and independent rock band, emerged in 1970s Kolkata with a sound that defied conventions. They combined **Bengali lyrics**, **folk traditions**, and **Western musical influences** like jazz and psychedelic rock, creating a genre-bending style rooted in local identity and global awareness.
 
-*Barle Boyosh* (as age advances) is a lyrical meditation on memory, disillusionment, and the emotional distances that grow with time. Sung in Bengali with stark poetic clarity, the song grapples with the difficulty of truly knowing people—even those closest to us. Its reflective tone is heightened by sparse instrumentation and a gentle rhythm that echoes the passage of time. The track’s recurring line, *"manush chena daay"* ("it’s hard to truly know people"), captures a universal melancholy, making it a haunting exploration of alienation in a familiar world.
+*Bhalobashi Jyotsnay Bhora Oi Phagun Raat* (“I Love That Moonlit Spring Night”) is a gentle, romantic ballad suffused with longing and poetic imagery. Its mellow instrumentation and dreamy vocals evoke the mood of a spring night shimmering with emotion. As the song unfolds, it becomes a quiet celebration of tenderness, memory, and the transience of beauty—an ode to both love and the fleeting nature of time.
 
 ---
 
