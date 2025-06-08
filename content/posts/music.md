@@ -13,7 +13,7 @@ draft: false
 
 **Moheener Ghoraguli** was a pioneering Bengali rock band from Kolkata, active primarily in the late 1970s. Often regarded as India's first independent rock group, they blended **Western musical forms**—especially art rock and jazz—with **Bengali poetry, social commentary, and regional folk idioms**. Their music was decades ahead of its time, tackling themes like alienation, urban angst, and existential longing.
 
-*Prithibi* (meaning *Earth*) is one of their most iconic tracks, a melancholic anthem reflecting on humanity’s fragile place in the universe. Through rich instrumentation and poetic lyricism, the song evokes both personal and planetary vulnerability. It stands as a powerful example of how **regional languages and global musical influences** can merge to create something deeply local, yet universally resonant.
+*Barle Boyosh* (as age advances) is a lyrical meditation on memory, disillusionment, and the emotional distances that grow with time. Sung in Bengali with stark poetic clarity, the song grapples with the difficulty of truly knowing people—even those closest to us. Its reflective tone is heightened by sparse instrumentation and a gentle rhythm that echoes the passage of time. The track’s recurring line, *"manush chena daay"* ("it’s hard to truly know people"), captures a universal melancholy, making it a haunting exploration of alienation in a familiar world.
 
 ---
 
