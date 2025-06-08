@@ -1,5 +1,5 @@
 ---
-title: "The Chainstore Paradox"
+title: "What is the Chainstore Paradox?"
 date: 2025-06-06
 summary: "An overview of Reinhard Selten’s Chainstore Paradox, its implications for game theory, and a real-world example involving market competition and reputation."
 categories: ["Game Theory", "Economics", "Rationality"]
@@ -11,8 +11,6 @@ tags:
   - Reinhard Selten
 draft: false
 ---
-
-# The Chainstore Paradox
 
 The **Chainstore Paradox**, introduced by economist Reinhard Selten in 1978, is a well-known problem in game theory that challenges traditional ideas about rational behavior and reputation in sequential decision-making. It considers the behavior of a monopolist—like a national retail chain—facing potential competition in multiple local markets. In each town, a potential entrant must decide whether to enter the market, and the monopolist must decide whether to fight the entry, perhaps by lowering prices and incurring short-term losses, or to accommodate and allow competition. Although fighting incurs a cost, it could potentially deter future entrants by building a reputation for being aggressive.
 
