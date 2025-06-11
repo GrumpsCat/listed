@@ -10,6 +10,7 @@ draft: FALSE
 ---
 | Title        | Year     | Country           | Description               | Rating  |
 |:-----------------------------------|:---------|:------------------|:----------------------------|:--------|
+| The Gold Rush             | 1925     | United States      | Tramp's experience in the Alaska Gold Rush    |  ★★★☆☆  |
 | The Winds of Ayahuasca             | 1982     | Peru/Mexico      | Early cinematic exploration of Amazonian shamanic rituals    |  ★★★☆☆  |
 | The Velvet Underground             | 2021     | USA              | Documentary on the influential experimental rock band        |  ★★★☆☆ |
 | Naked                              | 1993     | UK               | A darkly comic and bleak portrait of a drifter in London     | ★★☆☆☆   |
