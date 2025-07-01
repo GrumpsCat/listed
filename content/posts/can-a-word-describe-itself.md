@@ -8,6 +8,15 @@ summary: "A short reflection on the Grelling–Nelson paradox and how it challen
 
 The Grelling–Nelson Paradox is a puzzle in the philosophy of language and logic that illustrates how self-reference can lead to contradiction. It begins with a simple linguistic exercise: sorting adjectives into two categories. The first category includes those adjectives that describe themselves. These are called **autological**. For instance, the word “short” is short in length, and “English” is an English word. The second category contains **heterological** adjectives, which do not describe themselves. The word “long,” for example, is not long; “French” is not a French word; “silent” is not silent.
 
+<figure>
+  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Funbelievable-facts.com%2F2018%2F07%2Fparadoxes.html&psig=AOvVaw0LeK59BxQw_HHaVGCbNoH_&ust=1751442993122000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJiztuKXm44DFQAAAAAdAAAAABAE" alt="List of paradoxes" width="400" style="max-width: 100%; height: auto;">
+  <figcaption>
+    Blue Colored Words, in Two Colors 
+    <span style="color:#4da6ff;">logic</span> and 
+    <span style="color:#003366;">reality</span>.
+  </figcaption>
+</figure>
+
 The paradox arises when we ask whether the word **“heterological” is itself a heterological adjective**. If we say that it is heterological, then by definition it does not describe itself, which would mean that it must be autological, and therefore does describe itself. But if we say that it is autological, then it describes itself, which means it must be heterological. Either answer leads to a contradiction. This loop reveals a breakdown in our system of categorization when self-reference is introduced.
 
 The Grelling–Nelson Paradox is closely related to **Bertrand Russell’s Paradox** in set theory, which revealed inconsistencies in naive attempts to form sets of all sets that do not contain themselves. Both paradoxes highlight the dangers of unrestricted self-reference and the need for logical systems to impose boundaries or hierarchical rules to avoid these problems. In the case of the Grelling–Nelson Paradox, the very language used to define categories turns inward and renders the system unstable.
