@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-The **Preface Paradox, Lottery Paradox, and Moore’s Paradox each expose different ways in which rational belief can become strained, inconsistent, or even self-undermining. Though distinct in structure, they share a common theme: revealing the boundaries of justified belief in the face of uncertainty, aggregation, and self-reference.
+The Preface Paradox, Lottery Paradox, and Moore’s Paradox each expose different ways in which rational belief can become strained, inconsistent, or even self-undermining. Though distinct in structure, they share a common theme: revealing the boundaries of justified belief in the face of uncertainty, aggregation, and self-reference.
 
 The **Preface Paradox** arises when someone **believes a series of individual claims**, each with good reason, while also believing that at least **one of those claims is likely false**. This leads to an apparent contradiction between rational confidence in each statement and epistemic humility—the recognition that one’s knowledge and reasoning are fallible—about the whole set. A classic illustration involves an author who asserts every claim in their book is true, while also acknowledging in the preface that at least one may be mistaken. This paradox, however, is not limited to books.
 
@@ -25,57 +25,57 @@ By contrast, **Moore’s Paradox** involves a different kind of inconsistency—
 
 <h3>Comparison of the Preface, Lottery, and Moore’s Paradoxes</h3>
 
-<table>
+<table style="width:100%; border-collapse: collapse; border: 1px solid #ccc;">
   <thead>
-    <tr>
-      <th>Aspect</th>
-      <th><strong>Preface Paradox</strong></th>
-      <th><strong>Lottery Paradox</strong></th>
-      <th><strong>Moore’s Paradox</strong></th>
+    <tr style="background-color: #f2f2f2;">
+      <th style="border: 1px solid #ccc; padding: 8px;">Aspect</th>
+      <th style="border: 1px solid #ccc; padding: 8px;"><strong>Preface Paradox</strong></th>
+      <th style="border: 1px solid #ccc; padding: 8px;"><strong>Lottery Paradox</strong></th>
+      <th style="border: 1px solid #ccc; padding: 8px;"><strong>Moore’s Paradox</strong></th>
     </tr>
   </thead>
   <tbody>
-    <tr>
-      <td><strong>Core Idea</strong></td>
-      <td>Believe each claim, yet expect one is false</td>
-      <td>Believe each ticket loses, but one must win</td>
-      <td>Say something is true while denying belief in it</td>
+    <tr style="background-color: #ffffff;">
+      <td style="border: 1px solid #ccc; padding: 8px;"><strong>Core Idea</strong></td>
+      <td style="border: 1px solid #ccc; padding: 8px;">Believe each claim, yet expect one is false</td>
+      <td style="border: 1px solid #ccc; padding: 8px;">Believe each ticket loses, but one must win</td>
+      <td style="border: 1px solid #ccc; padding: 8px;">Say something is true while denying belief in it</td>
     </tr>
-    <tr>
-      <td><strong>Inconsistency Type</strong></td>
-      <td>Epistemic (belief vs. belief about set)</td>
-      <td>Epistemic (beliefs can't all be true)</td>
-      <td>Pragmatic (statement conflicts with belief norms)</td>
+    <tr style="background-color: #f9f9f9;">
+      <td style="border: 1px solid #ccc; padding: 8px;"><strong>Inconsistency Type</strong></td>
+      <td style="border: 1px solid #ccc; padding: 8px;">Epistemic (belief vs. belief about set)</td>
+      <td style="border: 1px solid #ccc; padding: 8px;">Epistemic (beliefs can't all be true)</td>
+      <td style="border: 1px solid #ccc; padding: 8px;">Pragmatic (statement conflicts with belief norms)</td>
     </tr>
-    <tr>
-      <td><strong>Rationality Conflict</strong></td>
-      <td>Individually rational, collectively doubtful</td>
-      <td>Individually rational, collectively impossible</td>
-      <td>Sincere belief undermined by own assertion</td>
+    <tr style="background-color: #ffffff;">
+      <td style="border: 1px solid #ccc; padding: 8px;"><strong>Rationality Conflict</strong></td>
+      <td style="border: 1px solid #ccc; padding: 8px;">Individually rational, collectively doubtful</td>
+      <td style="border: 1px solid #ccc; padding: 8px;">Individually rational, collectively impossible</td>
+      <td style="border: 1px solid #ccc; padding: 8px;">Sincere belief undermined by own assertion</td>
     </tr>
-    <tr>
-      <td><strong>Typical Example</strong></td>
-      <td>Author admits possible error in their book</td>
-      <td>Lottery player believes all tickets will lose</td>
-      <td>“It’s raining, but I don’t believe it’s raining”</td>
+    <tr style="background-color: #f9f9f9;">
+      <td style="border: 1px solid #ccc; padding: 8px;"><strong>Typical Example</strong></td>
+      <td style="border: 1px solid #ccc; padding: 8px;">Author admits possible error in their book</td>
+      <td style="border: 1px solid #ccc; padding: 8px;">Lottery player believes all tickets will lose</td>
+      <td style="border: 1px solid #ccc; padding: 8px;">“It’s raining, but I don’t believe it’s raining”</td>
     </tr>
-    <tr>
-      <td><strong>Focus</strong></td>
-      <td>Metacognition and fallibility</td>
-      <td>Probability and belief aggregation</td>
-      <td>Self-awareness and assertion</td>
+    <tr style="background-color: #ffffff;">
+      <td style="border: 1px solid #ccc; padding: 8px;"><strong>Focus</strong></td>
+      <td style="border: 1px solid #ccc; padding: 8px;">Metacognition and fallibility</td>
+      <td style="border: 1px solid #ccc; padding: 8px;">Probability and belief aggregation</td>
+      <td style="border: 1px solid #ccc; padding: 8px;">Self-awareness and assertion</td>
     </tr>
-    <tr>
-      <td><strong>Contradiction?</strong></td>
-      <td>No logical contradiction</td>
-      <td>No logical contradiction</td>
-      <td>No logical contradiction, but irrational to say</td>
+    <tr style="background-color: #f9f9f9;">
+      <td style="border: 1px solid #ccc; padding: 8px;"><strong>Contradiction?</strong></td>
+      <td style="border: 1px solid #ccc; padding: 8px;">No logical contradiction</td>
+      <td style="border: 1px solid #ccc; padding: 8px;">No logical contradiction</td>
+      <td style="border: 1px solid #ccc; padding: 8px;">No logical contradiction, but irrational to say</td>
     </tr>
-    <tr>
-      <td><strong>Lesson</strong></td>
-      <td>Accepting fallibility in justified beliefs</td>
-      <td>Limits of aggregating low-probability beliefs</td>
-      <td>Tension between belief and public assertion</td>
+    <tr style="background-color: #ffffff;">
+      <td style="border: 1px solid #ccc; padding: 8px;"><strong>Lesson</strong></td>
+      <td style="border: 1px solid #ccc; padding: 8px;">Accepting fallibility in justified beliefs</td>
+      <td style="border: 1px solid #ccc; padding: 8px;">Limits of aggregating low-probability beliefs</td>
+      <td style="border: 1px solid #ccc; padding: 8px;">Tension between belief and public assertion</td>
     </tr>
   </tbody>
 </table>
