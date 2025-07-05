@@ -35,9 +35,10 @@ Even in **Lithuanian folklore**, we find echoes of this archetype. In the tale o
 ⸻
 
 Despite arising in vastly different environments, these myths share common themes:
-	•	The serpent as a symbol of power, wisdom, danger, and renewal.
-	•	The rainbow as a bridge between realms (sky and earth, spirit and matter).
-	•	Water as a source of life and a force of change—bringing both creation and destruction.
-	•	A reverence for nature, and a recognition of its mystery, beauty, and danger.
+
+- **The serpent** as a symbol of power, wisdom, danger, and renewal.  
+- **The rainbow** as a bridge between realms (sky and earth, spirit and matter).  
+- **Water** as a source of life and a force of change—bringing both creation and destruction.  
+- A reverence for **nature**, and a recognition of its mystery, beauty, and danger.
 
 Together, these stories suggest that the rainbow serpent archetype—an ancient, recurring pattern of symbols in the human imagination—emerges from shared human concerns: the need to explain the origins of life, the cycles of weather, and our place in a larger cosmos. Whether through Aboriginal Dreamtime, Haitian Vodou, African rain goddesses, Pueblo water guardians, or Baltic folk-tales, the rainbow serpent lives on as a powerful symbol of creation, transformation, and cosmic unity.
