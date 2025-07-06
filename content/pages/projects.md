@@ -2,4 +2,4 @@
 title: Projects
 ---
 
-mmm
+mmm [Check out my music]({{< relref "pages/music.md" >}})
