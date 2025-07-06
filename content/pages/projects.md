@@ -1,5 +1,5 @@
----
+Í---
 title: Projects
 ---
 
-mmm [Check out my music]({{< relref "music.md" >}})
+mmmb [Check out my music]({{% relref "music.md" %}})
