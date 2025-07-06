@@ -2,4 +2,4 @@
 title: Projects
 ---
 
-mmmb [Check out my music](/pages/music/)
+mmmb [Check out my music](/projects/music/)
