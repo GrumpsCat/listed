@@ -4,8 +4,6 @@ date: 2025-07-23
 tags: [philosophy of science, demarcation problem, epistemology, Popper, Kuhn, Lakatos]
 ---
 
-# What Separates Science from Pseudoscience?
-
 The **Demarcation Problem** in the philosophy of science concerns the challenge of distinguishing science from non-science or pseudoscience. It asks: What criteria can reliably separate scientific knowledge from other forms of belief or inquiry, such as metaphysics, religion, or pseudoscience like astrology? This problem has profound implications not just for epistemology but for public policy, education, and the law, especially in areas like forensic science in courtrooms, alternative medicine, and the regulation of artificial intelligence.
 
 A vivid modern case that shows why this boundary matters is the rise and rejection of **facilitated communication (FC)** for nonverbal autistic individuals. The technique involved a facilitator supporting a patient’s hand as they typed messages on a keyboard. Early reports claimed remarkable breakthroughs in communication, prompting widespread adoption in educational and therapeutic settings. However, when subjected to double-blind testing, the method collapsed: messages disappeared when facilitators were unaware of the prompts, revealing that the facilitators—consciously or not—were the true authors. In response, major professional bodies such as the American Psychological Association denounced FC as pseudoscience. This case demonstrates that the demarcation between science and pseudoscience is not a merely theoretical concern. It affects real lives, especially those of vulnerable individuals, and reinforces the need for clear, evidence-based standards when evaluating new practices.
