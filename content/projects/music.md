@@ -7,6 +7,15 @@ tags:
 draft: false
 ---
 
+## Ensemble of Peliatan Village – *Yama Sari*  
+
+{{< youtube nb-DGF8zXMI >}}
+
+**The Ensemble of Peliatan Village**, based in Bali, performs *Yama Sari* as a vibrant example of **Gamelan Gong Kebyar**, a modern Balinese music style known for its speed, complexity, and dramatic contrasts. Recorded for the JVC World Sounds series, this track captures the ensemble's precise coordination and expressive flair. The musicians play interlocking melodies on metallophones, gongs, and drums, producing a bright, shimmering texture that feels both communal and ceremonial.
+
+The piece opens with sharp, syncopated strikes and cycles through bursts of motion and sudden pauses. Moments of gentler resonance are quickly interrupted by flourishes of rapid, percussive energy. Rather than following a steady build-up, *Yama Sari* moves in waves, reflecting the cyclical and episodic nature of Balinese performance. It is music intended not just to be heard but to animate temple festivals, dances, and processions. This recording offers listeners a vivid sense of Balinese sound aesthetics—layered, urgent, and deeply alive.
+
+---
 
 ## Moheener Ghoraguli – *Bhalobashi Jyotsnay Bhora Oi Phagun Raat*  
 {{< youtube SYe-x9ZQF7o >}}
