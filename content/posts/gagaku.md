@@ -7,8 +7,6 @@ categories: ["Music", "Cultural Studies", "Japan"]
 summary: "An exploration of Gagaku, Japan's imperial court music, its instruments, transformations, and its role in both tradition and modern experimentation."
 ---
 
-**Gagaku: The Enduring Sound of Japanese Imperial Court Music**
-
 Gagaku, Japan’s ancient court music, is one of the oldest continuously performed musical traditions in the world. Its origins date back to the 7th century, when musical and dance styles from China, Korea, and Southeast Asia were adapted and formalized for performance at the Japanese imperial court. Over the centuries, gagaku developed into a highly refined ceremonial art, closely associated with the emperor, Shinto rituals, and Buddhist temple rites. The word "gagaku" literally means "elegant music," and its deliberate pacing, stately rhythms, and distinctive instrumentation evoke a sound world far removed from the frenetic pace of modern life.
 
 Traditional gagaku is performed by a small ensemble of wind, string, and percussion instruments. The most iconic are the *shō* (a mouth organ with bamboo pipes that produces ethereal harmonies), the *hichiriki* (a double-reed pipe with a haunting, nasal tone), and the *ryuteki* (a transverse flute). Percussion includes the *shōko* (a small gong), *taiko* drums, and *kakko* (a barrel drum). The *biwa* (a short-necked lute) and *koto* (a zither) also appear in some variants. The ensemble produces music that is not driven by melody or harmony in the Western sense, but rather by texture and ritual timing. Gagaku is often accompanied by traditional dance forms known as *bugaku*, in which dancers perform stylized movements wearing elaborate costumes and masks.
