@@ -1,7 +1,7 @@
 ---
 title: "What Is Gagaku and How Has It Changed?"
 date: 2025-07-27
-author: Greg Ho
+author: Greg
 tags: ["Gagaku", "Japanese Music", "Court Traditions", "Cultural History", "Music Evolution"]
 categories: ["Music", "Cultural Studies", "Japan"]
 summary: "An exploration of Gagaku, Japan's imperial court music, its instruments, transformations, and its role in both tradition and modern experimentation."
