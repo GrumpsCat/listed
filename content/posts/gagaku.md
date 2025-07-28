@@ -27,8 +27,8 @@ This video, recorded in a concert hall with professional staging and lighting, f
 
 Gagaku's transformation has also involved fusion with global traditions. Some musicians have incorporated gagaku instruments into jazz, ambient, or experimental music. These fusions are controversial in some circles, as purists fear the dilution of a sacred and highly codified art form. Yet they also signal the vitality of gagaku as a living tradition, not just a museum piece. For example, the *shō* is sometimes used in film scores and avant-garde music to add an otherworldly texture, reflecting its deep cultural resonance.
 
-<figure>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Musicienne_de_Gagaku%2C_ensemble_%22Owari_Miyabie%22_%28Maison_du_Japon%2C_Paris%29.jpg/1024px-Musicienne_de_Gagaku%2C_ensemble_%22Owari_Miyabie%22_%28Maison_du_Japon%2C_Paris%29.jpg" alt="Musicienne de Gagaku playing the shō" style="width: 33%; height: auto;">
+<figure style="float: left; width: 33%; margin: 0 1em 1em 0;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Musicienne_de_Gagaku%2C_ensemble_%22Owari_Miyabie%22_%28Maison_du_Japon%2C_Paris%29.jpg/1024px-Musicienne_de_Gagaku%2C_ensemble_%22Owari_Miyabie%22_%28Maison_du_Japon%2C_Paris%29.jpg" alt="Musicienne de Gagaku playing the shō" style="width: 100%; height: auto;">
   <figcaption><em>Musicienne de Gagaku playing the <strong>shō</strong></em> — ensemble “Owari Miyabie” at Maison du Japon, Paris.  
   Source: <a href="https://en.wikipedia.org/wiki/Sh%C5%8D_(instrument)#/media/File:Musicienne_de_Gagaku,_ensemble_%22Owari_Miyabie%22_(Maison_du_Japon,_Paris).jpg" target="_blank">Wikimedia Commons</a></figcaption>
 </figure>
