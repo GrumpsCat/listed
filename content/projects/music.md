@@ -7,22 +7,13 @@ tags:
 draft: false
 ---
 
-## Ensemble of Peliatan Village – *Yama Sari*  
+## Ensemble of Peliatan Village – *Yama Sari*
 
-{{< youtube nb-DGF8zXMI >}}
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nb-DGF8zXMI" title="Yama Sari – Ensemble of Peliatan Village" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 **The Ensemble of Peliatan Village**, based in Bali, performs *Yama Sari* as a vibrant example of **Gamelan Gong Kebyar**, a modern Balinese music style known for its speed, complexity, and dramatic contrasts. Recorded for the JVC World Sounds series, this track captures the ensemble's precise coordination and expressive flair. The musicians play interlocking melodies on metallophones, gongs, and drums, producing a bright, shimmering texture that feels both communal and ceremonial.
 
-The piece opens with sharp, syncopated strikes and cycles through bursts of motion and sudden pauses. Moments of gentler resonance are quickly interrupted by flourishes of rapid, percussive energy. Rather than following a steady build-up, *Yama Sari* moves in waves, reflecting the cyclical and episodic nature of Balinese performance. It is music intended not just to be heard but to animate temple festivals, dances, and processions. This recording offers listeners a vivid sense of Balinese sound aesthetics—layered, urgent, and deeply alive.
-
----
-
-## Moheener Ghoraguli – *Bhalobashi Jyotsnay Bhora Oi Phagun Raat*  
-{{< youtube SYe-x9ZQF7o >}}
-
-**Moheener Ghoraguli**, often considered India’s first experimental and independent rock band, emerged in 1970s Kolkata with a sound that defied conventions. They combined **Bengali lyrics**, **folk traditions**, and **Western musical influences** like jazz and psychedelic rock, creating a genre-bending style rooted in local identity and global awareness.
-
-*Bhalobashi Jyotsnay Bhora Oi Phagun Raat* (“I Love That Moonlit Spring Night”) is a gentle, romantic ballad suffused with longing and poetic imagery. Its mellow instrumentation and dreamy vocals evoke the mood of a spring night shimmering with emotion. As the song unfolds, it becomes a quiet celebration of tenderness, memory, and the transience of beauty—an ode to both love and the fleeting nature of time.
+The piece opens with sharp, syncopated strikes and cycles through bursts of motion and sudden pauses. Moments of gentler resonance are quickly interrupted by flourishes of rapid, percussive energy. Rather than following a steady build-up, *Yama Sari* moves in waves, reflecting the cyclical and episodic nature of Balinese performance. It is music intended not just to be heard but to animate temple festivals, dances, and processions. This recording offers listeners a vivid sense of Balinese sound aesthetics: layered, urgent, and deeply alive.
 
 ---
 
