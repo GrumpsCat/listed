@@ -35,4 +35,4 @@ Source: <a href="https://en.wikipedia.org/wiki/Sh%C5%8D_(instrument)#/media/File
 
 Despite these innovations, gagaku remains deeply symbolic. Its sounds are slow and expansive, encouraging stillness and contemplation. In a world driven by speed and immediacy, gagaku offers a rare invitation to enter a temporal space shaped by ritual and tradition. Whether performed in its original ceremonial setting or reimagined on the modern stage, gagaku continues to embody a uniquely Japanese vision of time, harmony, and beauty.
 
-Through both preservation and adaptation, gagaku has shown that ancient music can evolve without losing its essence. As long as it retains its ceremonial dignity and spiritual depth, gagaku will continue to resonate — not just as a sound of the past, but as an enduring voice in the music of the world.
+Through both preservation and adaptation, gagaku has shown that ancient music can evolve without losing its essence. As long as it retains its ceremonial dignity and spiritual depth, gagaku will continue to resonate, not just as a sound of the past, but as an enduring voice in the music of the world.
