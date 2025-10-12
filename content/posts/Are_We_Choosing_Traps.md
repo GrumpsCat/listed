@@ -1,3 +1,13 @@
+---
+title: "Are We Just Choosing Between Traps?"
+file_name: "Are_We_Choosing_Traps.md"
+date: "2025-10-12"
+summary: "An exploration of false dilemmas, rhetorical traps, and double binds through the example of Morton’s Fork, examining how each distorts reasoning by limiting either choice or outcome."
+categories: ["Philosophy", "Logic", "Rhetoric", "Critical Thinking"]
+tags: ["false dilemma", "double bind", "Morton's Fork", "reasoning", "psychology"]
+reading_time: "6 min"
+--- 
+
 Human reasoning often relies on simplifying complex choices into neat categories. While this can help us make quick decisions, it can also lead to distorted thinking. One of the most common forms of distortion is the **false dilemma**, a logical fallacy that presents only two possible options when others exist. Closely related are **rhetorical traps** and **double binds**, which do not limit the number of choices but instead limit the outcomes. Together, these patterns reveal how language and reasoning can be shaped to control perception and argument.
 
 A **false dilemma** occurs when a situation is presented as an either-or choice even though multiple alternatives are possible. It is a logical error because it excludes the middle ground and dismisses nuance. For example, the claim “You are either with us or against us” divides all possible positions into two extremes, ignoring neutrality or conditional agreement. In politics, advertising, and daily debate, this kind of reasoning is persuasive because it simplifies moral and social complexity into something emotionally clear and easy to defend. Yet its simplicity comes at the cost of truth.
