@@ -13,7 +13,7 @@ A traditional Malay folk song that translates to “Loving Feeling.” Widely su
 
 
 ## Riot in Lagos – Ryuichi Sakamoto  
-{{< youtube HZ_SrK4D1fg >}} *Ryuichi Sakamoto – Riot in Lagos (Official Audio)*
+{{< youtube 53G6Nyu5JzY >}} *Riot In Lagos（2005 Remaster）- 坂本龍一* 
 A 1980 electronic instrumental blending African polyrhythms with cutting-edge synth production. Often hailed as one of the first proto-techno tracks, it influenced future genres from house to IDM. The song captures Sakamoto’s fascination with rhythm, global fusion, and the machine as a creative partner, revealing his role as one of electronic music’s most innovative pioneers.
 
 
@@ -43,7 +43,7 @@ A classic British cake of light sponge filled with jam and whipped cream. Named 
 
 
 ## Serge Gainsbourg  
-{{< youtube JIQiGN-vO-g >}} *Serge Gainsbourg ft. Jane Birkin – Je t’aime... moi non plus (Official Audio)*
+{{< youtube RmNVCedXYXc >}} *Jane Birkin & Serge Gainsbourg – Je t'aime... moi non plus (1969)*
 French singer-songwriter, provocateur, and icon of artistic rebellion. His 1969 duet with Jane Birkin shocked audiences yet became an emblem of liberated sensuality and wit. Gainsbourg’s career merged jazz, pop, and poetry, making him a towering figure of 20th-century French music and cultural defiance.
 
 
