@@ -7,74 +7,82 @@ categories: ["Culture", "History", "Psychology", "Film", "Food"]
 tags: ["Roxy Road", "Battenberg Cake", "Tarkovsky", "Hite", "Sakamoto", "Miller", "Humor Theories"]
 ---
 
-1. **Rasa Sayang**  
-   A traditional Malay folk song that translates to “Loving Feeling.” Widely sung across Malaysia, Indonesia, and Singapore, it celebrates kindness, affection, and community connection. The song has been passed down through generations as a playful call-and-response tune, often performed at cultural festivals and schools. It embodies Southeast Asia’s emphasis on hospitality, warmth, and collective joy.
+1. [#LiveAtKlaus | Deredia - Rasa Sayange](https://www.youtube.com/watch?v=PUwNcskeVpI&list=RDPUwNcskeVpI&start_radio=1)  
+   **Rasa Sayang**  
+   A traditional Malay folk song that translates to “Loving Feeling.” Widely sung across Malaysia, Indonesia, and Singapore, it celebrates kindness, affection, and community connection. The song’s repetitive call-and-response verses encourage interaction, and its melody evokes warmth and shared joy. As in the Deredia performance, it continues to bridge modern musicianship with Southeast Asia’s oral traditions.
 
-2. **Reds – Warren Beatty, Diane Keaton**  
-   A sweeping 1981 epic directed by and starring Warren Beatty, with Diane Keaton as Louise Bryant. The film dramatizes the life of journalist John Reed, author of *Ten Days That Shook the World*, who chronicled the Bolshevik Revolution. *Reds* is both a political and emotional story, portraying revolutionary idealism alongside personal turmoil. Its interviews with real witnesses lend it a documentary realism rare for Hollywood productions.
+2. [Riot in Lagos (2019 Remastering)](https://www.youtube.com/watch?v=GPuBOYsl--M&list=RDGPuBOYsl--M&start_radio=1)  
+   **Riot in Lagos – Ryuichi Sakamoto**  
+   A 1980 electronic instrumental blending African polyrhythms with cutting-edge synth production. Often hailed as one of the first proto-techno tracks, it influenced future genres from house to IDM. The song captures Sakamoto’s fascination with rhythm, global fusion, and the machine as a creative partner, revealing his role as one of electronic music’s most innovative pioneers.
 
-3. **Andrei Tarkovsky**  
-   A Russian filmmaker often described as a poet of cinema. Tarkovsky’s films, including *Andrei Rublev*, *Solaris*, *Mirror*, and *Stalker*, explore spiritual longing, memory, and the metaphysical nature of time. His pacing is deliberate, using long takes and symbolic imagery to evoke contemplation rather than plot-driven tension. Tarkovsky’s philosophy of “sculpting in time” redefined what cinema could express about the human soul.
+3. [Haft Mewa Recipe](https://www.youtube.com/watch?v=-VZ-RHr-Syo)  
+   **Haft Mewa**  
+   Literally meaning “Seven Fruits,” Haft Mewa is a celebratory dish for Nowruz, the Persian New Year. Made by soaking a mixture of dried fruits and nuts in water until plump, it symbolizes abundance and renewal. The dish bridges Persian, Afghan, and Central Asian culinary customs, reflecting both cultural continuity and the sweetness of communal celebration.
 
-4. **Haft Mewa**  
-   Literally meaning “Seven Fruits,” Haft Mewa is a celebratory dish served during Nowruz, the Persian New Year. It is made by soaking a mixture of dried fruits and nuts—such as raisins, almonds, walnuts, pistachios, apricots, and cherries—in water until they become plump and sweet. Originating in Afghanistan and parts of Central Asia, Haft Mewa symbolizes abundance, renewal, and the harmony of diverse elements coming together in springtime.
+4. [What On Earth Is an American MALTED MILKSHAKE ?? I'm Confused !?!?!](https://youtu.be/P0ul-zmrsa8?si=ncM5wghx_glvgQ7p)  
+   **Malted Milk Powder**  
+   A nostalgic ingredient in milkshakes and baked desserts, made from malted barley, wheat flour, and milk. Originally a health tonic, it became a hallmark of American diner culture. Its creamy, toasted flavor evokes the golden age of soda fountains, while still inspiring curiosity abroad, as seen in contemporary “first taste” videos like this one.
 
-5. **Roxy Road**  
-   Likely an artistic or metaphorical reference rather than a fixed place, “Roxy Road” evokes the neon nostalgia of mid-century America or 1980s cinema culture. The term “Roxy” often connects to old movie palaces and rock-era style, suggesting a blend of urban glamour and faded elegance. As a motif, it could stand for a journey through creativity, memory, or retro aesthetics.
+5. [Dr. Geoffrey Miller - Evolutionary Psychology, Human Mating, and Academic Life (THE SAAD TRUTH_1887)](https://youtu.be/OguFPVCDzxI?si=YWKxNAjFmI8BeHnt)  
+   **Geoffrey Miller (psychologist) – The Mating Grounds**  
+   An evolutionary psychologist exploring how sexual selection shapes human intelligence and behavior. Miller’s interviews and talks reveal his argument that art, humor, and creativity evolved as mating displays. His conversational, often humorous tone makes scientific ideas about desire and signaling accessible to a general audience.
 
-6. **Malted Milk Powder**  
-   A sweet, nutty powder made from malted barley, wheat flour, and evaporated milk. Invented in the 19th century as a nutritional supplement, it became a beloved flavoring for milkshakes, biscuits, and candy. Malted milk’s nostalgic flavor is associated with American soda fountains and mid-century comfort desserts. Its distinctive taste adds warmth and depth to baked goods and beverages.
+6. [Making Battenberg Cake from The Official Downton Abbey Afternoon Tea Cookbook](https://youtu.be/OdmYjU5FOqM?si=dIIpsAvdgo-QPz2-)  
+   **Battenberg Cake**  
+   A pastel checkerboard sponge cake wrapped in marzipan, first created to honor a royal wedding in 1884. The cake’s geometric precision and delicate sweetness capture the refinement of Victorian teatime. Its modern re-creations, such as in *Downton Abbey* cookbooks, preserve the ritual charm of English afternoon tea.
 
-7. **Geoffrey Miller (psychologist) – The Mating Grounds**  
-   Geoffrey Miller is an evolutionary psychologist who studies how sexual selection has shaped human intelligence, creativity, and behavior. *The Mating Grounds* was a podcast and educational project he co-hosted to discuss dating, attraction, and evolutionary psychology in accessible terms. Miller’s work argues that human art, humor, and morality evolved partly as displays of fitness, connecting biology with culture and personal relationships.
+7. [Easy Victoria Sponge Cake Recipe](https://youtu.be/UTi1n-TM53c?si=kz2nvt2wgMn7Kdgh)  
+   **Victoria Sponge**  
+   A classic British cake of light sponge filled with jam and whipped cream. Named after Queen Victoria, who enjoyed it during afternoon tea, it represents domestic elegance and comfort. Its simplicity and soft texture continue to make it a standard of home baking and cultural nostalgia.
 
-8. **Theories of Humor**  
-   Philosophers and psychologists have proposed several explanations for why humans laugh. The **superiority theory** suggests humor arises from feeling superior to others, the **incongruity theory** explains it as surprise at unexpected contrasts, and the **relief theory** sees laughter as the release of social or psychological tension. Modern studies also link humor to social bonding, creativity, and emotional intelligence, making it a key aspect of human evolution.
+8. [Serge Gainsbourg & Jane Birkin - Je t'aime... moi non plus/Original videoclip (Fontana 1969)](https://youtu.be/GlpDf6XX_j0?si=bu4XdHEwIOU_q8Bv)  
+   **Serge Gainsbourg**  
+   French singer-songwriter, provocateur, and icon of artistic rebellion. His 1969 duet with Jane Birkin shocked audiences yet became an emblem of liberated sensuality and wit. Gainsbourg’s career merged jazz, pop, and poetry, making him a towering figure of 20th-century French music and cultural defiance.
 
-9. **Battenberg Cake**  
-   A British sponge cake known for its distinctive pink and yellow checkerboard pattern held together by apricot jam and wrapped in marzipan. It is said to have been created in honor of Prince Louis of Battenberg’s marriage to Princess Victoria in 1884. The cake is a symbol of refined English tea culture and reflects the Victorian era’s fascination with geometric precision and pastel-colored desserts.
+9. [The Hough Uprising | Cleveland African American Civil Rights Trail](https://youtu.be/PiSriquCMGc?si=25Zhoxgf9KAwjz4f)  
+   **Hough Riots**  
+   A week-long 1966 uprising in Cleveland, Ohio, sparked by systemic racism, poverty, and police brutality. The Hough Riots marked a turning point in Northern civil rights activism, revealing that racial injustice was not confined to the American South. Their legacy lives on in community memorials and urban history projects.
 
-10. **Victoria Sponge**  
-    Named after Queen Victoria, this classic British cake consists of two layers of light sponge filled with jam and whipped cream. The queen famously enjoyed a slice with her afternoon tea, turning it into a national tradition. The cake’s simplicity and balanced sweetness make it a timeless favorite, symbolizing civility, restraint, and the understated pleasures of British domestic life.
+10. [The Disappearance of Shere Hite - :30 Trailer | HD | IFC Films](https://youtu.be/BX-E1Uo74ks?si=nP9DcmcxMUGNVZ0h)  
+    **Disappearance of Shere Hite**  
+    The story of feminist author Shere Hite, whose groundbreaking *Hite Report* on female sexuality challenged taboos and male-dominated research. Public backlash and personal attacks led her to leave the U.S. for Europe, where she lived privately until her death. Her disappearance from public life mirrors society’s discomfort with women who speak openly about sex.
 
-11. **Serge Gainsbourg**  
-    French musician, songwriter, and provocateur whose career spanned jazz, pop, and experimental styles. Gainsbourg’s songs, such as *Je t’aime… moi non plus* and *La Javanaise*, mixed wit, sensuality, and satire. He was as infamous for his public behavior and relationships as for his genius with words. His legacy continues as a symbol of French artistic rebellion and intellectual playfulness.
+11. [How to Make Kuih Lapis (Steamed Layer Cake) | Malaysian Kuih](https://youtu.be/JO5KoWgQODk?si=kWRMgH4RhoK0LhKd)  
+    **Kue Lapis**  
+    A colorful Indonesian and Malaysian steamed cake made from rice flour, coconut milk, and sugar. Each layer is cooked separately to form a rainbow-like cross-section. Making Kue Lapis demands patience and precision, reflecting Southeast Asia’s artistry in everyday food.
 
-12. **Hough Riots**  
-    A week-long series of riots in the Hough neighborhood of Cleveland, Ohio, in July 1966. Sparked by racial tensions, police brutality, and economic inequality, the riots reflected growing frustration in African American communities during the civil rights era. The event led to national attention on urban poverty and segregation, highlighting America’s deep racial divide during the mid-20th century.
+12. [Winged Hussars – Polish Cavalry – Sabaton History 053 [Official]](https://youtu.be/K_L5acJht3g?si=xutHWBfBhNlMNQpU)  
+    **Winged Hussar**  
+    Poland’s elite cavalry corps, famed for their dramatic feathered wings and near-mythic victories. Their exploits, like the rescue of Vienna from Ottoman siege in 1683, remain a powerful symbol of bravery and national pride. Modern tributes like Sabaton’s “Winged Hussars” revive their legend through music and storytelling.
 
-13. **Disappearance of Shere Hite**  
-    Shere Hite was a pioneering feminist researcher best known for *The Hite Report* (1976), which surveyed women’s experiences with sex and relationships. Her work challenged male-centered narratives about female desire. Facing public backlash and professional ostracism, Hite left the United States for Europe, where she lived in relative obscurity. Her disappearance symbolizes the cultural resistance to open discussions of sexuality and female autonomy.
+13. [Žižek and Lacanian Psychoanalysis: How to Read Lacan](https://youtu.be/q4vUaMeZhZ4?si=LOG2lnijrOSyAMb8)  
+    **Lacanian Psychoanalysis**  
+    A reimagining of Freudian theory through linguistics and philosophy, emphasizing that the unconscious is structured like a language. Jacques Lacan’s influence extends through thinkers like Slavoj Žižek, who applies psychoanalytic ideas to culture, ideology, and cinema. This school of thought continues to challenge assumptions about desire, identity, and truth.
 
-14. **Kue Lapis**  
-    A traditional Indonesian and Malay dessert meaning “layered cake.” Made from rice flour, coconut milk, and sugar, each layer is steamed separately to create a colorful, translucent treat. The cake’s delicate sweetness and texture represent patience and craftsmanship in Southeast Asian culinary culture. Often served during festivals, it carries cultural meanings of prosperity and beauty in repetition.
+14. [Evangelion - Human Instrumentality Explained](https://youtu.be/Che9y17bIx0?si=37ubLJXsD4T0D5O1)  
+    **Human Instrumentality Project**  
+    A metaphysical experiment from *Neon Genesis Evangelion*, representing humanity’s attempt to unite all souls into one consciousness. The concept fuses science fiction, theology, and psychoanalysis, raising questions about individuality, loneliness, and the meaning of connection in a fragmented world.
 
-15. **Winged Hussar**  
-    The Winged Hussars were elite Polish cavalry units active from the 16th to the 18th centuries. Recognized by their ornate armor and feathered wings, they played key roles in major battles such as the Siege of Vienna (1683). Their combination of speed, discipline, and spectacle made them legendary symbols of Polish pride and martial valor, embodying the golden age of the Polish-Lithuanian Commonwealth.
+15. [Franz Bardon's Hermetic Magic](https://youtu.be/3TdFkBCT5B8?si=Cxh9HalYEMb0c05y)  
+    **Franz Bardon**  
+    Czech occultist and author of *Initiation into Hermetics*, a structured guide to spiritual self-mastery. Bardon treated magic as a disciplined science of mind and morality. His teachings on elemental balance and self-transformation continue to influence modern esoteric and ceremonial traditions.
 
-16. **Riot in Lagos – Ryuichi Sakamoto**  
-    A 1980 electronic composition by Japanese musician Ryuichi Sakamoto, blending African polyrhythms with avant-garde electronic textures. Considered one of the first proto-techno tracks, it influenced future generations of producers in ambient and electronic music. The song demonstrates Sakamoto’s experimental fusion of global sounds, his fascination with rhythm, and his ability to bridge cultural and technological boundaries.
+16. [Maque Choux | Emeril Lagasse](https://youtu.be/m5UCsT7MYzo?si=Za_AlMtGrvoxaaKu)  
+    **Maque Choux**  
+    A Cajun and Creole side dish of corn sautéed with peppers, onions, and tomatoes. Chef Emeril Lagasse’s version highlights its French, Native American, and African roots. The dish exemplifies Louisiana’s cultural blending and the sensory warmth of Southern cuisine.
 
-17. **Lacanian Psychoanalysis**  
-    The school of thought founded by French psychoanalyst Jacques Lacan, reinterpreting Freud through the lens of linguistics and philosophy. Lacan argued that the unconscious is structured like language and that desire arises from a lack that can never be fulfilled. His complex theories influenced modern psychoanalysis, literary criticism, and film theory, reshaping how identity and meaning are understood in the postmodern age.
+17. [Smothered Cabbage with Smoked Turkey Necks](https://youtu.be/MWSfIsNmPbI?si=BX2z3sTxptu_hBal)  
+    **Smothered Cabbage**  
+    A classic soul food preparation where cabbage is slow-cooked with onions, garlic, and smoked meat. The “smothering” technique extracts deep, savory flavor, turning humble ingredients into comfort food. It speaks to resilience, thrift, and the art of patient cooking.
 
-18. **Human Instrumentality Project**  
-    A central concept from the anime *Neon Genesis Evangelion*, representing humanity’s attempt to merge all individual consciousnesses into one collective being. The project reflects philosophical questions about individuality, loneliness, and transcendence. It serves as both a narrative and metaphorical framework for the series, exploring psychological trauma, isolation, and the limits of human connection.
+18. [The Junko Furuta Case ...In Complete Detail](https://youtu.be/YGSN2MTmzDQ?si=2DZfyrqAK9sNtM6G)  
+    **Junko Furuta**  
+    A Japanese teenager whose 1988 murder shocked the world for its cruelty. The case exposed failures in policing and sparked national reflection on youth violence. Retellings of the tragedy, like this video, continue to raise questions about justice, empathy, and social indifference.
 
-19. **Franz Bardon**  
-    A Czech occultist and teacher of Hermetic magic who wrote *Initiation into Hermetics* and other foundational texts on Western esotericism. Bardon’s system emphasizes moral purification, self-discipline, and the mastery of elemental forces. Unlike many occult authors, he presented spiritual training as a rigorous, practical science rather than mystical speculation. His work continues to influence modern esoteric and magical traditions.
+19. [Game of Thrones History - The Targaryen Civil War Explained](https://youtu.be/BgXQhcdFakI?si=sDIkmGYmNvxkjY10)  
+    **Targaryen Civil War**  
+    Known as the *Dance of the Dragons*, this civil war within the Targaryen dynasty saw family members fight for the Iron Throne. The story, retold in *Fire & Blood* and *House of the Dragon*, dramatizes ambition, prophecy, and the tragedy of power struggles.
 
-20. **Maque Choux**  
-    A Cajun and Creole dish from Louisiana combining corn, bell peppers, onions, and tomatoes sautéed in butter, bacon fat, or cream. It reflects the blending of Native American, French, and African culinary traditions that define Creole cooking. Often served as a side with seafood or chicken, Maque Choux embodies the vibrant, flavorful spirit of southern hospitality.
-
-21. **Smothered Cabbage**  
-    A beloved dish in Southern American cuisine, made by slow-cooking cabbage with onions, garlic, and often smoked meat or sausage. The dish originated in home kitchens where economy and comfort were prized. “Smothering” refers to a cooking method that extracts deep flavor through patience. The meal represents the resourcefulness and warmth of Southern culinary tradition.
-
-22. **Junko Furuta**  
-    A Japanese high school student whose abduction, torture, and murder in 1988 shocked Japan and drew attention to youth crime and systemic failure in the justice system. The case, often discussed in criminology and media ethics, became emblematic of how societies respond to violence and collective guilt. Junko’s story remains a haunting cautionary tale about empathy and social responsibility.
-
-23. **Targaryen Civil War**  
-    Known as the *Dance of the Dragons* in George R. R. Martin’s *A Song of Ice and Fire* universe, this fictional war pits rival factions of the Targaryen family against each other over succession to the Iron Throne. The conflict, detailed in *Fire & Blood* and adapted in *House of the Dragon*, explores themes of pride, prophecy, and the destructive nature of power struggles within dynasties.
-
-24. **Nicolae Ceaușescu**  
-    Romanian communist dictator who ruled from 1965 until his overthrow and execution in 1989. Ceaușescu’s regime was marked by harsh repression, economic mismanagement, and a cult of personality. His downfall during the Romanian Revolution symbolized the collapse of Soviet-style communism in Eastern Europe. Today, he stands as a reminder of how ideology, fear, and control can isolate a leader from reality.
+20. [The Brutal Last Hours of Romania’s Dictator Nicolae Ceaușescu!](https://youtu.be/hKq5ZhS40f8?si=wY651g0iQbTbIE2L)  
+    **Nicolae Ceaușescu**  
+    Romanian dictator who ruled from 1965 to 1989, known for his cult of personality and repressive regime. His downfall during the Romanian Revolution was swift and violent, culminating in his televised execution. The video recounts his final hours, illustrating the collapse of authoritarian power and the volatility of revolutionary justice.
