@@ -1,5 +1,5 @@
 ---
-title: "What Am I Looking Into (Short Summaries)?"
+title: "What Am I Looking Into (Rasa Sayang, Riot in Lagos)?"
 file_name: "What_Am_I_Looking_Into_Roxy_Battenberg.md"
 date: "2025-10-12"
 summary: "A cultural and intellectual index blending art, food, psychology, and history — from Roxy Road and Battenberg Cakes to Tarkovsky, Hite, and the Winged Hussars."
