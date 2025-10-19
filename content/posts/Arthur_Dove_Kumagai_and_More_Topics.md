@@ -1,5 +1,5 @@
 ---
-title: "Chandelier Bids, Arthur Dove and More Topics"
+title: "Arthur Dove, Kumagai and More Topics"
 summary: "An index of artistic, cultural, historical, and culinary curiosities, each linked to a visual source and paired with a related breadcrumb for further discovery."
 date: 2025-10-18
 ---
