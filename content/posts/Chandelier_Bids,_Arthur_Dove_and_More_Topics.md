@@ -1,7 +1,7 @@
 ---
 title: "Chandelier Bids, Arthur Dove and More Topics"
 summary: "An index of artistic, cultural, historical, and culinary curiosities, each linked to a visual source and paired with a related breadcrumb for further discovery."
-date: 2025-10-12
+date: 2025-10-18
 ---
 
 ## Vernissage
@@ -54,8 +54,8 @@ Hotteok represents more than indulgence—it symbolizes the spirit of the street
 **Related topic to explore:** *Gyeran-ppang (Korean egg bread)*
 
 ## David Murray
-{{< youtube oCXx2xb0A7E >}}
-*Live Jazz at the Village Vanguard w/ David Murray*  
+[https://www.youtube.com/watch?v=c73lzAxmP4Y](https://www.youtube.com/watch?v=c73lzAxmP4Y)  
+*Chazz (For Charles Mingus)*  
 **David Murray** (b. 1955) is a towering figure in modern jazz, known for uniting avant-garde exploration with the deep traditions of Black American music. His tone on the tenor saxophone is expansive and commanding, capable of embracing gospel warmth, blues inflection, and free-jazz abstraction without contradiction. Emerging in the 1970s, Murray rejected the false choice between experimental and traditional schools, asserting a continuum rather than a rupture.  
 A founding member of the **World Saxophone Quartet**, Murray helped redefine what ensemble improvisation could be—less about solo hierarchy and more about collective voice. His prolific career demonstrates that innovation in jazz need not sever its ancestral roots; instead, the future can swing, testify, and deconstruct all at once.  
 **Related topic to explore:** *World Saxophone Quartet*
@@ -68,8 +68,8 @@ Zorn sees music as a laboratory, not a museum. His work encourages listeners to 
 **Related topic to explore:** *Masada Songbook*
 
 ## Lascaux Cave
-{{< youtube UnSq0c7jM-A >}}
-*Lascaux's Prehistoric Cave Paintings — Rick Steves’ Europe*  
+{{< youtube TWnxqvY3YOs >}}
+*Replicating the Lascaux Cave to Unlock the Secrets*   
 The **Lascaux Cave**, discovered in 1940 in southwestern France, preserves Paleolithic paintings over 17,000 years old, offering a window into early symbolic expression. The monumental bulls, horses, and stags, painted with natural pigments and remarkable anatomical awareness, reveal that prehistoric humans were not primitive in imagination. These images express narrative, ritual, and worldview, suggesting that art emerged alongside cognition, spirituality, and community identity.  
 The cave’s closure due to damage from tourism underscores the fragility of cultural memory. Modern replicas and digital reconstructions now protect the imagery, reminding us that humanity’s earliest masterpieces require stewardship if they are to survive into the future.  
 **Related topic to explore:** *Chauvet Cave*
@@ -96,15 +96,15 @@ Kursk stands as a lesson in the human cost of total war and the irreversible shi
 **Related topic to explore:** *Operation Bagration*
 
 ## Sezen Aksu
-{{< youtube rYJjgfCfBOU >}}
-*Sezen Aksu — Ey Aşk (Official Audio)*  
+[https://www.youtube.com/watch?v=H7mxXm0Avts](https://www.youtube.com/watch?v=H7mxXm0Avts)  
+*Sezen Aksu – Kaybolan Yıllar (Official Audio)* 
 **Sezen Aksu** (b. 1954), known as the “Queen of Turkish Pop,” reshaped Turkey’s musical landscape by fusing Anatolian folk traditions with contemporary pop sensibilities. Her lyrics convey longing, heartbreak, and resilience, resonating deeply across generations. Aksu not only transformed Turkish popular music but also mentored major artists, extending her influence for decades.  
 Her work expresses both personal and national emotion, embodying Turkey’s modern cultural identity—rooted in heritage, open to the world, and saturated with melancholy beauty.  
 **Related topic to explore:** *Arabesque music tradition*
 
 ## Esma Redžepova
-{{< youtube x4-MORq8LTs >}}
-*Esma Redzepova — Caje Sukarije*  
+[https://www.youtube.com/watch?v=x4-MORq8LTs](https://www.youtube.com/watch?v=x4-MORq8LTs)  
+*Esma Redžepova – Caje sukarije*  
 **Esma Redžepova** (1943–2016), celebrated as the “Queen of the Gypsies,” brought Romani music to world attention through virtuosic voice and cultural advocacy. Her performances fused emotional fire with ornamented melodic lines that carried centuries of oral tradition. Beyond music, she used her platform to champion Romani dignity and humanitarian causes.  
 Her legacy remains central to Balkan musical identity, reminding listeners that folk music can be both ancestral and electrifyingly contemporary.  
 **Related topic to explore:** *Šaban Bajramović*
