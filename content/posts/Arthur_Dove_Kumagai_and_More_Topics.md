@@ -19,7 +19,7 @@ Working within Alfred Stieglitz’s influential circle, Dove helped to frame abs
 **Related topic to explore:** *Stieglitz Circle*
 
 ## John Marin
-[https://www.youtube.com/watch?v=Ah6eLUsDvmg](https://www.youtube.com/watch?v=Ah6eLUsDvmg)  
+{{< youtube Ah6eLUsDvmg >}}
 *John Marin's Watercolors: A Medium for Modernism*  
 **John Marin** (1870–1953) helped redefine watercolor as a bold modernist medium, using quick lines, fractured space, and improvisational washes to convey psychological movement rather than literal scenery. His depictions of New York skyscrapers and the Maine coastline pulse with kinetic tension, echoing the restless rhythm of early 20th-century life. Marin rejected static representation in favor of gestural motion, showing that watercolor could express velocity, memory, and sensation.  
 By encouraging viewers to feel a place instead of merely seeing it, Marin repositioned watercolor as an instrument of modern perception. His innovations gave American modernism a language of speed, mood, and atmosphere and helped validate watercolor as a serious artistic form rather than a genteel pastime.  
@@ -54,8 +54,8 @@ Hotteok represents more than indulgence—it symbolizes the spirit of the street
 **Related topic to explore:** *Gyeran-ppang (Korean egg bread)*
 
 ## David Murray
-[https://www.youtube.com/watch?v=c73lzAxmP4Y](https://www.youtube.com/watch?v=c73lzAxmP4Y)  
-*Chazz (For Charles Mingus)*  
+{{< youtube eJF7jsRtoVo >}}
+*Flowers for Albert – David Murray Trio @ Padova Jazz Festival 2021*   
 **David Murray** (b. 1955) is a towering figure in modern jazz, known for uniting avant-garde exploration with the deep traditions of Black American music. His tone on the tenor saxophone is expansive and commanding, capable of embracing gospel warmth, blues inflection, and free-jazz abstraction without contradiction. Emerging in the 1970s, Murray rejected the false choice between experimental and traditional schools, asserting a continuum rather than a rupture.  
 A founding member of the **World Saxophone Quartet**, Murray helped redefine what ensemble improvisation could be—less about solo hierarchy and more about collective voice. His prolific career demonstrates that innovation in jazz need not sever its ancestral roots; instead, the future can swing, testify, and deconstruct all at once.  
 **Related topic to explore:** *World Saxophone Quartet*
@@ -96,15 +96,15 @@ Kursk stands as a lesson in the human cost of total war and the irreversible shi
 **Related topic to explore:** *Operation Bagration*
 
 ## Sezen Aksu
-[https://www.youtube.com/watch?v=H7mxXm0Avts](https://www.youtube.com/watch?v=H7mxXm0Avts)  
-*Sezen Aksu – Kaybolan Yıllar (Official Audio)* 
+{{< youtube rYJjgfCfBOU >}}
+*Sezen Aksu – Ey Aşk [Official Audio]*  
 **Sezen Aksu** (b. 1954), known as the “Queen of Turkish Pop,” reshaped Turkey’s musical landscape by fusing Anatolian folk traditions with contemporary pop sensibilities. Her lyrics convey longing, heartbreak, and resilience, resonating deeply across generations. Aksu not only transformed Turkish popular music but also mentored major artists, extending her influence for decades.  
 Her work expresses both personal and national emotion, embodying Turkey’s modern cultural identity—rooted in heritage, open to the world, and saturated with melancholy beauty.  
 **Related topic to explore:** *Arabesque music tradition*
 
 ## Esma Redžepova
-[https://www.youtube.com/watch?v=x4-MORq8LTs](https://www.youtube.com/watch?v=x4-MORq8LTs)  
-*Esma Redžepova – Caje sukarije*  
+{{< youtube VT3aDkr3lPA >}}
+*Esma Redžepova & Folk Masters – Zošto Si Me Majko Rodila (Live on KEXP)*  
 **Esma Redžepova** (1943–2016), celebrated as the “Queen of the Gypsies,” brought Romani music to world attention through virtuosic voice and cultural advocacy. Her performances fused emotional fire with ornamented melodic lines that carried centuries of oral tradition. Beyond music, she used her platform to champion Romani dignity and humanitarian causes.  
 Her legacy remains central to Balkan musical identity, reminding listeners that folk music can be both ancestral and electrifyingly contemporary.  
 **Related topic to explore:** *Šaban Bajramović*
