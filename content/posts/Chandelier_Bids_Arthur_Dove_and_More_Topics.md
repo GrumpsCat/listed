@@ -19,7 +19,7 @@ Working within Alfred Stieglitz’s influential circle, Dove helped to frame abs
 **Related topic to explore:** *Stieglitz Circle*
 
 ## John Marin
-{{< youtube Ah6eLUsDvmg >}}
+[https://www.youtube.com/watch?v=Ah6eLUsDvmg](https://www.youtube.com/watch?v=Ah6eLUsDvmg)  
 *John Marin's Watercolors: A Medium for Modernism*  
 **John Marin** (1870–1953) helped redefine watercolor as a bold modernist medium, using quick lines, fractured space, and improvisational washes to convey psychological movement rather than literal scenery. His depictions of New York skyscrapers and the Maine coastline pulse with kinetic tension, echoing the restless rhythm of early 20th-century life. Marin rejected static representation in favor of gestural motion, showing that watercolor could express velocity, memory, and sensation.  
 By encouraging viewers to feel a place instead of merely seeing it, Marin repositioned watercolor as an instrument of modern perception. His innovations gave American modernism a language of speed, mood, and atmosphere and helped validate watercolor as a serious artistic form rather than a genteel pastime.  
