@@ -1,5 +1,5 @@
 ---
-title: "What Made Rome Stable Yet Prone to Sudden Crisis? The Julio Claudian Dynasty"
+title: "What Made Rome Stable Yet Prone to Sudden Crisis?"
 date: 2025-11-23
 summary: "An exploration of how the Julio Claudian Dynasty created both stability and vulnerability within the early Roman Empire, including an analysis of political structures, succession issues, and the paradox of centralized power."
 categories: ["History", "Rome", "Political Theory"]
