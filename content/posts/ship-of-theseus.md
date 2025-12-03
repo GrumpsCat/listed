@@ -2,7 +2,7 @@
 title: "What Does the Ship of Theseus Reveal About Identity?"
 tags: ["philosophy", "identity", "paradox", "thought experiment", "metaphysics"]
 summary: "This essay explores the Ship of Theseus paradox and how it challenges our understanding of identity over time through multiple viewpoints and real-world examples."
-created: 2025-12-03
+date: 2025-12-03
 ---
 
 The Ship of Theseus is a well-known philosophical thought experiment that raises questions about the nature of identity and persistence over time. It begins with a simple idea: suppose an ancient ship, said to belong to the Greek hero Theseus, is preserved in a museum. Over the years, each wooden plank and part begins to decay and is replaced, one at a time, with a new and identical component. Eventually, none of the original materials remain. Is it still the same ship?
