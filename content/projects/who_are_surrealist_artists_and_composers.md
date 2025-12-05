@@ -7,7 +7,7 @@ categories:
 layout: article
 ---
 
-# Surrealist Listening Plan
+# Listening Plan
 
 ## Classical and Avant Garde
 1. **Erik Satie**  
