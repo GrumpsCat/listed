@@ -82,11 +82,15 @@ layout: article
     - Replica  
     - R Plus Seven  
     - Age Of  
-
 15. **Coil**  
-    - Musick to Play in the Dark  
-    - Horse Rotorvator  
-    - Time Machines  
+    Coil, active from 1982 until 2004 and centered on John Balance and Peter Christopherson, created music that blends shifting structures, dense atmospheres, and unusual timbres into fully immersive sonic environments. Across albums such as *Horse Rotorvator* (1986), *Love’s Secret Domain* (1991), *Musick to Play in the Dark Vol. 1 and 2* (1999–2000), and *Time Machines* (1998), they used analog synthesizers, processed vocals, tape manipulation, and found sounds to explore altered perception and interior states. Balance provided vocals, lyrics, and much of the conceptual framework, while Christopherson handled production, electronics, and visual design, with contributions from Drew McDowall, Thighpaulsandra, and Ossian Brown. Each release operates as its own self contained world, shaped by transformation, emotional ambiguity, and sound as lived experience.
+
+    - **Musick to Play in the Dark**  
+      *Musick to Play in the Dark* (1999) is a nocturnal and quietly radiant album from their “moon musick” phase, where the group shifted from harsher industrial textures toward spacious electronics, whispered voices, and gently pulsing rhythms. The record uses analog synths, soft drones, murmured phrases, and faint organic sounds to create an atmosphere that feels intimate, contemplative, and otherworldly. The music unfolds slowly without dramatic peaks, inviting the listener into a dimly lit interior space shaped by mood and subtle transformation.
+
+    - **Horse Rotorvator**
+
+    - **Time Machines**
 
 16. **Nurse With Wound**  
     - Homotopy to Marie  
