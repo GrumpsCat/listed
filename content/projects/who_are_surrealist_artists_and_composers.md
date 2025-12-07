@@ -93,22 +93,28 @@ Coil – Musick to Play in the Dark (Playlist)</a>
 
     - **Time Machines**
 
-16. **Nurse With Wound**  
-    - Homotopy to Marie  
+16. **Nurse With Wound**
+Nurse With Wound is the long running experimental project founded in 1978 by Steven Stapleton, known for constructing sound worlds built from collage, absurdism, improvisation, and a restless curiosity about the outer edges of listening. Rather than following conventional musical structure, Nurse With Wound pieces often move through abrupt juxtapositions, drifting atmospheres, spoken fragments, distorted tape loops, and treated acoustic and electronic sounds. Some works feel minimal and meditative, others chaotic or playfully disorienting, and many operate like sonic assemblages drawn from dream logic, filmic texture, industrial noise, and surreal humor. Stapleton’s rotating lineup of collaborators, which has included David Tibet, Colin Potter, Andrew Liles, and others, adds shifting perspectives to each release, making the catalog intentionally unpredictable. Albums such as Homotopy to Marie (1982), Soliloquy for Lilith (1988), and Spiral Insana (1986) show the project’s scope, ranging from spectral drones to fractured tape experiments. The guiding spirit of Nurse With Wound is exploration without boundaries, a willingness to dismantle expectations and build sound as an open, evolving art form.
+    - Homotopy to Marie
+    **Homotopy to Marie (1982)** is one of Nurse With Wound’s defining works, built as a dense, unsettling collage of tape manipulation, abrupt edits, found sounds, treated voices, and fragmented instrumental textures. Rather than flowing like a conventional album, it unfolds as a sequence of scenes stitched together through jump cuts, pauses, and sudden shifts in perspective. Mechanical clatter may give way to whispered speech, which dissolves into stretched feedback, which then collapses into distant hums or warped percussion. The pacing feels theatrical and unpredictable, with long stretches of tension interrupted by moments of stark quiet. Much of the impact comes from the sense of being placed inside an unstable acoustic environment where sounds appear and vanish as if guided by an unseen hand. The album’s atmosphere is intimate but disorienting, sometimes claustrophobic, sometimes strangely beautiful, operating like a piece of audio art assembled according to intuition rather than linear narrative. It remains one of Steven Stapleton’s most influential constructions and a cornerstone of experimental sound practice. <a href="https://www.youtube.com/watch?v=A62Z_08sg38&list=RDA62Z_08sg38&start_radio=1"
+   target="_blank"
+   rel="noopener noreferrer">
+Nurse With Wound – Homotopy to Marie (YouTube Playlist)
+</a>
     - Soliloquy for Lilith  
     - Spiral Insana  
 
-17. **The Hafler Trio**  
+18. **The Hafler Trio**  
     - How to Slice a Loaf of Bread  
     - A Thirsty Fish  
     - Three Ways of Saying Two  
 
-18. **Fennesz**  
+19. **Fennesz**  
     - Endless Summer  
     - Black Sea  
     - Agora  
 
-19. **Tim Hecker**  
+20. **Tim Hecker**  
     - Ravedeath 1972  
     - Virgins  
     - Harmony in Ultraviolet  
