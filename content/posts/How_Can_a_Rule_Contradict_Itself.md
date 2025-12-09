@@ -1,6 +1,6 @@
 ---
 title: "How Can a Rule Contradict Itself?"
-date: 2025-12-06
+date: 2025-12-09
 tags: [literature, logic, paradox, catch22]
 ---
 
