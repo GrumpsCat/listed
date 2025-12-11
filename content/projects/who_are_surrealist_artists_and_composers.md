@@ -125,9 +125,11 @@ Tim Hecker is a Canadian electronic composer known for transforming noise, melod
 
 ## Psychedelic, Prog, and Art Rock
 20. **Captain Beefheart**  
+Captain Beefheart, born Don Van Vliet on January 15, 1941, was an American musician, composer, and visual artist known for creating some of the most experimental and unconventional rock music of the twentieth century. Working closely with his long time collaborator Frank Zappa in the 1960s and 1970s, Van Vliet developed a musical style that blended blues, free jazz, surrealist poetry, and avant garde structures. His most famous work, Trout Mask Replica, released in 1969 by Captain Beefheart and his Magic Band, became a landmark of experimental rock for its complex rhythms, dissonant textures, and idiosyncratic vocal delivery. Throughout his career, Van Vliet led a revolving group of musicians known as the Magic Band, including figures such as John “Drumbo” French, Bill Harkleroad, and Mark Boston. After retiring from music in the early 1980s, Van Vliet pursued a successful career as an abstract painter until his death on December 17, 2010.
     - Trout Mask Replica  
     - Lick My Decals off Baby  
     - Doc at the Radar Station  
+    Released in August 1980, Doc at the Radar Station was Captain Beefheart and the Magic Band’s thirteenth studio album and one of the final major statements of Don Van Vliet’s musical career. The album reunited Van Vliet with key musicians from earlier lineups, including John French, Bill Harkleroad, and Jeff Moris Tepper, and featured intricate compositions characterized by angular guitar lines, shifting rhythms, and cryptic lyrics. Recorded after a three year period of relative inactivity, the album marked a return to the raw, tightly structured style associated with Van Vliet’s late 1960s and early 1970s work. Critics at the time recognized Doc at the Radar Station as a revitalization of the Magic Band’s creative energy. Although it did not achieve mainstream commercial success, the album later gained recognition as one of Beefheart’s strongest late period achievements and an influential work in experimental rock.
 
 21. **Frank Zappa**  
     - Lumpy Gravy  
