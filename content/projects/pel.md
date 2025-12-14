@@ -5,6 +5,79 @@ tags: [history, greece, peloponnesian_war]
 summary: "A study of a selected topic from the Peloponnesian War."
 ---
 
+## What were World Events in context to the Peloponnesian War
+
+Although the Peloponnesian War ended in 404 BCE, its consequences shaped later centuries of Greek and Mediterranean history. By the time we reach the period between 100 BCE and 0, Greece had been absorbed into larger empires, while the centers of power in the Mediterranean had shifted. The following timeline provides a clear overview of key events in the final century before the Common Era. It shows how the world had changed since the era of Athenian and Spartan rivalry and how new imperial systems emerged in the aftermath of earlier Greek decline.
+
+The Peloponnesian War severely weakened both Athens and Sparta, leaving the Greek world fractured. In the fourth century BCE, Macedon under Philip II and Alexander the Great took advantage of this fragmentation and unified Greece. Alexander’s empire later broke into successor kingdoms known as the Hellenistic states. These kingdoms controlled Greece, Egypt, and parts of the Near East for the next two centuries. By 100 BCE, the political landscape was dominated not by independent Greek cities but by large territorial empires. Rome in the west and the Parthians in the east were now the major powers shaping events. Greek culture and learning remained influential, but Greek political independence had largely disappeared.
+
+The timeline below shows how the Mediterranean and surrounding regions evolved during 100 BCE to 0. It highlights the rise of the Roman Republic, its internal crises, its wars for dominance, and its transformation into the Roman Empire under Augustus. This helps us see how the world moved from the age of city states to the age of empires. The Peloponnesian War was an important turning point in this longer process: it marked the moment when Greek cities exhausted themselves and cleared the way for later Macedonian and then Roman expansion.
+
+
+100 BCE — Rome emerges as the dominant power in the western Mediterranean
+           • Greece is no longer independent. Macedonia has been a Roman province since 146 BCE.
+           • Many Greek cities retain cultural importance but not political autonomy.
+
+91–88 BCE — Social War between Rome and its Italian allies
+           • Rome expands citizenship to unify Italy.
+           • Shows the rise of large states, unlike the small city state conflicts of classical Greece.
+
+88–63 BCE — Mithridatic Wars between Rome and King Mithridates VI of Pontus
+           • These wars take place in the same regions that once belonged to the Athenian empire.
+           • Rome defeats a major Hellenistic monarch and extends control into Asia Minor.
+
+73–71 BCE — Spartacus leads a major slave revolt in Italy
+           • Demonstrates the social strains of Rome's expansion.
+           • Nothing comparable existed in the earlier Greek world at this scale.
+
+63 BCE — Pompey the Great annexes Syria and intervenes in Judea
+           • Roman power now reaches deep into the eastern Mediterranean.
+           • Greek successor kingdoms continue to fall.
+
+60–53 BCE — First Triumvirate (Caesar, Pompey, Crassus)
+           • Power in Rome shifts from republican institutions to strong individuals.
+           • Contrast this with the Peloponnesian War, where institutions like the Athenian Assembly still mattered.
+
+49–45 BCE — Caesar’s Civil War
+           • The Roman Republic collapses into internal conflict.
+           • Similar to Greek city state struggles but on a far larger scale due to Rome’s territorial size.
+
+44 BCE — Assassination of Julius Caesar
+           • Rome enters another cycle of civil wars.
+           • Marks the decline of the republic.
+
+31 BCE — Battle of Actium: Octavian defeats Antony and Cleopatra
+           • Last major Hellenistic kingdom, Egypt, falls to Rome.
+           • This is the final step in dismantling the political world formed after the Peloponnesian War.
+
+30 BCE — Egypt becomes a Roman province
+           • Greek cities now exist only inside larger imperial systems.
+
+27 BCE — Octavian takes the title Augustus
+           • Beginning of the Roman Empire.
+           • Greece becomes a peaceful cultural province inside a vast imperial structure.
+
+20–10 BCE — Roman cultural and architectural expansion
+           • Greek literature, philosophy, and science influence Roman education.
+           • Greek city states maintain prestige but no military power.
+
+0 — The Mediterranean world is fully Roman
+           • The system of competing Greek states that produced the Peloponnesian War no longer exists.
+           • Instead, a unified empire dominates from Spain to Syria.
+
+
+How This Timeline Puts the Peloponnesian War in Context
+
+The Peloponnesian War was not simply a Greek conflict. It was the beginning of a long decline in the political independence of Greek city states. After 404 BCE:
+	1.	Greece weakened itself through internal conflict.
+	2.	Macedon conquered Greece under Philip II in the mid-300s BCE.
+	3.	Alexander’s empire fragmented, creating Hellenistic kingdoms.
+	4.	Rome conquered those kingdoms, one by one.
+	5.	By 100 BCE, the world of independent Greek states was gone.
+
+By the year 0, the Mediterranean was dominated not by Athens or Sparta but by a centralized state with a professional army, advanced administration, and large territorial control. Greek culture survived, but its political independence had disappeared.
+
+
 ## How Does the Peloponnesian War Compare to Other Major Wars?
 
 The Peloponnesian War, fought between Athens and Sparta from 431 to 404 BCE, was a long conflict that reshaped the Greek world. It involved not only the forces of mainland Greece but also allies scattered across the Aegean Sea. This war was driven by fear, rivalry, and incompatible political cultures. To understand its importance, it is helpful to compare and contrast it with two major wars from other regions and eras: the Punic Wars between Rome and Carthage, fought from 264 to 146 BCE, and the Thirty Years’ War in central Europe, fought from 1618 to 1648 CE. All three conflicts illustrate long term competition for power, struggles over political identity, and widespread social consequences, yet each one unfolded in different technological, cultural, and religious contexts.
