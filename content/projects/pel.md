@@ -21,18 +21,90 @@ Despite these differences, all three conflicts reveal similar lessons about huma
 
 In conclusion, the Peloponnesian War, the Punic Wars, and the Thirty Years’ War were all major conflicts driven by the pursuit of power. They differed in scale, technology, and cultural context, but each one shows how rivalry, fear, and political structure can push societies into long and destructive fighting. Studying these wars together helps us understand the forces that shape history across different eras and regions.
 
-| Category | Peloponnesian War (431–404 BCE, Greece) | Punic Wars (264–146 BCE, Mediterranean) | Thirty Years’ War (1618–1648 CE, Europe) |
-|----------|------------------------------------------|--------------------------------------------|--------------------------------------------|
-| **Main Participants** | Athens and Sparta with their alliances | Rome and Carthage with regional allies | Catholic and Protestant states, plus France and Sweden |
-| **Primary Causes** | Fear of Athenian power, rivalry, political tension | Control of trade routes and Mediterranean dominance | Religious division and political competition |
-| **Geographic Scope** | Greek mainland and Aegean | Western Mediterranean including Italy, Sicily, Spain, and North Africa | Central Europe, especially German states |
-| **Political Systems** | Democracy vs oligarchy | Roman Republic vs Carthaginian mercantile empire | Monarchies and principalities aligned by religion |
-| **Alliances** | City state leagues with shifting loyalties | Strategic territorial alliances | Complex religious and political coalitions |
-| **Military Technology** | Hoplites, triremes, siege warfare | Professional armies, engineering corps, war elephants | Gunpowder weapons, artillery, fortified cities |
-| **Scale of Conflict** | Regional | Mediterranean wide | Continental |
-| **Social Impact** | Plague, economic strain, political turmoil | Destruction of Carthage, Roman expansion | Massive population loss, famine, economic collapse |
-| **Outcome** | Spartan victory and weakened Greek world | Roman dominance and rise of the Roman Empire | Treaty of Westphalia and development of state sovereignty |
-| **Key Themes** | Rivalry, fear, shifting alliances | Imperial ambition and total defeat of a rival | Religion mixed with politics, devastation on a vast scale |
+<table>
+  <thead>
+    <tr>
+      <th>Category</th>
+      <th>Peloponnesian War<br>(431–404 BCE, Greece)</th>
+      <th>Punic Wars<br>(264–146 BCE, Mediterranean)</th>
+      <th>Thirty Years’ War<br>(1618–1648 CE, Europe)</th>
+    </tr>
+  </thead>
+
+  <tbody>
+
+    <tr style="background-color:#f7f7f7;">
+      <td><strong>Main Participants</strong></td>
+      <td>Athens and Sparta with their alliances</td>
+      <td>Rome and Carthage with regional allies</td>
+      <td>Catholic and Protestant states, plus France and Sweden</td>
+    </tr>
+
+    <tr>
+      <td><strong>Primary Causes</strong></td>
+      <td>Fear of Athenian power and rivalry over influence</td>
+      <td>Control of trade routes and Mediterranean dominance</td>
+      <td>Religious division and interstate political competition</td>
+    </tr>
+
+    <tr style="background-color:#f7f7f7;">
+      <td><strong>Geographic Scope</strong></td>
+      <td>Greek mainland and the Aegean</td>
+      <td>Western Mediterranean including Italy, Sicily, Spain, and North Africa</td>
+      <td>Central Europe, especially the German states</td>
+    </tr>
+
+    <tr>
+      <td><strong>Political Systems</strong></td>
+      <td>Athenian democracy vs Spartan oligarchy</td>
+      <td>Roman Republic vs Carthaginian mercantile empire</td>
+      <td>Monarchies and principalities aligned by religion</td>
+    </tr>
+
+    <tr style="background-color:#f7f7f7;">
+      <td><strong>Alliances</strong></td>
+      <td>City state leagues with shifting loyalties</td>
+      <td>Strategic territorial alliances</td>
+      <td>Complex religious and political coalitions</td>
+    </tr>
+
+    <tr>
+      <td><strong>Military Technology</strong></td>
+      <td>Hoplites, triremes, siege warfare</td>
+      <td>Professional armies, engineering corps, war elephants</td>
+      <td>Gunpowder weapons, artillery, fortress warfare</td>
+    </tr>
+
+    <tr style="background-color:#f7f7f7;">
+      <td><strong>Scale of Conflict</strong></td>
+      <td>Regional</td>
+      <td>Mediterranean wide</td>
+      <td>Continental</td>
+    </tr>
+
+    <tr>
+      <td><strong>Social Impact</strong></td>
+      <td>Plague, economic strain, political instability</td>
+      <td>Destruction of Carthage and Roman expansion</td>
+      <td>Massive population loss, famine, and economic collapse</td>
+    </tr>
+
+    <tr style="background-color:#f7f7f7;">
+      <td><strong>Outcome</strong></td>
+      <td>Spartan victory and long term weakening of Greece</td>
+      <td>Roman dominance and the rise of the Roman Empire</td>
+      <td>Treaty of Westphalia and the rise of state sovereignty</td>
+    </tr>
+
+    <tr>
+      <td><strong>Key Themes</strong></td>
+      <td>Rivalry, fear, shifting alliances</td>
+      <td>Imperial ambition and annihilation of a rival</td>
+      <td>Religion intertwined with political power and widespread devastation</td>
+    </tr>
+
+  </tbody>
+</table>
 
 ## Who were the leaders in Athens and Sparta?
 
