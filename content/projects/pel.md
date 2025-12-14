@@ -5,7 +5,7 @@ tags: [history, greece, peloponnesian_war]
 summary: "A study of a selected topic from the Peloponnesian War."
 ---
 
-## What were World Events in context to the Peloponnesian War
+## What were World Events in context to the Peloponnesian War?
 
 
 The century from 500 to 400 BCE was one of the most dynamic periods in world history. While the Peloponnesian War reshaped Greece, other civilizations experienced their own transformations in philosophy, statecraft, art, and imperial expansion. This timeline shows how the conflict between Athens and Sparta fits into a broader world full of creativity and upheaval.
@@ -15,122 +15,80 @@ During this century, Greece entered its Classical Age, marked by architectural a
 
 Timeline: Major Global Events and Artists, 500–400 BCE
 
-500 BCE — Height of the Achaemenid Persian Empire under Darius I
-           • Empire stretches from Egypt to the Indus Valley.
-           • Administrative and architectural innovations flourish at Persepolis.
+## Timeline: Major Global Events and Artists, 500–400 BCE
 
-500 BCE — Late Vedic period in India
-           • Philosophical texts and early Upanishadic ideas circulate.
-           • Rise of regional kingdoms across northern India.
+- **500 BCE — Height of the Achaemenid Persian Empire under Darius I**
+  - Empire stretches from Egypt to the Indus Valley.
+  - Administrative and architectural innovations flourish at Persepolis.
 
-499–494 BCE — Ionian Revolt against Persia
-           • Greek cities in Asia Minor rebel.
-           • Persia prepares for retaliation against Athens and Eretria.
+- **500 BCE — Late Vedic period in India**
+  - Philosophical texts and early Upanishadic ideas circulate.
+  - Rise of regional kingdoms across northern India.
 
-490 BCE — Battle of Marathon
-           • Athens defeats Persia.
-           • Athenian democratic confidence rises.
+- **499–494 BCE — Ionian Revolt against Persia**
+  - Greek cities in Asia Minor rebel.
+  - Persia prepares for retaliation against Athens and Eretria.
 
-486 BCE — Death of Darius I; Xerxes I becomes king of Persia
-           • Oversees massive building projects.
-           • Prepares a large invasion of Greece.
+- **490 BCE — Battle of Marathon**
+  - Athens defeats Persia.
+  - Athenian democratic confidence rises.
 
-485–465 BCE — Reign of Xerxes I
-           • Expands imperial art and architecture.
+- **486 BCE — Xerxes I becomes king of Persia**
+  - Oversees building projects across the empire.
 
-484–425 BCE — Life of Herodotus
-           • Writes *The Histories*, establishing narrative historiography.
+- **484–425 BCE — Life of Herodotus**
+  - Writes *The Histories*, shaping the practice of inquiry.
 
-480 BCE — Battles of Thermopylae and Salamis
-           • Turning points in the Greco Persian Wars.
+- **480 BCE — Battles of Thermopylae and Salamis**
+  - Major turning points in Greco Persian conflict.
 
-479 BCE — Battle of Plataea
-           • Ends major Persian invasions.
+- **479 BCE — Battle of Plataea**
+  - Ends major Persian invasions of Greece.
 
-478 BCE — Formation of the Delian League
-           • Athens begins to control a maritime empire.
+- **478 BCE — Delian League forms**
+  - Athens begins to dominate Aegean politics.
 
-477–455 BCE — Early Classical sculpture period
-           • Artists such as Myron create naturalistic bronze sculptures.
-           • Development of contrapposto in Greek art.
+- **470–399 BCE — Life of Socrates**
+  - Develops early philosophical methods.
 
-475–450 BCE — Confucian and early Chinese philosophical texts develop
-           • Teachings of Confucius shape political and ethical thought.
+- **468–409 BCE — Career of Sophocles**
+  - Writes *Antigone*, *Oedipus Rex*, and other tragedies.
 
-470–399 BCE — Life of Socrates
-           • Establishes foundational ideas for Western philosophy.
+- **460 BCE — Rise of Periclean Athens**
+  - Major civic building programs begin.
 
-468–409 BCE — Career of Sophocles
-           • Writes *Antigone*, *Oedipus Rex*, and other tragedies.
+- **460–445 BCE — First Peloponnesian War**
+  - Early struggles between Athens and Sparta.
 
-460 BCE — Rise of Periclean Athens
-           • Civic building programs expand.
-           • Athens becomes the cultural center of the Greek world.
+- **447–432 BCE — Parthenon constructed**
+  - Directed by Phidias; peak of Classical Greek art.
 
-460–445 BCE — First Peloponnesian War
-           • Athens and Sparta contest influence.
+- **431 BCE — Peloponnesian War begins**
+  - Sparta and Athens enter a prolonged conflict.
 
-459–454 BCE — Aeschylus produces major tragedies
-           • Including *Oresteia*, advancing dramatic art.
+- **430–426 BCE — Plague of Athens**
+  - Severe demographic and political consequences.
 
-450 BCE — Roman Twelve Tables drafted
-           • First formal codification of Roman law.
+- **421 BCE — Peace of Nicias**
+  - Brief pause in fighting.
 
-447–432 BCE — Construction of the Parthenon under Pericles
-           • Architects: Iktinos and Kallikrates.
-           • Sculptural direction by Phidias.
-           • Peak of Classical Greek architectural innovation.
+- **415–413 BCE — Sicilian Expedition**
+  - Athenian disaster at Syracuse.
 
-445 BCE — Thirty Years’ Peace between Athens and Sparta
-           • Temporary truce.
+- **404 BCE — End of Peloponnesian War**
+  - Athens surrenders; Sparta becomes dominant.
 
-440–430 BCE — High Classical art reaches maturity
-           • Polykleitos writes the *Canon* and sculpts the *Doryphoros*.
-           • Sets ideal proportions for Western sculpture.
+- **403 BCE — Democratic restoration in Athens**
+  - After the collapse of the Thirty Tyrants.
 
-431 BCE — Peloponnesian War begins
-           • Sparta fears Athenian growth.
-           • War becomes struggle between land and naval powers.
+- **401 BCE — March of the Ten Thousand**
+  - Xenophon's account illustrates Persian imperial structure.
 
-430–426 BCE — Plague of Athens
-           • Significant population loss, including Pericles.
+- **400 BCE — China enters Warring States period**
+  - Rapid political and intellectual transformation.
 
-429 BCE — Death of Pericles
-           • Athenian leadership shifts toward more aggressive strategies.
-
-425 BCE — Athenians win at Sphacteria
-           • Temporary shift in momentum.
-
-421 BCE — Peace of Nicias
-           • Brief pause in hostilities.
-
-415–413 BCE — Sicilian Expedition
-           • Enormous Athenian military disaster at Syracuse.
-
-413–404 BCE — Persian funding strengthens Sparta
-           • Sparta builds fleet with Persian gold.
-           • Athens loses allies and resources.
-
-408–406 BCE — Late works of Euripides and Sophocles
-           • Artistic innovation continues during wartime.
-
-404 BCE — Athens surrenders; end of Peloponnesian War
-           • Sparta becomes leading Greek state.
-
-403 BCE — Restoration of democracy in Athens
-           • After overthrow of the Thirty Tyrants.
-
-401 BCE — March of the Ten Thousand in Persia
-           • Greek mercenaries' retreat described later by Xenophon in *Anabasis*.
-
-400 BCE — Chinese states enter Warring States period
-           • Intensified political competition and philosophical development.
-
-400 BCE — Early expansion of Magadha in India
-           • Sets stage for future Maurya Empire centuries later.
-
-400 BCE — Greece remains politically unstable
-           • Sparta struggles to maintain dominance.
+- **400 BCE — India sees rise of Magadha**
+  - Foundation for future imperial expansion.
 
 Why This Timeline Matters
 
