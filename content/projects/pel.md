@@ -124,17 +124,17 @@ Despite these differences, all three conflicts reveal similar lessons about huma
 In conclusion, the Peloponnesian War, the Punic Wars, and the Thirty Years’ War were all major conflicts driven by the pursuit of power. They differed in scale, technology, and cultural context, but each one shows how rivalry, fear, and political structure can push societies into long and destructive fighting. Studying these wars together helps us understand the forces that shape history across different eras and regions.
 
 | Category | Peloponnesian War | Punic Wars | Thirty Years’ War |
-|----------|--------------------|------------|--------------------|
-| ▪︎ **Main Participants** | Athens and Sparta with their alliances | Rome and Carthage with allies | Catholic and Protestant states, France, Sweden |
-| ▫︎ **Primary Causes** | Fear of Athenian power and rivalry | Control of Mediterranean trade and territory | Religious conflict and political struggle |
-| ▪︎ **Geographic Scope** | Greek mainland and Aegean | Western Mediterranean | Central Europe |
-| ▫︎ **Political Systems** | Democracy vs oligarchy | Roman Republic vs Carthaginian empire | Monarchies and principalities |
-| ▪︎ **Alliances** | City state leagues with shifting loyalties | Territorial alliances | Complex religious and political coalitions |
-| ▫︎ **Military Technology** | Hoplites, triremes, siege warfare | War elephants, fleets, engineers | Gunpowder, artillery, fortress warfare |
-| ▪︎ **Scale of Conflict** | Regional | Mediterranean wide | Continental |
-| ▫︎ **Social Impact** | Plague, economic strain, instability | Destruction of Carthage, Roman rise | Massive population loss and famine |
-| ▪︎ **Outcome** | Spartan victory and weakened Greece | Roman dominance and empire formation | Treaty of Westphalia and state sovereignty |
-| ▫︎ **Key Themes** | Rivalry, fear, shifting alliances | Imperial ambition, total defeat | Religion and politics mixed with devastation |
+|---------|-------------------|------------|-------------------|
+| **Main Participants** | Athens and Sparta with their alliances | Rome and Carthage with allies | Catholic and Protestant states, France, Sweden |
+| **Primary Causes** | Fear of Athenian power and rivalry | Control of Mediterranean trade and territory | Religious conflict and political struggle |
+| **Geographic Scope** | Greek mainland and Aegean | Western Mediterranean | Central Europe |
+| **Political Systems** | Democracy vs oligarchy | Roman Republic vs Carthaginian empire | Monarchies and principalities |
+| **Alliances** | City state leagues with shifting loyalties | Territorial alliances | Complex religious and political coalitions |
+| **Military Technology** | Hoplites, triremes, siege warfare | War elephants, fleets, engineers | Gunpowder, artillery, fortress warfare |
+| **Scale of Conflict** | Regional | Mediterranean wide | Continental |
+| **Social Impact** | Plague, economic strain, instability | Destruction of Carthage, Roman rise | Massive population loss and famine |
+| **Outcome** | Spartan victory and weakened Greece | Roman dominance and empire formation | Treaty of Westphalia and state sovereignty |
+| **Key Themes** | Rivalry, fear, shifting alliances | Imperial ambition, total defeat | Religion and politics mixed with devastation |
 
 ## Who were the leaders in Athens and Sparta?
 
