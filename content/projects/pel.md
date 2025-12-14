@@ -13,8 +13,6 @@ The century from 500 to 400 BCE was one of the most dynamic periods in world his
 During this century, Greece entered its Classical Age, marked by architectural achievements such as the Parthenon and the dramatic works of Aeschylus, Sophocles, and Euripides. In China, the era of Confucius laid new foundations for moral and political thought. In India, late Vedic traditions evolved into early forms of kingdoms and philosophical schools. Meanwhile, the Persian Empire reached the height of its power, and Rome took early steps toward becoming a Mediterranean power. Understanding these developments helps place the Peloponnesian War within a global frame rather than viewing it as an isolated conflict.
 
 
-Timeline: Major Global Events and Artists, 500–400 BCE
-
 ## Timeline: Major Global Events and Artists, 500–400 BCE
 
 - **500 BCE — Height of the Achaemenid Persian Empire under Darius I**
