@@ -7,75 +7,148 @@ summary: "A study of a selected topic from the Peloponnesian War."
 
 ## What were World Events in context to the Peloponnesian War
 
-Although the Peloponnesian War ended in 404 BCE, its consequences shaped later centuries of Greek and Mediterranean history. By the time we reach the period between 100 BCE and 0, Greece had been absorbed into larger empires, while the centers of power in the Mediterranean had shifted. The following timeline provides a clear overview of key events in the final century before the Common Era. It shows how the world had changed since the era of Athenian and Spartan rivalry and how new imperial systems emerged in the aftermath of earlier Greek decline.
 
-The Peloponnesian War severely weakened both Athens and Sparta, leaving the Greek world fractured. In the fourth century BCE, Macedon under Philip II and Alexander the Great took advantage of this fragmentation and unified Greece. Alexander’s empire later broke into successor kingdoms known as the Hellenistic states. These kingdoms controlled Greece, Egypt, and parts of the Near East for the next two centuries. By 100 BCE, the political landscape was dominated not by independent Greek cities but by large territorial empires. Rome in the west and the Parthians in the east were now the major powers shaping events. Greek culture and learning remained influential, but Greek political independence had largely disappeared.
+The century from 500 to 400 BCE was one of the most dynamic periods in world history. While the Peloponnesian War reshaped Greece, other civilizations experienced their own transformations in philosophy, statecraft, art, and imperial expansion. This timeline shows how the conflict between Athens and Sparta fits into a broader world full of creativity and upheaval.
 
-The timeline below shows how the Mediterranean and surrounding regions evolved during 100 BCE to 0. It highlights the rise of the Roman Republic, its internal crises, its wars for dominance, and its transformation into the Roman Empire under Augustus. This helps us see how the world moved from the age of city states to the age of empires. The Peloponnesian War was an important turning point in this longer process: it marked the moment when Greek cities exhausted themselves and cleared the way for later Macedonian and then Roman expansion.
-
-
-100 BCE — Rome emerges as the dominant power in the western Mediterranean
-           • Greece is no longer independent. Macedonia has been a Roman province since 146 BCE.
-           • Many Greek cities retain cultural importance but not political autonomy.
-
-91–88 BCE — Social War between Rome and its Italian allies
-           • Rome expands citizenship to unify Italy.
-           • Shows the rise of large states, unlike the small city state conflicts of classical Greece.
-
-88–63 BCE — Mithridatic Wars between Rome and King Mithridates VI of Pontus
-           • These wars take place in the same regions that once belonged to the Athenian empire.
-           • Rome defeats a major Hellenistic monarch and extends control into Asia Minor.
-
-73–71 BCE — Spartacus leads a major slave revolt in Italy
-           • Demonstrates the social strains of Rome's expansion.
-           • Nothing comparable existed in the earlier Greek world at this scale.
-
-63 BCE — Pompey the Great annexes Syria and intervenes in Judea
-           • Roman power now reaches deep into the eastern Mediterranean.
-           • Greek successor kingdoms continue to fall.
-
-60–53 BCE — First Triumvirate (Caesar, Pompey, Crassus)
-           • Power in Rome shifts from republican institutions to strong individuals.
-           • Contrast this with the Peloponnesian War, where institutions like the Athenian Assembly still mattered.
-
-49–45 BCE — Caesar’s Civil War
-           • The Roman Republic collapses into internal conflict.
-           • Similar to Greek city state struggles but on a far larger scale due to Rome’s territorial size.
-
-44 BCE — Assassination of Julius Caesar
-           • Rome enters another cycle of civil wars.
-           • Marks the decline of the republic.
-
-31 BCE — Battle of Actium: Octavian defeats Antony and Cleopatra
-           • Last major Hellenistic kingdom, Egypt, falls to Rome.
-           • This is the final step in dismantling the political world formed after the Peloponnesian War.
-
-30 BCE — Egypt becomes a Roman province
-           • Greek cities now exist only inside larger imperial systems.
-
-27 BCE — Octavian takes the title Augustus
-           • Beginning of the Roman Empire.
-           • Greece becomes a peaceful cultural province inside a vast imperial structure.
-
-20–10 BCE — Roman cultural and architectural expansion
-           • Greek literature, philosophy, and science influence Roman education.
-           • Greek city states maintain prestige but no military power.
-
-0 — The Mediterranean world is fully Roman
-           • The system of competing Greek states that produced the Peloponnesian War no longer exists.
-           • Instead, a unified empire dominates from Spain to Syria.
+During this century, Greece entered its Classical Age, marked by architectural achievements such as the Parthenon and the dramatic works of Aeschylus, Sophocles, and Euripides. In China, the era of Confucius laid new foundations for moral and political thought. In India, late Vedic traditions evolved into early forms of kingdoms and philosophical schools. Meanwhile, the Persian Empire reached the height of its power, and Rome took early steps toward becoming a Mediterranean power. Understanding these developments helps place the Peloponnesian War within a global frame rather than viewing it as an isolated conflict.
 
 
-How This Timeline Puts the Peloponnesian War in Context
+Timeline: Major Global Events and Artists, 500–400 BCE
 
-The Peloponnesian War was not simply a Greek conflict. It was the beginning of a long decline in the political independence of Greek city states. After 404 BCE:
-	1.	Greece weakened itself through internal conflict.
-	2.	Macedon conquered Greece under Philip II in the mid-300s BCE.
-	3.	Alexander’s empire fragmented, creating Hellenistic kingdoms.
-	4.	Rome conquered those kingdoms, one by one.
-	5.	By 100 BCE, the world of independent Greek states was gone.
+500 BCE — Height of the Achaemenid Persian Empire under Darius I
+           • Empire stretches from Egypt to the Indus Valley.
+           • Administrative and architectural innovations flourish at Persepolis.
 
-By the year 0, the Mediterranean was dominated not by Athens or Sparta but by a centralized state with a professional army, advanced administration, and large territorial control. Greek culture survived, but its political independence had disappeared.
+500 BCE — Late Vedic period in India
+           • Philosophical texts and early Upanishadic ideas circulate.
+           • Rise of regional kingdoms across northern India.
+
+499–494 BCE — Ionian Revolt against Persia
+           • Greek cities in Asia Minor rebel.
+           • Persia prepares for retaliation against Athens and Eretria.
+
+490 BCE — Battle of Marathon
+           • Athens defeats Persia.
+           • Athenian democratic confidence rises.
+
+486 BCE — Death of Darius I; Xerxes I becomes king of Persia
+           • Oversees massive building projects.
+           • Prepares a large invasion of Greece.
+
+485–465 BCE — Reign of Xerxes I
+           • Expands imperial art and architecture.
+
+484–425 BCE — Life of Herodotus
+           • Writes *The Histories*, establishing narrative historiography.
+
+480 BCE — Battles of Thermopylae and Salamis
+           • Turning points in the Greco Persian Wars.
+
+479 BCE — Battle of Plataea
+           • Ends major Persian invasions.
+
+478 BCE — Formation of the Delian League
+           • Athens begins to control a maritime empire.
+
+477–455 BCE — Early Classical sculpture period
+           • Artists such as Myron create naturalistic bronze sculptures.
+           • Development of contrapposto in Greek art.
+
+475–450 BCE — Confucian and early Chinese philosophical texts develop
+           • Teachings of Confucius shape political and ethical thought.
+
+470–399 BCE — Life of Socrates
+           • Establishes foundational ideas for Western philosophy.
+
+468–409 BCE — Career of Sophocles
+           • Writes *Antigone*, *Oedipus Rex*, and other tragedies.
+
+460 BCE — Rise of Periclean Athens
+           • Civic building programs expand.
+           • Athens becomes the cultural center of the Greek world.
+
+460–445 BCE — First Peloponnesian War
+           • Athens and Sparta contest influence.
+
+459–454 BCE — Aeschylus produces major tragedies
+           • Including *Oresteia*, advancing dramatic art.
+
+450 BCE — Roman Twelve Tables drafted
+           • First formal codification of Roman law.
+
+447–432 BCE — Construction of the Parthenon under Pericles
+           • Architects: Iktinos and Kallikrates.
+           • Sculptural direction by Phidias.
+           • Peak of Classical Greek architectural innovation.
+
+445 BCE — Thirty Years’ Peace between Athens and Sparta
+           • Temporary truce.
+
+440–430 BCE — High Classical art reaches maturity
+           • Polykleitos writes the *Canon* and sculpts the *Doryphoros*.
+           • Sets ideal proportions for Western sculpture.
+
+431 BCE — Peloponnesian War begins
+           • Sparta fears Athenian growth.
+           • War becomes struggle between land and naval powers.
+
+430–426 BCE — Plague of Athens
+           • Significant population loss, including Pericles.
+
+429 BCE — Death of Pericles
+           • Athenian leadership shifts toward more aggressive strategies.
+
+425 BCE — Athenians win at Sphacteria
+           • Temporary shift in momentum.
+
+421 BCE — Peace of Nicias
+           • Brief pause in hostilities.
+
+415–413 BCE — Sicilian Expedition
+           • Enormous Athenian military disaster at Syracuse.
+
+413–404 BCE — Persian funding strengthens Sparta
+           • Sparta builds fleet with Persian gold.
+           • Athens loses allies and resources.
+
+408–406 BCE — Late works of Euripides and Sophocles
+           • Artistic innovation continues during wartime.
+
+404 BCE — Athens surrenders; end of Peloponnesian War
+           • Sparta becomes leading Greek state.
+
+403 BCE — Restoration of democracy in Athens
+           • After overthrow of the Thirty Tyrants.
+
+401 BCE — March of the Ten Thousand in Persia
+           • Greek mercenaries' retreat described later by Xenophon in *Anabasis*.
+
+400 BCE — Chinese states enter Warring States period
+           • Intensified political competition and philosophical development.
+
+400 BCE — Early expansion of Magadha in India
+           • Sets stage for future Maurya Empire centuries later.
+
+400 BCE — Greece remains politically unstable
+           • Sparta struggles to maintain dominance.
+
+Why This Timeline Matters
+
+1. It shows that Greece’s Golden Age unfolded alongside major global changes.
+
+China, India, Persia, and early Rome were all developing political and philosophical foundations that shaped their later histories.
+
+2. Artists and thinkers thrived even in wartime.
+
+Sophocles, Euripides, Herodotus, Socrates, Phidias, and Polykleitos represent some of the greatest creative minds in history.
+
+3. The Peloponnesian War was part of a deeper transformation.
+
+Greek internal conflict weakened the city states, paving the way for Macedonian expansion and later Hellenistic and Roman dominance.
+
+4. The century was globally interconnected in its patterns.
+
+Large empires rose, philosophical systems formed, and artistic traditions matured—all during the same hundred-year window.
 
 
 ## How Does the Peloponnesian War Compare to Other Major Wars?
