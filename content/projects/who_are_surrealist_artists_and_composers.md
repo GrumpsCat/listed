@@ -20,10 +20,12 @@ layout: article
    - Jeux  
    - La Mer  
 
-3. **Olivier Messiaen**  
+3. **Olivier Messiaen**
+  Olivier Messiaen was a French composer, organist, and teacher who lived from 1908 to 1992 and became one of the most influential musical figures of the twentieth century. His work is known for its use of modes of limited transposition, which are scale patterns that can only be transposed a small number of times before repeating themselves, and for complex rhythmic systems inspired by ancient Greek meters and Hindu talas, which are rhythmic cycles found in Indian classical music. Messiaen was also deeply interested in birdsong, which he considered the purest form of natural music. He carefully transcribed bird calls in the field and used them as musical material throughout his life. As the organist at the Church of La Trinité in Paris for more than sixty years, he developed a style that combined Catholic mysticism, vivid color inspired by his synesthetic perception of harmony, and innovative orchestration. His teaching at the Paris Conservatory influenced many later composers and helped shape the course of modern classical music.
    - Turangalila Symphony  
    - Quartet for the End of Time  
    - Catalogue d’oiseaux  
+   Catalogue d’oiseaux, which means Catalogue of Birds in French, is a large cycle for solo piano composed by Olivier Messiaen between 1956 and 1958. A musical cycle is a collection of pieces designed to form a unified whole. The work contains thirteen movements, each based on the song of a specific bird species found in different regions of France. Messiaen used detailed field observations to notate the rhythms and pitches of bird calls, then wove them into piano textures that also depict the landscapes, times of day, and surrounding natural sounds associated with each bird. The piece belongs to Messiaen’s later period, when birdsong became his primary source of musical material. Catalogue d’oiseaux explores not only melodic imitation but also ecological context, meaning it seeks to place each bird within its environment through harmonic color and rhythmic contrast. The result is one of the most ambitious works in twentieth century piano literature and a major statement of Messiaen’s belief that nature and spirituality are closely connected.
 
 4. **Edgard Varese**  
    - Ionisation  
