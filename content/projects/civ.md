@@ -1,12 +1,12 @@
 ---
-title: "How did early civilizations compare?"
+title: "How Did Early Civilizations Compare?"
 date: 2026-01-10
 tags: ["history", "ancient world", "civilizations", "comparative history"]
 categories: ["Essays"]
 summary: "A structured overview of major early civilizations from 3000 BCE to 350 CE, including their cultures, religions, concrete contributions, and how each society declined or transformed."
 ---
 
-## How did early civilizations compare?
+## What Were Major Contributions of Early Civilizations?
 Introduction
 
 A civilization is a complex society with cities, organized government, economic systems, social hierarchy, and shared cultural traditions. Between roughly 3000 BCE and 350 CE, multiple independent civilizations developed across the world. These societies created writing systems, legal traditions, religious systems, architecture, and political institutions that shaped later history.
