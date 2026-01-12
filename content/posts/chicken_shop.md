@@ -1,9 +1,8 @@
 ---
-title: "Why are there so many CHicken Shops in Korea?"
+title: "Why are there so many Chicken Shops in Korea?"
 date: 2026-01-11
 description: "An explanation of the chicken shop phenomenon in South Korea and its parallels in other countries."
 ---
-
 
 The chicken shop phenomenon refers to the striking overconcentration of fried chicken restaurants in certain urban and suburban areas, most famously in **South Korea**, where chicken shops have become both an economic pattern and a cultural symbol.
 
