@@ -1,6 +1,6 @@
 ---
 title: "How would an Alien Planet Collect Energy?"
-date: "January 17, 2026"
+date: 2026-01-17
 description: "An educational exploration of Dyson spheres, stellar energy collection, and Matrioshka brains in advanced alien civilizations."
 ---
 
