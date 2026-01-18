@@ -1,5 +1,5 @@
 ---
-title: "How would an Alien Planet Collect Energy?"
+title: "How could an Alien Planet Collect Energy?"
 date: 2026-01-17
 description: "An educational exploration of Dyson spheres, stellar energy collection, and Matrioshka brains in advanced alien civilizations."
 ---
