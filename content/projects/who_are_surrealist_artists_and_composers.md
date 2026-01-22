@@ -144,9 +144,11 @@ Captain Beefheart, born Don Van Vliet on January 15, 1941, was an American music
     - Not Available  
 
 23. **Magma**  
+Magma is a French band founded in 1969 by drummer, composer, and bandleader Christian Vander. Emerging from the post–1968 avant-garde scene, Magma created a highly distinctive musical universe centered on a fictional civilization from the planet Kobaïa, sung largely in Kobaïan, a constructed language devised by Vander. Musically, the band is best known for pioneering the genre **Zeuhl**, a style combining elements of progressive rock, jazz fusion, avant-garde classical music, minimalism, and choral writing. Their sound is characterized by relentless rhythmic repetition, militaristic drumming, operatic vocals, modal harmony, and strong influence from composers such as Stravinsky and Carl Orff, as well as from John Coltrane’s late spiritual jazz. Over decades of changing lineups, Magma has remained singular in intent, focusing less on conventional rock structures and more on ritualistic, trance-like compositions that blur the boundaries between rock, classical, and experimental music.
     - Mekanik Destruktiw Kommandoh  
     - Udu Wudu  
     - K. A.  
+    K.A. is one of Magma’s major long-form works, composed by Christian Vander in the early 1970s but not fully recorded and released until 2004. The title stands for Köhntarkösz Anteria, and the album functions as both a prequel and thematic counterpart to the earlier Mëkanïk Dëstruktïẁ Kömmandöh. K.A. tells the story of Köhntarkösz’s spiritual awakening through ancient knowledge, expressed through extended vocal sections, dense choral writing, and slow-building rhythmic cycles. Stylistically, the album emphasizes austerity and gravity, with fewer rock gestures and a stronger focus on repetitive motifs, chanting, and harmonic suspension. The music unfolds gradually, creating a sense of inevitability rather than drama, and exemplifies Magma’s mature Zeuhl style, where narrative, rhythm, and ritual are fused into a single, immersive musical structure.
 
 24. **Can**  
     - Tago Mago  
