@@ -1,5 +1,5 @@
 ---
-title: "How New Particles Are Made?"
+title: "How New Particles Are Found?"
 subtitle: "Modern Particle Accelerators and the Physics of Discovery"
 date: 2026-02-03
 categories:
