@@ -1,5 +1,5 @@
 ---
-title: "How New Particles Are Made"
+title: "How New Particles Are Made?"
 subtitle: "Modern Particle Accelerators and the Physics of Discovery"
 date: 2026-02-03
 categories:
@@ -136,5 +136,3 @@ Accelerators are also used in medicine for cancer therapy, in industry for mater
 ## Conclusion
 
 Modern particle accelerators are essential tools for exploring both the smallest components of matter and the largest questions about the universe. While the Large Hadron Collider dominates high energy frontier research, facilities such as Fermilab, DESY, and SLAC demonstrate the diversity of accelerator design and scientific goals. Together, these machines form a global infrastructure that advances fundamental knowledge and delivers practical benefits across many scientific disciplines.
-
-If you want, next we can convert this into a shorter academic essay, add a comparison table, or rewrite it in a more philosophical or historical tone.
