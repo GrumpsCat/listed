@@ -37,10 +37,6 @@ Mining and processing rare earth minerals present environmental and geopolitical
 
 In summary, rare earth minerals form the backbone of many technologies that define modern life. From renewable energy and electric transportation to medical imaging and consumer electronics, these elements enable performance levels that would otherwise be impossible. While some rare earths such as neodymium and dysprosium receive the most attention, even the less prominent elements play vital roles in specialized applications. As demand grows, efficient recycling, alternative materials, and responsible mining practices will become increasingly important to ensure long term access to these critical resources.
 
-Below is a **Hugo-friendly Markdown list**, ordered roughly by **technological and economic importance today**, not by crustal abundance alone.
-Each entry defines the element, notes relative abundance, key uses, and highlights extraction or processing differences.
-All terms are explained inline.
-
 ---
 
 ## Rare Earth Elements Ranked by Importance
